@@ -1,6 +1,6 @@
-# Crates & Traders Overview
+# Crates Overview
 
-Oakheart features multiple crate types and special traders where you can exchange currencies for rewards.
+Oakheart features multiple crate types that reward you with valuable items, resources, and exclusive rewards.
 
 ---
 
@@ -17,12 +17,11 @@ Oakheart features multiple crate types and special traders where you can exchang
 
 ---
 
-## Special Currencies
+## Crate Crystals
 
-| Currency | How to Earn | Where to Spend |
-|----------|-------------|----------------|
-| **Vote Tokens** | 1 per vote (5/day) | Token Trader (Merchant Bramblewood) |
-| **Crate Crystals** | Rare crate drops | Crystal Trader (Crystalkeeper Shimmervale) |
+Crates can drop **Crate Crystals**, a special currency you can trade with Crystalkeeper Shimmervale for guaranteed rewards and exclusive cosmetics.
+
+[Learn more about Traders →](../traders/overview.md)
 
 ---
 
@@ -123,167 +122,12 @@ Seasonal crates contain **exclusive items** only available during that event.
 
 ---
 
-## Crystal Trader
-
-**NPC:** Crystalkeeper Shimmervale
-**Location:** Crates Pavilion
-
-Trade Crate Crystals for exclusive cosmetics and guaranteed valuable items.
-
-### Exclusive Cosmetics (Cottagecore Theme)
-
-**Cottage Armor Set** (custom textured leather armor)
-| Item | Cost |
-|------|------|
-| Cottage Hat | 30 crystals |
-| Cottage Tunic | 40 crystals |
-| Cottage Pants | 35 crystals |
-| Cottage Boots | 25 crystals |
-| **Full Set** | **130 crystals** |
-
-**Cottagecore Tools**
-| Item | Cost |
-|------|------|
-| Gardener's Hoe | 80 crystals |
-| Forester's Axe | 80 crystals |
-
-**Decorative Items**
-| Item | Cost |
-|------|------|
-| Lantern Collection (5 designs) | 50 crystals |
-| Plushie Bundle (5 random) | 45 crystals |
-| Cosmetic Oak Sapling | 35 crystals |
-
-### Pity Rewards (Guaranteed Items)
-
-For unlucky crate streaks:
-| Item | Cost |
-|------|------|
-| 16 Diamonds | 45 crystals |
-| Mending Book | 60 crystals |
-| 4 Ancient Debris | 70 crystals |
-| Heart of the Sea | 75 crystals |
-| Netherite Upgrade Template | 90 crystals |
-
-### Crate Key Escalation
-
-| Key Type | Cost |
-|----------|------|
-| 1 Vote Key | 20 crystals |
-| 5 Vote Keys | 90 crystals |
-| Paid Crate Key T1 | 80 crystals |
-| Paid Crate Key T2 | 120 crystals |
-| Paid Crate Key T3 | 180 crystals |
-
-### Resources
-
-| Item | Cost |
-|------|------|
-| 1 Emerald Block | 25 crystals |
-| 1 Diamond Block | 40 crystals |
-| 1 Netherite Block | 150 crystals |
-| 1 Claim Chunk | 35 crystals |
-| 5 Claim Chunks | 150 crystals |
-
----
-
-## Token Trader
-
-**NPC:** Merchant Bramblewood
-**Location:** Spawn Marketplace (near Ancient Stone Circle)
-
-Trade Vote Tokens for useful items. **Some items have weekly limits!**
-
-### Token Earning Rate
-- 1 token per vote site
-- 5 tokens/day (voting all sites)
-- 35 tokens/week
-- 150 tokens/month
-
-### Weekly-Limited Items
-
-**Reset:** Monday 00:00 server time
-
-| Item | Cost | Weekly Limit |
-|------|------|--------------|
-| 2 Ancient Debris | 30 tokens | 2/week |
-| 1 Echo Shard | 35 tokens | 2/week |
-| 1 Heart of the Sea | 90 tokens | 1/week |
-| 1 Totem of Undying | 40 tokens | 1/week |
-| 1 Dragon Head | 60 tokens | 1/week |
-
-{% hint style="info" %}
-**Why weekly limits?** Prevents bypassing the Smith progression grind while still helping dedicated voters.
-{% endhint %}
-
-### Unlimited Items
-
-**Claim Chunks**
-| Amount | Cost |
-|--------|------|
-| 2 Claim Chunks | 20 tokens |
-| 5 Claim Chunks | 45 tokens |
-| 10 Claim Chunks | 80 tokens |
-
-**Utility**
-| Item | Cost |
-|------|------|
-| 1 Shulker Box | 50 tokens |
-| 1 Elytra | 85 tokens |
-| 16 XP Bottles | 12 tokens |
-| 1 Ender Chest | 25 tokens |
-
-**Food & Consumables**
-| Item | Cost |
-|------|------|
-| 32 Golden Carrots | 15 tokens |
-| 8 Golden Apples | 25 tokens |
-| 16 Bone Meal | 5 tokens |
-
-**Building Materials**
-| Item | Cost |
-|------|------|
-| 64 Terracotta (random) | 10 tokens |
-| 64 Concrete Powder (random) | 10 tokens |
-| 32 Packed Ice | 8 tokens |
-| 64 Scaffolding | 12 tokens |
-
-**Cottagecore Decoratives**
-| Item | Cost |
-|------|------|
-| Wicker Basket | 55 tokens |
-| Copper Watering Can | 45 tokens |
-| Decorative Wheat Sheaf | 30 tokens |
-| Stone Garden Bench | 70 tokens |
-
-### Cross-Currency Conversion
-
-| Trade | Cost |
-|-------|------|
-| 1 Crate Crystal | 100 tokens |
-
-*20 days of perfect voting = 1 crystal via tokens*
-
----
-
-## Crate Crystals Drop Rates
-
-| Source | Rate |
-|--------|------|
-| Vote Crate | ~1-2% (2 crystals) |
-| Paid Crates | Higher rates |
-
-Crystals are a pity system—even unlucky crate openers can eventually afford guaranteed rewards.
-
----
-
 ## Tips
 
-1. **Vote every day** — 5 keys + 5 tokens adds up fast
-2. **Save crystals for exclusives** — The Cottage Set is unique!
-3. **Plan weekly token spending** — Budget for smith materials vs. other items
-4. **Check seasonal crates** — Limited-time exclusives don't return
-5. **Don't sleep on Token Trader claim chunks** — Best value for expanding territory
+1. **Vote every day** — 5 keys daily adds up fast
+2. **Save crystals for exclusives** — Trade them at the Crystal Trader
+3. **Check seasonal crates** — Limited-time exclusives don't return
+4. **Open crates in bulk** — More satisfying and efficient
 
 ---
 
@@ -291,5 +135,5 @@ Crystals are a pity system—even unlucky crate openers can eventually afford gu
 
 - [Vote Crate](vote-crate.md) — Full loot table
 - [Paid Crates](paid-crates.md) — Store crate details
-- [Crystal Trader](crystal-trader.md) — Complete crystal shop
-- [Token Trader](token-trader.md) — Complete token shop
+- [Emerald Crate](emerald-crate.md) — Emerald sink crate
+- [Traders Overview](../traders/overview.md) — Token and Crystal Traders

@@ -31,12 +31,18 @@
 * [Sub-Areas](claiming/sub-areas.md)
 * [Land Management](claiming/land-management.md)
 
-## Crates & Traders
+## Crates
 
 * [Overview](crates/overview.md)
 * [Vote Crate](crates/vote-crate.md)
-* [Crystal Trader](crates/crystal-trader.md)
-* [Token Trader](crates/token-trader.md)
+* [Paid Crates](crates/paid-crates.md)
+* [Emerald Crate](crates/emerald-crate.md)
+
+## Traders
+
+* [Overview](traders/overview.md)
+* [Token Trader](traders/token-trader.md)
+* [Crystal Trader](traders/crystal-trader.md)
 
 ## Smith System
 
@@ -50,6 +56,9 @@
 * [Player Warps](features/player-warps.md)
 * [Homes](features/homes.md)
 * [Building Tools](features/tools.md)
+* [Quality of Life](features/quality-of-life.md)
+* [Voice Chat](features/voice-chat.md)
+* [Resource World](features/resource-world.md)
 * [Pets](features/pets.md)
 
 ## Community
