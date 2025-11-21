@@ -48,20 +48,20 @@ Reforged items are the first upgrade tier. They require:
 | Item | Key Materials | Emerald Blocks |
 |------|--------------|----------------|
 | Helmet | Dragon Head, 32 Dragon's Breath | 32 |
-| Chestplate | 16 Netherite Blocks, 2 Hearts of the Sea | - |
+| Chestplate | 16 Netherite Blocks, 2 Hearts of the Sea, 48 Crying Obsidian | - |
 | Leggings | 12 Echo Shards, 2 Enchanted Golden Apples | 48 |
 | Boots | 8 Breeze Rods, 24 Phantom Membrane | 24 |
 | Sword | Music Disc "Pigstep", 3 Nether Stars | 32 |
-| Bow | Music Disc "Relic", 48 Phantom Membrane | - |
+| Bow | Music Disc "Relic", 48 Phantom Membrane, 16 Emerald Ore | - |
 | Axe | 24 Diamond Blocks, 16 Ancient Debris | 32 |
-| Pickaxe | Music Disc "Otherside", 8 Ancient Debris | - |
-| Shovel | Enchanted Golden Apple, 16 Sculk Catalyst | - |
+| Pickaxe | Music Disc "Otherside", 8 Ancient Debris, 24 Emerald Ore | - |
+| Shovel | Enchanted Golden Apple, 16 Sculk Catalyst, 32 Crying Obsidian | - |
 | Hoe | Sniffer Egg, 42 Chorus Flowers | 24 |
 | Crossbow | 2 Totems of Undying, 48 Wind Charges | 28 |
 | Trident | 3 Hearts of the Sea, 16 Nautilus Shells | 40 |
 | Mace | 2 Heavy Cores, 12 Breeze Rods, 8 Ominous Bottles | 36 |
-| Shield | Totem of Undying, 8 Netherite Blocks | - |
-| Fishing Rod | 12 Nautilus Shells, Music Disc "Creator" | - |
+| Shield | Totem of Undying, 8 Netherite Blocks, 64 Crying Obsidian | - |
+| Fishing Rod | 12 Nautilus Shells, Music Disc "Creator", 20 Emerald Ore | - |
 
 ### Reforged Enchantments
 
