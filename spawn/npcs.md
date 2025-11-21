@@ -17,7 +17,7 @@ Greets new arrivals and explains the village's ways.
 
 ### Merchant Bramblewood
 **Role:** Vote Token Trader
-**Location:** Token Trader building
+**Location:** Village Square marketplace area
 *"Ah, vote tokens! The lifeblood of our community participation!"*
 
 Trade your Vote Tokens for valuable rewards.
@@ -90,69 +90,53 @@ Creates Reforged gear, Hardened Ingots, and Hardened gear.
 
 ### Wanderlust the Cartographer
 **Role:** Warp Master
-**Location:** Travel Office
+**Location:** Ancient Stone Circle
 *"Ah, you wish to travel? I know every path worth taking!"*
 
-Helps with player warps and navigation.
+Helps with player warps and navigation. Stationed at the gateway to the wilds.
 
 ---
 
 ### Quillfeather the Scribe
-**Role:** Land Registry
-**Location:** Registry Office
+**Role:** Land Registry Clerk
+**Location:** Corner desk inside Inn/Tavern
 *"Every plot must be properly registered, for order brings peace."*
 
 Information about claiming and land management.
 
 ---
 
-### Songbird the Bard
-**Role:** Music Disc Trader
-*"Music is the soul of any thriving village!"*
-
-Trades music discs.
-
----
-
 ## Atmospheric NPCs
 
 ### Rosepetal the Florist
-**Location:** Community Garden
+**Location:** Tending scattered gardens throughout the village
 *"Each flower has its own story, just like each villager."*
 
-Tends the village gardens.
-
----
-
-### Faithful Lightbringer
-**Location:** Chapel
-*"May the light of Oakheart guide your journey."*
-
-Offers blessings and peaceful reflection.
+Tends the village gardens. No dedicated building—she roams between flower beds.
 
 ---
 
 ### Pipesmoke the Innkeeper
-**Location:** Inn/Tavern
+**Location:** Inn/Tavern (main area)
 *"Come in, come in! There's always room for one more!"*
 
-Knows all the village gossip.
-
----
-
-### Grandfather Ticksworth
-**Location:** Village Well
-*"Time flows like water from this well, child."*
-
-Ancient NPC who's been here since the first oak tree.
+Knows all the village gossip. Runs the Inn/Tavern.
 
 ---
 
 ### Town Crier Loudvoice
-**Location:** Bulletin Board
+**Location:** Village Square near the bulletin board
 *"Hear ye, hear ye! Important news for all citizens of Oakheart!"*
 
 Announces server news and updates.
+
+---
+
+### Festivus the Decorator
+**Location:** Roams the village
+*"Oh my! Have you seen the autumn decorations? Simply divine!"*
+
+Changes appearance with each season and holiday. Coordinates seasonal events.
 
 ---
 

@@ -37,22 +37,23 @@ Five shops surround the central area:
 
 ### Services
 
-| Building | NPC | Purpose |
+| Building/Location | NPC | Purpose |
 |----------|-----|---------|
 | Forge | Hammerhand | Reforged & Hardened gear |
-| Crates Pavilion | — | Vote & Paid crates |
-| Travel Office | Wanderlust | Player warps |
-| Land Registry | Quillfeather | Claiming info |
-| Token Trader | Merchant Bramblewood | Spend Vote Tokens |
-| Crystal Trader | Crystalkeeper Shimmervale | Spend Crate Crystals |
+| Crates Pavilion | Crystalkeeper Shimmervale | Vote & Paid crates + Crystal Trader |
+| Ancient Stone Circle | Wanderlust | Player warps |
+| Inn/Tavern | Pipesmoke & Quillfeather | Social hub + Land Registry |
+| Village Square | Merchant Bramblewood | Vote Token Trader |
+| Pet Shop | Velvetpaw | Pet management |
+| Cosmetics Shop | Silkthread | Cosmetics & fashion |
 
 ### Atmosphere
 
-- **Village Well** — Visit Grandfather Ticksworth
-- **Community Garden** — Tended by Rosepetal
-- **Inn/Tavern** — Run by Pipesmoke
-- **Chapel** — Peaceful spot with Faithful Lightbringer
-- **Bulletin Board** — Server announcements
+- **Village Well** — Atmospheric gathering spot
+- **Scattered Gardens** — Tended by Rosepetal throughout the village
+- **Inn/Tavern** — Run by Pipesmoke, with Quillfeather's desk
+- **Small Pond** — Near fisherman's stall, fishing contests
+- **Village Square Bulletin Board** — Server announcements from Town Crier Loudvoice
 
 ---
 
