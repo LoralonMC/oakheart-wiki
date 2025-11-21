@@ -106,12 +106,10 @@ When creating a warp, choose a category to help players find it:
 | Category | Best For |
 |----------|----------|
 | **Shops** | Player shops, trading posts |
-| **Farms** | Public or showcase farms |
-| **Grinders** | Mob grinders, XP farms |
-| **Special** | Unique builds, attractions |
+| **Farms & Grinders** | Public farms, mob grinders, XP farms |
 | **Towns** | Community areas, towns |
-
-More categories may be added as the server grows.
+| **Attractions** | Unique builds, cool spots to visit |
+| **Other** | Anything that doesn't fit above |
 
 ---
 

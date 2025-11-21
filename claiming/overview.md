@@ -105,6 +105,7 @@ Each vote rank gives bonus claim chunks on rank-up:
 | Command | Description |
 |---------|-------------|
 | `/lands selection` | Enter selection mode |
+| `/lands selection assign <name>` | Assign selection to sub-area |
 | `/lands claim` | Claim selected area (after selection) |
 
 ---

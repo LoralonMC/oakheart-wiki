@@ -35,8 +35,6 @@
 
 * [Overview](crates/overview.md)
 * [Vote Crate](crates/vote-crate.md)
-* [Paid Crates](crates/paid-crates.md)
-* [Emerald Crate](crates/emerald-crate.md)
 * [Crystal Trader](crates/crystal-trader.md)
 * [Token Trader](crates/token-trader.md)
 
@@ -51,8 +49,8 @@
 
 * [Player Warps](features/player-warps.md)
 * [Homes](features/homes.md)
+* [Building Tools](features/tools.md)
 * [Pets](features/pets.md)
-* [Cosmetics](features/cosmetics.md)
 
 ## Community
 

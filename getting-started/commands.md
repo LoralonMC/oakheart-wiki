@@ -199,6 +199,7 @@ Both players must have PvP enabled for combat.
 | `/sb` | Toggle scoreboard |
 | `/tutorial` | Restart the tutorial |
 | `/overflow` | View overflow inventory | Alias: /of |
+| `/claimchunk` | Withdraw a chunk from your limit into a physical item | Must have >4 chunks |
 
 ---
 

@@ -72,6 +72,7 @@ All Reforged items come with enhanced enchantments:
 - Thorns IV
 - Mending I
 - Unbreaking IV
+- *(Helmet also gets Respiration IV)*
 - *(Boots also get Feather Falling IV)*
 
 **Weapons:**
