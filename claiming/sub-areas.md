@@ -6,9 +6,11 @@ Sub-areas allow you to create **zones within your land** that have different per
 
 ## What Are Sub-Areas?
 
-A sub-area is a section of your claimed land with its own permission settings. Think of it as "rooms" within your "house":
+A sub-area is a **3D zone** within your claimed land with its own permission settings. Unlike chunks (which are column-based), sub-areas are defined by specific blocks, giving you precise control over smaller regions.
 
-- **Main land** = Your house (default permissions)
+Think of it as "rooms" within your "house":
+
+- **Main land** = Your house (default permissions for all blocks not in a sub-area)
 - **Sub-areas** = Individual rooms (custom permissions each)
 
 ### Common Use Cases
@@ -24,28 +26,36 @@ A sub-area is a section of your claimed land with its own permission settings. T
 
 ## Creating Sub-Areas
 
-### Step 1: Enter Selection Mode
+### Step 1: Create the Area in Menu
+
+```
+/lands menu
+```
+
+Navigate to the **Areas** section and click the "Add Area" button. Enter a name for your sub-area in chat.
+
+### Step 2: Enter Selection Mode
 
 ```
 /lands selection
 ```
 
-This allows you to select an area within your land.
+This allows you to define the boundaries of your sub-area.
 
-### Step 2: Select the Area
+### Step 3: Select the Boundaries
 
 - **Left-click** a block to set the first corner
 - **Right-click** a block to set the second corner
 
-The selection covers all blocks between these two points (including vertically).
+The selection covers all blocks between these two points in 3D space.
 
-### Step 3: Create the Sub-Area
+### Step 4: Assign the Selection
 
 ```
-/lands assign <subarea-name>
+/lands selection assign <area-name>
 ```
 
-Example: `/lands assign PublicShop`
+Example: `/lands selection assign PublicShop`
 
 {% hint style="info" %}
 **Sub-areas must be within your claimed land!** You can't create a sub-area in wilderness or someone else's claim.
@@ -55,7 +65,7 @@ Example: `/lands assign PublicShop`
 
 ## Managing Sub-Areas
 
-### View Sub-Areas
+### Accessing Sub-Area Settings
 
 Open the lands menu to see all your sub-areas:
 
@@ -63,21 +73,15 @@ Open the lands menu to see all your sub-areas:
 /lands menu
 ```
 
-Navigate to the sub-areas section to manage them.
+Navigate to the **Areas** section to manage them.
 
-### Rename a Sub-Area
-
-```
-/lands rename <old-name> <new-name>
-```
-
-### Delete a Sub-Area
+You can also access a specific sub-area's menu by standing inside it and using:
 
 ```
-/lands delete <subarea-name>
+/lands menu here
 ```
 
-This removes the sub-area but keeps the chunks claimed to your main land.
+From the menu, you can trust players, set flags, and manage the sub-area's settings.
 
 ---
 
@@ -99,13 +103,7 @@ Each sub-area can have different flag settings from your main land.
 
 ### Setting Flags
 
-Use the lands menu (`/lands menu`) to adjust flags for specific sub-areas, or:
-
-```
-/lands edit <subarea-name>
-```
-
-Then modify settings through the GUI.
+Use `/lands menu` and navigate to the Areas section, or use `/lands menu here` while standing in the sub-area to adjust its flags through the GUI.
 
 ---
 
@@ -137,19 +135,24 @@ Here's how to create a public shop area:
 
 2. **Build your shop building**
 
-3. **Enter selection mode**
+3. **Create the sub-area via menu**
+   - Open `/lands menu`
+   - Go to **Areas** → **Add Area**
+   - Type `Shop` in chat
+
+4. **Enter selection mode**
    ```
    /lands selection
    ```
 
-4. **Select the shop interior** (left-click one corner, right-click opposite corner)
+5. **Select the shop interior** (left-click one corner, right-click opposite corner)
 
-5. **Create the sub-area**
+6. **Assign the selection to your area**
    ```
-   /lands assign Shop
+   /lands selection assign Shop
    ```
 
-6. **Configure permissions** via `/lands menu`:
+7. **Configure permissions** via `/lands menu here` while in the shop:
    - Enable `INTERACT_VILLAGER` for Visitors
    - Enable `INTERACT_DOOR` for Visitors
    - Keep `BLOCK_BREAK` disabled for Visitors
@@ -160,11 +163,12 @@ Now anyone can enter your shop, open doors, and trade with your shopkeepers, but
 
 ## Example: Community Farm Sub-Area
 
-1. **Create the sub-area** in your farm section
-2. **Enable for Visitors:**
+1. **Create the area** via `/lands menu` → Areas → Add Area → name it `Farm`
+2. **Select and assign** using `/lands selection` then `/lands selection assign Farm`
+3. **Enable for Visitors:**
    - `INTERACT_GENERAL` (use hoes)
    - `BLOCK_BREAK` for specific blocks (crops only if supported)
-3. **Keep disabled:**
+4. **Keep disabled:**
    - `BLOCK_PLACE` (prevent random blocks)
    - `INTERACT_CONTAINER` (protect seed chests)
 
