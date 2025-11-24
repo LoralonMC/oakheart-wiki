@@ -170,10 +170,29 @@ Each shop has **per-player daily limits** to control emerald generation. Limits 
 | Sponsored Slot 2 | 75 emeralds for 3 days |
 | Sponsored Slot 3 | 30 emeralds for 1 day |
 
+### Player Shop Creation
+
+Visit **Quillfeather the Scribe** at spawn to purchase Shopkeeper Spawn Eggs:
+
+| Item | Cost |
+|------|------|
+| Shopkeeper Spawn Egg | 100 emeralds |
+
+You need spawn eggs to place your player shops (ranks only give you permission slots). **Deleting a shop refunds the egg**, so you can reorganize without losing emeralds!
+
+### Claim Chunks
+
+Expand your territory by purchasing Claim Chunks from **Quillfeather the Scribe**:
+
+| Purchase | Cost |
+|----------|------|
+| 1 Claim Chunk | 40 Emerald Blocks (360 emeralds) |
+| 2 Claim Chunks | 75 Emerald Blocks (675 emeralds) — *Save 45 emeralds!* |
+
 ### Other Sinks
 
 - **Emerald Crate Keys** — Spend emeralds on crate keys
-- **Villager Trades** — Regular villagers still accept emeralds
+- **Villager Trades** — Regular villagers still accept emeralds (major sink for Mending books, enchants, tools)
 - **Player Shops** — Buy from other players
 
 ---

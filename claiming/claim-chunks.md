@@ -23,6 +23,17 @@ You earn +1 chunk per hour of playtime for your first 4 hours on the server.
 - **Rank-up rewards** — Every rank gives Claim Chunks (100 total by Rank 20)
 - **Token Trader** — Buy with Vote Tokens at Merchant Bramblewood
 
+### From Emeralds
+
+Visit **Quillfeather the Scribe** at spawn to purchase Claim Chunks with emerald blocks:
+
+| Purchase | Cost |
+|----------|------|
+| **1 Claim Chunk** | 40 Emerald Blocks (360 emeralds) |
+| **2 Claim Chunks** | 75 Emerald Blocks (675 emeralds) — *Save 45 emeralds!* |
+
+This is a great option if you've been grinding spawn shops and want to expand your territory quickly!
+
 ### From Crates
 
 - **Vote Crate** — Rare chance for 1-2 Claim Chunks

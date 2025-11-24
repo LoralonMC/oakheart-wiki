@@ -25,7 +25,11 @@ Physical shops encourage community interaction and give players a reason to expl
 
 ### Step 1: Buy a Shopkeeper Spawn Egg
 
-Visit **Quillfeather the Scribe** at spawn to purchase a Shopkeeper Spawn Egg.
+Visit **Quillfeather the Scribe** at spawn to purchase a Shopkeeper Spawn Egg for **100 emeralds**.
+
+{% hint style="success" %}
+**Good news!** If you delete your shop later, you get the spawn egg back. This lets you move or reorganize your shops without losing your investment.
+{% endhint %}
 
 ### Step 2: Set Up Your Shop
 
@@ -93,7 +97,7 @@ Open the editor and click the **Move** button, then right-click a new location.
 
 ### Removing Your Shopkeeper
 
-Open the editor and click the **Delete** button to remove your shopkeeper entirely.
+Open the editor and click the **Delete** button to remove your shopkeeper entirely. **You'll get your spawn egg back** to use for another shop or trade to other players.
 
 ---
 
