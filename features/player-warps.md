@@ -89,6 +89,7 @@ Set a description, icon, and category to help others find your warp.
 |---------|-------------|
 | `/warp favourite <name>` | Add warp to favorites |
 | `/warp rate <name>` | Rate another player's warp |
+| `/warp ban <name> <player>` | Ban a player from using your warp |
 | `/warp managers <name> <player>` | Add co-manager to warp |
 | `/warp setowner <name> <player>` | Transfer warp ownership |
 
