@@ -48,28 +48,28 @@ Voting on all 5 sites daily = 5 Vote Points per day. Rank 20 requires 1,000 vote
 
 ## Perks by Rank
 
-| Rank | Homes | Warps | Shops | Bonus Claims | New Commands |
-|------|-------|-------|-------|--------------|--------------|
-| 1 | 1 | 0 | 0 | 0 | — |
-| 2 | 2 | 1 | 2 | +1 | First warp & shops |
-| 3 | 2 | 1 | 3 | +1 | `/condense` |
-| 4 | 3 | 2 | 4 | +2 | `/lay` |
-| 5 | 3 | 2 | 5 | +2 | `/sit`, `/head` |
-| 6 | 4 | 3 | 6 | +3 | `/feed` |
-| 7 | 4 | 3 | 7 | +3 | `/loom`, `/skulls` |
-| 8 | 5 | 4 | 8 | +4 | `/craft` |
-| 9 | 5 | 4 | 9 | +4 | `/near`, `/armorstand` |
-| 10 | 6 | 5 | 10 | +5 | Home icons |
-| 11 | 6 | 5 | 11 | +5 | `/bellyflop` |
-| 12 | 7 | 6 | 12 | +6 | `/stonecutter` |
-| 13 | 7 | 6 | 13 | +6 | `/jump` |
-| 14 | 8 | 7 | 14 | +7 | `/grindstone` |
-| 15 | 8 | 7 | 15 | +7 | `/crawl` |
-| 16 | 9 | 8 | 16 | +8 | `/anvil` |
-| 17 | 9 | 8 | 17 | +8 | `/ptime` |
-| 18 | 10 | 9 | 18 | +9 | `/smithingtable` |
-| 19 | 10 | 9 | 19 | +9 | `/enderchest` |
-| 20 | 11 | 10 | 20 | +10 | Permanent claims, Prestige |
+| Rank | Homes | Warps | Shops | New Commands |
+|------|-------|-------|-------|--------------|
+| 1 | 1 | 0 | 0 | — |
+| 2 | 2 | 1 | 2 | First warp & shops |
+| 3 | 3 | 1 | 3 | `/condense` |
+| 4 | 4 | 2 | 4 | `/lay` |
+| 5 | 5 | 2 | 5 | `/sit` |
+| 6 | 6 | 3 | 6 | `/feed` |
+| 7 | 7 | 3 | 7 | `/loom`, `/skulls` |
+| 8 | 8 | 4 | 8 | `/craft` |
+| 9 | 9 | 4 | 9 | `/near`, `/armorstand` |
+| 10 | 10 | 5 | 10 | Home icons |
+| 11 | 10 | 6 | 12 | `/bellyflop` |
+| 12 | 11 | 7 | 14 | `/stonecutter` |
+| 13 | 11 | 8 | 16 | `/jump` |
+| 14 | 12 | 9 | 18 | `/grindstone` |
+| 15 | 12 | 10 | 20 | `/crawl` |
+| 16 | 13 | 11 | 22 | `/anvil` |
+| 17 | 13 | 12 | 24 | `/ptime` |
+| 18 | 14 | 13 | 26 | `/smithingtable` |
+| 19 | 14 | 14 | 28 | `/enderchest` |
+| 20 | 15 | 15 | 30 | Permanent claims, Prestige |
 
 ---
 
@@ -79,28 +79,28 @@ You receive rewards every time you rank up:
 
 | Rank | Reward |
 |------|--------|
-| 2 | 3 emerald blocks, 1 Claim Chunk |
-| 3 | 250 XP, 3 emerald blocks, 1 Claim Chunk |
-| 4 | 3 emerald blocks, 2 Claim Chunks |
+| 2 | 3 emerald blocks |
+| 3 | 250 XP, 3 emerald blocks |
+| 4 | 3 emerald blocks |
 | 5 | 300 XP, 3 emerald blocks, 2 Claim Chunks |
-| 6 | 5 emerald blocks, 3 Claim Chunks |
-| 7 | 400 XP, 5 emerald blocks, 1 Random Crate Key, 3 Claim Chunks |
-| 8 | 5 emerald blocks, 4 Claim Chunks |
-| 9 | 500 XP, 8 emerald blocks, 1 Random Crate Key, 4 Claim Chunks |
-| 10 | 12 emerald blocks, 5 Claim Chunks |
-| 11 | 1000 XP, 12 emerald blocks, 1 Random Crate Key, 5 Claim Chunks |
-| 12 | 12 emerald blocks, 6 Claim Chunks |
-| 13 | 1400 XP, 16 emerald blocks, 1 Random Crate Key, 6 Claim Chunks |
-| 14 | 16 emerald blocks, 7 Claim Chunks |
-| 15 | 1800 XP, 20 emerald blocks, 1 Random Crate Key, 7 Claim Chunks |
-| 16 | 20 emerald blocks, 8 Claim Chunks |
-| 17 | 2200 XP, 24 emerald blocks, 1 Random Crate Key, 8 Claim Chunks |
-| 18 | 32 emerald blocks, 9 Claim Chunks |
-| 19 | 2500 XP, 40 emerald blocks, 1 Random Crate Key, 9 Claim Chunks |
-| 20 | 48 emerald blocks, 2 Random Crate Keys, 10 Claim Chunks |
+| 6 | 5 emerald blocks, 1 Random Crate Key |
+| 7 | 400 XP, 5 emerald blocks |
+| 8 | 5 emerald blocks, 1 Random Crate Key |
+| 9 | 500 XP, 8 emerald blocks |
+| 10 | 12 emerald blocks, 1 Random Crate Key, 4 Claim Chunks |
+| 11 | 1000 XP, 12 emerald blocks |
+| 12 | 12 emerald blocks, 1 Random Crate Key |
+| 13 | 1400 XP, 16 emerald blocks |
+| 14 | 16 emerald blocks, 1 Random Crate Key |
+| 15 | 1800 XP, 20 emerald blocks, 6 Claim Chunks |
+| 16 | 20 emerald blocks, 1 Random Crate Key |
+| 17 | 2200 XP, 24 emerald blocks |
+| 18 | 32 emerald blocks, 1 Random Crate Key |
+| 19 | 2500 XP, 40 emerald blocks |
+| 20 | 3000 XP, 48 emerald blocks, 2 Random Crate Keys, 8 Claim Chunks |
 
 {% hint style="success" %}
-**Total from ranking to 20:** 100 bonus claim chunks just from rank-up rewards!
+**Total from ranking to 20:** 20 bonus claim chunks from milestone rank-up rewards (at ranks 5, 10, 15, and 20)!
 {% endhint %}
 
 ---
@@ -110,10 +110,11 @@ You receive rewards every time you rank up:
 | Rank | Milestone |
 |------|-----------|
 | **Rank 2** | Unlock warps and shops — start trading! |
-| **Rank 5** | Fun social commands (`/sit`, `/head`) |
-| **Rank 10** | Customize home icons, major emerald reward |
+| **Rank 5** | Fun social command (`/sit`) |
+| **Rank 6** | First Random Crate Key! |
+| **Rank 10** | Customize home icons, 10 homes, major emerald reward |
 | **Rank 17** | `/ptime` — control your personal time |
-| **Rank 20** | Permanent claims, prestige eligibility |
+| **Rank 20** | Permanent claims, prestige eligibility, 15 homes, 15 warps, 30 shops! |
 
 ---
 
@@ -124,7 +125,6 @@ You receive rewards every time you rank up:
 | `/condense` | Convert items to blocks (e.g., diamonds → diamond blocks) |
 | `/lay` | Lay down on the ground |
 | `/sit` | Sit on stairs and slabs |
-| `/head` | Get your own player head |
 | `/feed` | Restore hunger and saturation |
 | `/loom` | Open loom interface anywhere |
 | `/skulls` | Browse decorative skull menu |

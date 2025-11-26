@@ -9,12 +9,12 @@ The Prestige System is a **cosmetic endgame progression** for players who have r
 When you prestige:
 - Your rank display resets to "Acorn" visually
 - You gain a **prestige star** (⭐) before your name
-- You **keep ALL perks** (11 homes, 10 warps, 20 shops, all commands)
+- You **keep ALL perks** (15 homes, 15 warps, 30 shops, all commands)
 - You receive generous rewards
 - Server-wide celebration announcement
 
 {% hint style="success" %}
-**You keep everything!** Prestiging is purely cosmetic. Your 11 homes, 10 warps, 20 shops, and all commands remain yours.
+**You keep everything!** Prestiging is purely cosmetic. Your 15 homes, 15 warps, 30 shops, and all commands remain yours.
 {% endhint %}
 
 ---
@@ -137,9 +137,9 @@ When you use `/prestige`, a confirmation GUI appears:
 ║  star!                                ║
 ║                                       ║
 ║  You will KEEP all perks:             ║
-║  ✓ 11 homes                           ║
-║  ✓ 10 warps                           ║
-║  ✓ 20 shops                           ║
+║  ✓ 15 homes                           ║
+║  ✓ 15 warps                           ║
+║  ✓ 30 shops                           ║
 ║  ✓ All commands                       ║
 ║  ✓ Permanent claims                   ║
 ║                                       ║
@@ -202,7 +202,7 @@ Prestige milestones unlock special achievements:
 ## FAQ
 
 **Q: Do I lose my perks when I prestige?**
-A: No! You keep all 11 homes, 10 warps, 20 shops, and every command. Only your rank display resets.
+A: No! You keep all 15 homes, 15 warps, 30 shops, and every command. Only your rank display resets.
 
 **Q: Can I prestige more than once?**
 A: Yes! Unlimited prestiges. Each requires another 1000 votes.
