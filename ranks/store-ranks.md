@@ -43,7 +43,6 @@ All commands from Vote Ranks 1-5:
 **Plus Ember Exclusives:**
 - `/dispose` — Trash items quickly
 - **Keep Inventory** — Keep items on death
-- **Keep XP** — Keep experience on death
 - **Instant teleports** — No warmup on `/tpa`, `/home`
 
 ---
@@ -118,15 +117,14 @@ Each Store Rank includes a bonus reward package on purchase:
 
 These perks are **only** available through Store Ranks:
 
-| Perk | Rank Required |
-|------|---------------|
-| Keep Inventory | Ember+ |
-| Keep XP | Ember+ |
-| Instant teleports | Ember+ |
-| `/dispose` | Ember+ |
-| `/cartographytable` | Mythic+ |
-| `/heal` | Ascend+ |
-| Exclusive chat tag | Eternal |
+| Perk                | Rank Required |
+| ------------------- | ------------- |
+| Keep Inventory      | Ember+        |
+| Instant teleports   | Ember+        |
+| `/dispose`          | Ember+        |
+| `/cartographytable` | Mythic+       |
+| `/heal`             | Ascend+       |
+| Exclusive chat tag  | Eternal       |
 
 {% hint style="warning" %}
 Vote Ranks provide the same core progression (homes, warps, shops, commands) but these exclusives are Store-only perks.

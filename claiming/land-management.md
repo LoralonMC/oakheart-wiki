@@ -125,12 +125,7 @@ From here you can:
 ---
 
 ## Claim Expiration
-
-### Standard Claims
 Claims from inactive players (90+ days offline) may be removed by staff after review.
-
-### Permanent Claims
-**Vote Rank 20 (Yggdrasil)** and **Store Rank Ascend** have permanent claims that never expire.
 
 {% hint style="info" %}
 **Going on a break?** Let staff know via Discord if you'll be away for an extended period.

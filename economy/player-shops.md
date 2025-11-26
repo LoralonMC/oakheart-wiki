@@ -43,7 +43,7 @@ Visit **Quillfeather the Scribe** at spawn to purchase a Shopkeeper Spawn Egg fo
 1. **Sneak + right-click** your shopkeeper to open the editor
 2. Place items from your inventory into the trade slots
 3. Set what you're selling and what you want in return
-4. You can set up multiple trades across 1-2 pages
+4. You can set up 9 trades per shop
 
 ### Step 4: Advertise Your Shop
 

@@ -18,7 +18,7 @@ Oakheart features 5 themed NPC shops at spawn where you can sell items for emera
 | **Grand Total** | **523-533** |
 
 {% hint style="info" %}
-Trade limits reset every 24 hours per player. You can see your remaining trades in each shop's interface.
+Trade limits reset at midnight server time everyday.
 {% endhint %}
 
 ---

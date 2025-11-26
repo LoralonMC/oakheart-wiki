@@ -111,11 +111,11 @@ Claim Chunks received at milestone rank-up rewards:
 
 ### Features
 
-| Feature | Description | Vote Rank | Store Rank |
-|---------|-------------|-----------|------------|
-| Home icons | Customize `/homes` GUI | 10 | Cinder |
-| Permanent claims | Claims never expire | 20 | Ascend |
-| Prestige | Reset rank for cosmetic stars | 20 | Ascend |
+| Feature          | Description                   | Vote Rank | Store Rank |
+| ---------------- | ----------------------------- | --------- | ---------- |
+| Home icons       | Customize `/homes` GUI        | 10        | Cinder     |
+| Permanent claims | Claims never expire           | 20        | Ascend     |
+| Prestige         | Reset rank for cosmetic stars | 20        |            |
 
 ---
 
@@ -123,15 +123,14 @@ Claim Chunks received at milestone rank-up rewards:
 
 These perks are **only** available through Store Ranks:
 
-| Perk | Description | Store Rank |
-|------|-------------|------------|
-| Keep Inventory | Don't lose items on death | Ember+ |
-| Keep XP | Don't lose experience on death | Ember+ |
-| Instant teleports | No warmup on teleports | Ember+ |
-| `/dispose` | Trash items quickly | Ember+ |
-| `/cartographytable` | Open cartography table | Mythic+ |
-| `/heal` | Full health restore | Ascend+ |
-| Exclusive chat tag | Show dedication in chat | Eternal |
+| Perk                | Description                    | Store Rank |
+| ------------------- | ------------------------------ | ---------- |
+| Keep Inventory      | Don't lose items on death      | Ember+     |
+| Instant teleports   | No warmup on teleports         | Ember+     |
+| `/dispose`          | Trash items quickly            | Ember+     |
+| `/cartographytable` | Open cartography table         | Mythic+    |
+| `/heal`             | Full health restore            | Ascend+    |
+| Exclusive chat tag  | Show dedication in chat        | Eternal    |
 
 ---
 

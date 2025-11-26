@@ -11,7 +11,7 @@ Tired of Phantoms attacking you at night? Toggle them off!
 ### Command
 
 ```
-/phantom
+/settings
 ```
 
 Toggles whether Phantoms will target you. Your sleep deprivation still builds up, but Phantoms simply won't spawn for you.
@@ -260,22 +260,6 @@ Opens a virtual trash can. Any items placed inside are permanently destroyed whe
 **Warning:** Items destroyed with `/dispose` cannot be recovered!
 {% endhint %}
 
----
-
-## Player Head
-
-Get your own head as a decorative item.
-
-### Command
-
-```
-/head
-```
-
-**Rank Required:** Rank 5 (Bud)
-
-Gives you a copy of your own player head for decoration and building.
-
 ### Decorative Skulls
 
 ```
@@ -319,9 +303,8 @@ Visit the server's Squaremap URL (check in-game or Discord for the link).
 
 ### Features
 
-- Live player positions (if enabled)
 - Chunk claim boundaries
-- Player warp locations
+- World border
 - Full world exploration
 
 ---

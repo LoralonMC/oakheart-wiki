@@ -20,7 +20,7 @@ You earn +1 chunk per hour of playtime for your first 4 hours on the server.
 
 ### From Voting
 
-- **Rank-up rewards** — Every rank gives Claim Chunks (100 total by Rank 20)
+- **Rank-up rewards** — Milestone ranks (5, 10, 15, 20) give bonus Claim Chunks (20 total)
 - **Token Trader** — Buy with Vote Tokens at Merchant Bramblewood
 
 ### From Emeralds
@@ -87,20 +87,16 @@ This is useful for:
 
 ## Claim Chunks from Rank-Ups
 
-| Ranks | Chunks per Rank-Up |
-|-------|-------------------|
-| 2-3 | 1 each |
-| 4-5 | 2 each |
-| 6-7 | 3 each |
-| 8-9 | 4 each |
-| 10-11 | 5 each |
-| 12-13 | 6 each |
-| 14-15 | 7 each |
-| 16-17 | 8 each |
-| 18-19 | 9 each |
-| 20 | 10 |
+Milestone vote ranks give bonus Claim Chunks when you rank up:
 
-**Total from Rank 1→20:** 100 Claim Chunks
+| Rank | Bonus Chunks |
+|------|--------------|
+| Rank 5 (Bud) | +2 |
+| Rank 10 (Root) | +4 |
+| Rank 15 (Willow) | +6 |
+| Rank 20 (Yggdrasil) | +8 |
+
+**Total from Rank 1→20:** 20 bonus Claim Chunks
 
 ---
 

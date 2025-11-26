@@ -184,24 +184,19 @@ Both players must have PvP enabled for combat.
 
 ## Social & Misc
 
-| Command | Description |
-|---------|-------------|
-| `/ping` | Check your connection |
-| `/playtime` | View your playtime |
-| `/playtimetop` | Playtime leaderboard |
-| `/afk` | Toggle AFK status |
-| `/sb` | Toggle scoreboard |
-| `/tutorial` | Restart the tutorial |
-| `/overflow` | View overflow inventory | Alias: /of |
-| `/claimchunk` | Withdraw a chunk from your limit into a physical item | Must have >4 chunks |
+| Command        | Description                                           |                     |
+| -------------- | ----------------------------------------------------- | ------------------- |
+| `/ping`        | Check your connection                                 |                     |
+| `/playtime`    | View your playtime                                    |                     |
+| `/playtimetop` | Playtime leaderboard                                  |                     |
+| `/afk`         | Toggle AFK status                                     |                     |
+| `/tutorial`    | Restart the tutorial                                  |                     |
+| `/overflow`    | View overflow inventory                               | Alias: /of          |
+| `/claimchunk`  | Withdraw a chunk from your limit into a physical item | Must have >4 chunks |
 
 ---
 
 ## Staff Assistance
-
-| Command | Description |
-|---------|-------------|
-| `/help` | General help |
 
 For staff help, open a ticket on **Discord: discord.gg/Oakheart**
 

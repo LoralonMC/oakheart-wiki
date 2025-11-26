@@ -121,13 +121,13 @@ Purchase instant access to perks without voting. Store ranks use **cumulative pr
 
 ### Store Rank Perks
 
-| Rank | Homes | Warps | Shops | Exclusive Perks |
-|------|-------|-------|-------|-----------------|
-| **Ember** | 5 | 2 | 5 | Keep inventory on death, Keep XP on death, Instant teleports, `/dispose` |
-| **Cinder** | 10 | 5 | 10 | All Ember perks + home icons |
-| **Mythic** | 12 | 10 | 20 | All Cinder perks + `/cartographytable` |
-| **Ascend** | 15 | 15 | 30 | All Mythic perks + `/heal`, permanent claims |
-| **Eternal** | 15 | 15 | 30 | All Ascend perks + exclusive chat tag |
+| Rank        | Homes | Warps | Shops | Exclusive Perks                                        |
+| ----------- | ----- | ----- | ----- | ------------------------------------------------------ |
+| **Ember**   | 5     | 2     | 5     | Keep inventory on death, Instant teleports, `/dispose` |
+| **Cinder**  | 10    | 5     | 10    | All Ember perks + home icons                           |
+| **Mythic**  | 12    | 10    | 20    | All Cinder perks + `/cartographytable`                 |
+| **Ascend**  | 15    | 15    | 30    | All Mythic perks + `/heal`, permanent claims           |
+| **Eternal** | 15    | 15    | 30    | All Ascend perks + exclusive chat tag                  |
 
 {% hint style="info" %}
 **Eternal** is a subscription rank for players who already own Ascend. It provides purely cosmetic perks—an exclusive chat tag and future cosmetic additions.

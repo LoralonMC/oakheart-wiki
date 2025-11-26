@@ -185,20 +185,6 @@ Your prestige stars appear in:
 
 ---
 
-## Achievements
-
-Prestige milestones unlock special achievements:
-
-| Achievement | Prestige Level | Reward |
-|-------------|---------------|--------|
-| "First Ascension" | 1 | Cosmetic |
-| "Twice Blessed" | 2 | Cosmetic |
-| "Dedicated Voter" | 5 | Cosmetic + exclusive chat tag |
-| "Legendary" | 10 | Cosmetic + 16 emerald blocks |
-| "Immortal" | 25 | Cosmetic + 64 emerald blocks |
-
----
-
 ## FAQ
 
 **Q: Do I lose my perks when I prestige?**

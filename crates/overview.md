@@ -34,17 +34,6 @@ The most accessible crate—earn 5 keys daily just by voting!
 2. Vote on all 5 sites (takes ~2 minutes)
 3. Receive 1 Vote Key per site = 5 keys/day
 
-### Rarity System
-
-| Rarity | Weight | Color |
-|--------|--------|-------|
-| Common | 50.0 | White |
-| Uncommon | 30.0 | Green |
-| Rare | 15.0 | Blue |
-| Epic | 6.0 | Purple |
-| Legendary | 2.5 | Gold |
-| Mythic | 1.0 | Cyan |
-
 ### Notable Rewards
 
 **Resources & QoL**

@@ -37,11 +37,12 @@ You earn +1 chunk per hour of playtime for your first 4 hours on the server.
 
 | Source | How to Get |
 |--------|-----------|
+| **Spawn** | Buy from Quillfeather the Scribe for emeralds |
 | **Voting** | Rank-up rewards, Token Trader |
 | **Crates** | Vote Crate, Paid Crates |
 | **Store** | Direct purchase |
 | **Events** | Special server events |
-| **Rank-ups** | Bonus chunks per vote rank |
+| **Rank-ups** | Bonus chunks at milestone ranks |
 
 {% hint style="info" %}
 **Claim Chunks are items!** Right-click them to permanently increase your claim limit. They're tradeable, so you can buy them from other players too.
@@ -49,22 +50,16 @@ You earn +1 chunk per hour of playtime for your first 4 hours on the server.
 
 ### Bonus Chunks from Ranks
 
-Each vote rank gives bonus claim chunks on rank-up:
+Milestone vote ranks give bonus claim chunks on rank-up:
 
-| Rank Range | Bonus Chunks |
-|------------|--------------|
-| Ranks 2-3 | +1 each |
-| Ranks 4-5 | +2 each |
-| Ranks 6-7 | +3 each |
-| Ranks 8-9 | +4 each |
-| Ranks 10-11 | +5 each |
-| Ranks 12-13 | +6 each |
-| Ranks 14-15 | +7 each |
-| Ranks 16-17 | +8 each |
-| Ranks 18-19 | +9 each |
-| Rank 20 | +10 |
+| Rank | Bonus Chunks |
+|------|--------------|
+| Rank 5 (Bud) | +2 |
+| Rank 10 (Root) | +4 |
+| Rank 15 (Willow) | +6 |
+| Rank 20 (Yggdrasil) | +8 |
 
-**Total from ranking to 20:** 100 bonus claim chunks!
+**Total from ranking to 20:** 20 bonus claim chunks!
 
 ---
 
@@ -72,25 +67,24 @@ Each vote rank gives bonus claim chunks on rank-up:
 
 ### Basic Claiming
 
-| Command | Description |
-|---------|-------------|
+| Command                | Description                           |
+| ---------------------- | ------------------------------------- |
 | `/lands create <name>` | Create a new land with the given name |
-| `/lands claim` | Claim the chunk you're standing in |
-| `/lands unclaim` | Unclaim the chunk you're standing in |
-| `/lands view` | Toggle chunk border visualization |
-| `/lands map` | View ASCII map of nearby claims |
+| `/lands claim`         | Claim the chunk you're standing in    |
+| `/lands unclaim`       | Unclaim the chunk you're standing in  |
+| `/lands view`          | Toggle chunk border visualization     |
+| `/lands map`           | View map of nearby claims             |
 
 ### Land Management
 
-| Command | Description |
-|---------|-------------|
-| `/lands menu` | Open the main lands GUI |
-| `/lands info` | View information about current land |
-| `/lands rename <name>` | Rename your land |
-| `/lands delete` | Delete your entire land (removes all claims) |
-| `/lands list` | List all your lands |
-| `/lands setspawn` | Set the land's spawn point |
-| `/lands spawn` | Teleport to a land's spawn |
+| Command                | Description                                  |
+| ---------------------- | -------------------------------------------- |
+| `/lands menu`          | Open the main lands GUI                      |
+| `/lands info`          | View information about current land          |
+| `/lands rename <name>` | Rename your land                             |
+| `/lands delete`        | Delete your entire land (removes all claims) |
+| `/lands setspawn`      | Set the land's spawn point                   |
+| `/lands spawn`         | Teleport to a land's spawn                   |
 
 ### Trusting Players
 
@@ -102,11 +96,11 @@ Each vote rank gives bonus claim chunks on rank-up:
 
 ### Selection Claiming
 
-| Command | Description |
-|---------|-------------|
-| `/lands selection` | Enter selection mode |
+| Command                          | Description                  |
+| -------------------------------- | ---------------------------- |
+| `/lands selection`               | Enter selection mode         |
 | `/lands selection assign <name>` | Assign selection to sub-area |
-| `/lands claim` | Claim selected area (after selection) |
+| `/lands claim`                   | Claim selected area          |
 
 ---
 
@@ -149,7 +143,7 @@ Use `/lands view` to toggle chunk border visualization:
 
 ### Land Map
 
-Use `/lands map` for an ASCII overhead view showing:
+Use `/lands map` for a GUI showing:
 - Your claims
 - Nearby player claims
 - Wilderness areas
@@ -183,9 +177,6 @@ Use `/lands map` for an ASCII overhead view showing:
 ### Standard Claims
 Claims from inactive players (90+ days offline) may be removed by staff after review.
 
-### Permanent Claims
-**Vote Rank 20 (Yggdrasil)** and **Store Rank Ascend** players have permanent claims that never expire from inactivity.
-
 {% hint style="info" %}
 **Going on a break?** Let staff know via Discord if you'll be away for an extended period. We'll note your account.
 {% endhint %}
@@ -206,9 +197,7 @@ Within your claim:
 ### What's NOT Protected
 
 - Mobs can still spawn and damage you
-- Environmental damage (creeper explosions) can occur
-- Fire can spread within your claim
-- Water/lava placed outside can flow in
+- Environmental damage (creeper/wither explosions) can occur
 
 ---
 
