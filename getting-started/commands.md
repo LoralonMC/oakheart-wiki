@@ -34,7 +34,7 @@ A complete reference of all player commands on Oakheart, organized by category.
 | `/homes` | View all homes in GUI | |
 | `/removehome <name>` | Delete a home | Alias: `/delhome` |
 
-**Home limits increase with rank:** 1 → 11 homes by Rank 20
+**Home limits increase with rank:** 1 → 15 homes by Rank 20
 
 ---
 
@@ -83,16 +83,15 @@ A complete reference of all player commands on Oakheart, organized by category.
 
 | Command | Description | Rank Required |
 |---------|-------------|---------------|
-| `/pwarp` | Open player warps menu | Rank 2+ |
-| `/pwarp <name>` | Teleport to a warp | Rank 2+ |
-| `/pwarp list` | Browse all warps | Rank 2+ |
-| `/pwarp set` | Create a warp | Rank 2+ |
-| `/pwarp remove <name>` | Delete your warp | |
-| `/pwarp desc <text>` | Set warp description | |
-| `/pwarp icon` | Set warp icon | |
-| `/pwarp category` | Set warp category | |
+| `/warp` | Open player warps menu | Any |
+| `/warp <name>` | Teleport to a warp | Any |
+| `/warp set` | Create a warp | Rank 2+ |
+| `/warp remove <name>` | Delete your warp | |
+| `/warp desc <text>` | Set warp description | |
+| `/warp icon` | Set warp icon | |
+| `/warp category` | Set warp category | |
 
-**Warp limits:** 0 → 10 warps by Rank 20
+**Warp limits:** 0 → 15 warps by Rank 20
 
 ---
 
@@ -105,13 +104,9 @@ A complete reference of all player commands on Oakheart, organized by category.
 
 ### Shops
 
-Interact with NPCs at spawn to buy/sell items. Player shops are created using the Shopkeepers plugin.
+Interact with NPCs at spawn to buy/sell items. Player shops are created by purchasing a **Shopkeeper Spawn Egg** from Quillfeather the Scribe at spawn (100 emeralds). See [Player Shops](../economy/player-shops.md) for details.
 
-| Command | Description | Rank Required |
-|---------|-------------|---------------|
-| `/shopkeeper` | Create a player shop | Rank 2+ |
-
-**Shop limits:** 0 → 20 shops by Rank 20
+**Shop limits:** 0 → 30 shops by Rank 20 (requires Rank 2+ to create shops)
 
 ---
 
@@ -140,7 +135,6 @@ These commands unlock as you rank up through voting or store ranks.
 | `/condense` | Convert items to blocks | 3 |
 | `/lay` | Lay down animation | 4 |
 | `/sit` | Sit on stairs/slabs | 5 |
-| `/head` | Get player heads | 5 |
 | `/feed` | Restore hunger | 6 |
 | `/loom` | Open loom anywhere | 7 |
 | `/skulls` | Decorative skull menu | 7 |
@@ -232,9 +226,9 @@ CLAIMS
 /lands view         See borders
 /lands menu         Open GUI
 
-WARPS (Rank 2+)
-/pwarp              Browse warps
-/pwarp set          Create warp
+WARPS
+/warp               Browse warps
+/warp set           Create warp (Rank 2+)
 
 SOCIAL
 /msg <player> <m>   Private message

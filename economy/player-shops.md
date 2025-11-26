@@ -49,7 +49,7 @@ Visit **Quillfeather the Scribe** at spawn to purchase a Shopkeeper Spawn Egg fo
 
 Set a player warp so customers can find you:
 1. Stand at your shop entrance
-2. Use `/pwarp set <name>`
+2. Use `/warp set <name>`
 3. Choose the **Shops** category
 4. Add a description of what you sell
 
