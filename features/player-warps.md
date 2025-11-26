@@ -47,10 +47,10 @@ Stand exactly where you want players to teleport. Consider:
 ### Step 2: Create the Warp
 
 ```
-/pwarp set <name>
+/warp set <name>
 ```
 
-Example: `/pwarp set MyShop`
+Example: `/warp set MyShop`
 
 {% hint style="info" %}
 **Your first warp is free!** Additional warps cost 20 emeralds each.
@@ -68,39 +68,29 @@ Set a description, icon, and category to help others find your warp.
 
 | Command | Description |
 |---------|-------------|
-| `/pwarp` | Open the warps browser GUI |
-| `/pwarp <name>` | Teleport to a specific warp |
-| `/pwarp list` | View all available warps |
-| `/pwarp set <name>` | Create a new warp |
-| `/pwarp remove <name>` | Delete your warp |
+| `/warp` | Open the warps browser GUI |
+| `/warp <name>` | Teleport to a specific warp |
+| `/warp set <name>` | Create a new warp |
+| `/warp remove <name>` | Delete your warp |
 
 ### Customization Commands
 
 | Command | Description |
 |---------|-------------|
-| `/pwarp desc <text>` | Set warp description |
-| `/pwarp icon` | Set the warp's icon (from GUI) |
-| `/pwarp category` | Choose warp category |
-| `/pwarp rename <old> <new>` | Rename a warp |
-| `/pwarp reset <name>` | Reset warp to current location |
-
-### Access Control
-
-| Command | Description |
-|---------|-------------|
-| `/pwarp lock <name>` | Make warp private |
-| `/pwarp password <name> <pass>` | Set password for warp |
-| `/pwarp whitelist <name> <player>` | Allow specific player access |
-| `/pwarp ban <name> <player>` | Ban player from your warp |
+| `/warp desc <text>` | Set warp description |
+| `/warp icon` | Set the warp's icon (from GUI) |
+| `/warp category` | Choose warp category |
+| `/warp rename <old> <new>` | Rename a warp |
+| `/warp reset <name>` | Reset warp to current location |
 
 ### Management
 
 | Command | Description |
 |---------|-------------|
-| `/pwarp favourite <name>` | Add warp to favorites |
-| `/pwarp rate <name>` | Rate another player's warp |
-| `/pwarp managers <name> <player>` | Add co-manager to warp |
-| `/pwarp setowner <name> <player>` | Transfer warp ownership |
+| `/warp favourite <name>` | Add warp to favorites |
+| `/warp rate <name>` | Rate another player's warp |
+| `/warp managers <name> <player>` | Add co-manager to warp |
+| `/warp setowner <name> <player>` | Transfer warp ownership |
 
 ---
 
@@ -207,20 +197,6 @@ Sponsored warps appear prominently in the warp browser, driving more visitors to
 **"You can't set warps here"**
 - You may be in a restricted area
 - Make sure you're in the survival world
-
----
-
-## Private Warps
-
-Want a warp just for friends? Use access control:
-
-1. Create your warp: `/pwarp set SecretBase`
-2. Lock it: `/pwarp lock SecretBase`
-3. Whitelist friends: `/pwarp whitelist SecretBase FriendName`
-
-Or set a password:
-1. `/pwarp password MyWarp secretcode`
-2. Share the password only with trusted players
 
 ---
 
