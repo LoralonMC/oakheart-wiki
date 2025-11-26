@@ -63,14 +63,19 @@ Your maximum number of shops increases as you rank up:
 |------|-------|
 | 1 (Acorn) | 0 |
 | 2 (Sprout) | 2 |
-| 3 (Seedling) | 3 |
-| 4 (Sapling) | 4 |
-| 5 (Bud) | 5 |
-| 6-10 | 6-10 |
-| 11-15 | 11-15 |
-| 16-20 | 16-20 |
+| 3-10 | Matches rank (3-10) |
+| 11 | 12 |
+| 12 | 14 |
+| 13 | 16 |
+| 14 | 18 |
+| 15 | 20 |
+| 16 | 22 |
+| 17 | 24 |
+| 18 | 26 |
+| 19 | 28 |
+| 20 (Yggdrasil) | 30 |
 
-**Store Ranks** match their equivalent vote rank (Ember = 5 shops, Ascend = 20 shops).
+**Store Ranks** match their equivalent vote rank (Ember = 5 shops, Ascend = 30 shops).
 
 ---
 

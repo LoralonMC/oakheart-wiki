@@ -39,16 +39,20 @@ Opens a GUI showing all your saved homes.
 | Rank | Homes Allowed |
 |------|---------------|
 | 1 (Acorn) | 1 |
-| 2-3 | 2 |
-| 4-5 | 3 |
-| 6-7 | 4 |
-| 8-9 | 5 |
-| 10-11 | 6 |
-| 12-13 | 7 |
-| 14-15 | 8 |
-| 16-17 | 9 |
-| 18-19 | 10 |
-| 20 (Yggdrasil) | 11 |
+| 2 | 2 |
+| 3 | 3 |
+| 4 | 4 |
+| 5 | 5 |
+| 6 | 6 |
+| 7 | 7 |
+| 8 | 8 |
+| 9 | 9 |
+| 10-11 | 10 |
+| 12-13 | 11 |
+| 14-15 | 12 |
+| 16-17 | 13 |
+| 18-19 | 14 |
+| 20 (Yggdrasil) | 15 |
 
 **Store Ranks** give the same limits as their equivalent vote rank.
 
@@ -167,11 +171,10 @@ You can set homes in different dimensions:
 
 | Homes | Strategy |
 |-------|----------|
-| 1 | Main base only |
-| 2-3 | Base + farm + mine |
-| 4-5 | Add nether, end access |
-| 6-8 | Add shop, grinders, projects |
-| 9-11 | Full coverage of all your builds |
+| 1-3 | Main base, farm, mine |
+| 4-6 | Add nether, end access, shop |
+| 7-10 | Add grinders, projects, storage |
+| 11-15 | Full coverage of all your builds and future expansion |
 
 ### Rank Up for More!
 
