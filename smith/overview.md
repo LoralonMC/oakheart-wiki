@@ -9,7 +9,7 @@ Oakheart features a custom gear progression system that extends beyond vanilla N
 ```
 [ Netherite Gear ]
        ↓
-[ Reforged Gear ]    ← Better enchantments, Mending, Unbreaking IV
+[ Reforged Gear ]    ← Better enchantments, Unbreaking IV
        ↓
 [ Hardened Gear ]    ← Maximum enchantments, Unbreakable (never breaks!)
 ```
@@ -27,7 +27,7 @@ Oakheart features a custom gear progression system that extends beyond vanilla N
 | Tier | Enchantment Level | Durability | Example |
 |------|-------------------|------------|---------|
 | **Vanilla Netherite** | Up to V | Repairable | Sharpness V |
-| **Reforged** | Level VI | Mending + Unbreaking IV | Sharpness VI |
+| **Reforged** | Level VI | Unbreaking IV | Sharpness VI |
 | **Hardened** | Level VIII | **Unbreakable** | Sharpness VIII |
 
 {% hint style="success" %}
@@ -69,20 +69,16 @@ All Reforged items come with enhanced enchantments:
 
 **Armor:**
 - Protection VI
-- Thorns IV
-- Mending I
 - Unbreaking IV
 - *(Helmet also gets Respiration IV)*
 - *(Boots also get Feather Falling IV)*
 
 **Weapons:**
 - Sharpness/Power/Impaling VI
-- Mending I
 - Unbreaking IV
 
 **Tools:**
 - Efficiency VI
-- Mending I
 - Unbreaking IV
 
 ---
@@ -153,10 +149,10 @@ Maximum enchantment levels with the **Unbreakable** property:
 
 **Tools:**
 - Efficiency VIII (instant deepslate with Haste II!)
-- Fortune V or Silk Touch I (Pickaxe has variants)
+- Fortune V or Silk Touch I (Axe, Pickaxe, Shovel have variants)
 
 {% hint style="warning" %}
-**Hardened Pickaxe Choice:** When crafting, you choose between Fortune V OR Silk Touch variants. Both cost the same—pick based on your needs!
+**Tool Variants:** When crafting Hardened Axe, Pickaxe, or Shovel, you choose between Fortune V OR Silk Touch variants. Both cost the same—pick based on your needs!
 {% endhint %}
 
 ---

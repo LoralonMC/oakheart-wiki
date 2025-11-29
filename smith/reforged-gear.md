@@ -58,20 +58,16 @@ All Reforged items come pre-enchanted:
 
 ### Armor
 - Protection VI
-- Thorns IV
-- Mending I
 - Unbreaking IV
 - *(Helmet also gets Respiration IV)*
 - *(Boots also get Feather Falling IV)*
 
 ### Weapons
 - Sharpness/Power/Impaling VI
-- Mending I
 - Unbreaking IV
 
 ### Tools
 - Efficiency VI
-- Mending I
 - Unbreaking IV
 
 ---

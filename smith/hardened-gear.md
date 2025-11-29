@@ -71,11 +71,12 @@ All Hardened items are **Unbreakable** (never lose durability) and have maximum 
 |------|--------------|
 | **Sword** | Sharpness VIII, Smite V, Bane of Arthropods V, Looting V, Sweeping Edge IV |
 | **Bow** | Power VIII, Flame I, Infinity I |
-| **Axe** | Efficiency VIII, Fortune V |
+| **Axe (Fortune)** | Efficiency VIII, Fortune V, Sharpness VIII |
+| **Axe (Silk Touch)** | Efficiency VIII, Silk Touch I, Sharpness VIII |
 | **Crossbow** | Multishot I, Piercing V, Quick Charge V |
 | **Trident** | Impaling VIII, Channeling I, Loyalty IV, Riptide IV |
 | **Mace** | Density VIII, Sharpness VIII, Wind Burst IV |
-| **Shield** | Protection VIII, Thorns IV |
+| **Shield** | Protection VIII |
 
 ### Tools
 
@@ -83,12 +84,16 @@ All Hardened items are **Unbreakable** (never lose durability) and have maximum 
 |------|--------------|
 | **Pickaxe (Fortune)** | Efficiency VIII, Fortune V |
 | **Pickaxe (Silk Touch)** | Efficiency VIII, Silk Touch I |
-| **Shovel** | Efficiency VIII |
+| **Shovel (Fortune)** | Efficiency VIII, Fortune V |
+| **Shovel (Silk Touch)** | Efficiency VIII, Silk Touch I |
 | **Hoe** | Efficiency VIII |
 | **Fishing Rod** | Luck of the Sea VIII, Lure IV |
 
 {% hint style="info" %}
-**Pickaxe Choice:** When crafting a Hardened Pickaxe, you can choose between Fortune V (for ores) or Silk Touch (for building materials). Same recipe cost for both!
+**Tool Choices:** When crafting Hardened Axe, Pickaxe, or Shovel, you can choose between Fortune V or Silk Touch variants. Same recipe cost for both options!
+- **Axe:** Fortune for saplings/sticks or Silk Touch for bookshelves/logs
+- **Pickaxe:** Fortune for ores or Silk Touch for building materials
+- **Shovel:** Fortune for extra flint or Silk Touch for grass blocks/snow
 {% endhint %}
 
 ---
@@ -108,7 +113,7 @@ All Hardened items are **Unbreakable** (never lose durability) and have maximum 
 
 1. **Craft ingots first** — Stock up on all three ingot types before upgrading
 2. **Start with Pickaxe** — Makes farming other materials faster
-3. **Choose pickaxe wisely** — Fortune for mining, Silk Touch for building
+3. **Choose tool variants wisely** — Fortune for drops, Silk Touch for block preservation (Axe, Pickaxe, Shovel all have both options)
 4. **Full set bonus** — Complete armor set for maximum protection stacking
 
 ---
