@@ -9,10 +9,10 @@ Oakheart features two rank systems: **Vote Ranks** (free, earned through voting)
 | Type | Ranks | Cost | Time to Max |
 |------|-------|------|-------------|
 | **Vote Ranks** | 20 (Acorn → Yggdrasil) | Free | ~200 days |
-| **Store Ranks** | 4 main + 1 subscription (Ember → Eternal) | $10 - $100+ | Instant |
+| **Store Ranks** | 4 main + 1 subscription (Hedgehog → Phoenix) | $10 - $100+ | Instant |
 
 {% hint style="info" %}
-**Can I have both?** Yes! You keep the best of both. If you have Ember store rank and reach VoteRank 15 through voting, you get VoteRank 15 perks plus Ember's exclusive bonuses.
+**Can I have both?** Yes! You keep the best of both. If you have Hedgehog store rank and reach VoteRank 15 through voting, you get VoteRank 15 perks plus Hedgehog's exclusive bonuses (including your pet!).
 {% endhint %}
 
 ---
@@ -55,15 +55,15 @@ Progress through 20 ranks by voting daily on our 5 voting sites. Each vote earns
 
 | Rank | Commands Unlocked |
 |------|-------------------|
-| 2 (Sprout) | First warp, player shops |
+| 2 (Sprout) | `/cartographytable`, first warp, player shops |
 | 3 (Seedling) | `/condense` |
 | 4 (Sapling) | `/lay` |
 | 5 (Bud) | `/sit` |
 | 6 (Bloom) | `/feed` |
-| 7 (Leaf) | `/loom`, `/skulls` |
+| 7 (Leaf) | `/loom`, `/heads` |
 | 8 (Twig) | `/craft` |
 | 9 (Branch) | `/near`, `/armorstand` |
-| 10 (Root) | Home icons in GUI |
+| 10 (Root) | `/dispose`, home icons in GUI |
 | 11 (Fern) | `/bellyflop` |
 | 12 (Moss) | `/stonecutter` |
 | 13 (Thicket) | `/jump` |
@@ -73,7 +73,7 @@ Progress through 20 ranks by voting daily on our 5 voting sites. Each vote earns
 | 17 (Oak) | `/ptime` |
 | 18 (Elderwood) | `/smithingtable` |
 | 19 (Heartwood) | `/enderchest` |
-| 20 (Yggdrasil) | Permanent claims, Prestige eligible |
+| 20 (Yggdrasil) | `/heal`, prestige eligible |
 
 ### Rank-Up Rewards
 
@@ -111,38 +111,38 @@ Purchase instant access to perks without voting. Store ranks use **cumulative pr
 
 ### Store Rank Tiers
 
-| Rank | Price | Upgrade From | Equivalent Vote Rank |
-|------|-------|--------------|---------------------|
-| **Ember** | $10 | - | VoteRank 5 (Bud) |
-| **Cinder** | $25 | $15 from Ember | VoteRank 10 (Root) |
-| **Mythic** | $50 | $25 from Cinder | VoteRank 15 (Willow) |
-| **Ascend** | $100 | $50 from Mythic | VoteRank 20 (Yggdrasil) |
-| **Eternal** | Subscription | Requires Ascend | Cosmetic only |
+| Rank | Price | Upgrade From | Equivalent Vote Rank | Pet |
+|------|-------|--------------|---------------------|-----|
+| **Hedgehog** | $10 | - | VoteRank 5 (Bud) | Hedgehog |
+| **Squirrel** | $25 | $15 from Hedgehog | VoteRank 10 (Root) | Squirrel |
+| **Otter** | $50 | $25 from Squirrel | VoteRank 15 (Willow) | Otter |
+| **Owl** | $100 | $50 from Otter | VoteRank 20 (Yggdrasil) | Owl |
+| **Phoenix** | Subscription | Requires Owl | Cosmetic only | Phoenix |
 
 ### Store Rank Perks
 
-| Rank        | Homes | Warps | Shops | Exclusive Perks                                        |
-| ----------- | ----- | ----- | ----- | ------------------------------------------------------ |
-| **Ember**   | 5     | 2     | 5     | Keep inventory on death, Instant teleports, `/dispose` |
-| **Cinder**  | 10    | 5     | 10    | All Ember perks + home icons                           |
-| **Mythic**  | 12    | 10    | 20    | All Cinder perks + `/cartographytable`                 |
-| **Ascend**  | 15    | 15    | 30    | All Mythic perks + `/heal`, permanent claims           |
-| **Eternal** | 15    | 15    | 30    | All Ascend perks + exclusive chat tag                  |
+| Rank         | Homes | Warps | Shops | Exclusive Perks                                        |
+| ------------ | ----- | ----- | ----- | ------------------------------------------------------ |
+| **Hedgehog** | 5     | 2     | 5     | Keep inventory on death, instant teleports, Hedgehog pet |
+| **Squirrel** | 10    | 5     | 10    | All Hedgehog perks + home icons, Squirrel pet          |
+| **Otter**    | 12    | 10    | 20    | All Squirrel perks, Otter pet                          |
+| **Owl**      | 15    | 15    | 30    | All Otter perks, Owl pet                               |
+| **Phoenix**  | 15    | 15    | 30    | All Owl perks + exclusive chat tag, Phoenix pet        |
 
 {% hint style="info" %}
-**Eternal** is a subscription rank for players who already own Ascend. It provides purely cosmetic perks—an exclusive chat tag and future cosmetic additions.
+**Phoenix** is a subscription rank for players who already own Owl. It provides purely cosmetic perks—an exclusive chat tag, Phoenix pet, and future cosmetic additions.
 {% endhint %}
 
 ### Store Rank One-Time Rewards
 
 When you purchase a store rank, you receive a bonus package:
 
-| Rank | Emerald Blocks | XP | Random Crate Keys |
-|------|----------------|-----|-------------------|
-| Ember | 5 | 300 | - |
-| Cinder | 12 | 500 | - |
-| Mythic | 20 | 1500 | 2 |
-| Ascend | 32 | 3000 | 3 |
+| Rank | Emerald Blocks | XP | Random Crate Keys | Pet |
+|------|----------------|-----|-------------------|-----|
+| Hedgehog | 5 | 300 | - | Hedgehog |
+| Squirrel | 12 | 500 | - | Squirrel |
+| Otter | 20 | 1500 | 2 | Otter |
+| Owl | 32 | 3000 | 3 | Owl |
 
 ---
 
@@ -157,7 +157,7 @@ When you purchase a store rank, you receive a bonus package:
 | `/sit` | Sit on stairs and slabs | Rank 5 |
 | `/feed` | Restore hunger and saturation | Rank 6 |
 | `/loom` | Open loom interface anywhere | Rank 7 |
-| `/skulls` | Browse decorative skull menu | Rank 7 |
+| `/heads` | Browse decorative head menu | Rank 7 |
 | `/craft` | Open crafting table anywhere | Rank 8 |
 | `/near` | See nearby players | Rank 9 |
 | `/armorstand` | Armor stand editor | Rank 9 |
@@ -171,30 +171,30 @@ When you purchase a store rank, you receive a bonus package:
 | `/smithingtable` | Open smithing table anywhere | Rank 18 |
 | `/enderchest` | Access ender chest remotely | Rank 19 |
 
-### Store Rank Exclusive Commands
+### Store Rank Exclusive Perks
 
-| Command | Description | Rank |
-|---------|-------------|------|
-| `/dispose` | Trash unwanted items | Ember+ |
-| `/cartographytable` | Open cartography table anywhere | Mythic+ |
-| `/heal` | Fully heal yourself | Ascend |
+| Perk | Description | Rank |
+|------|-------------|------|
+| Keep Inventory | Don't lose items on death | Hedgehog+ |
+| Instant teleports | No warmup on `/tpa`, `/home` | Hedgehog+ |
+| Exclusive pets | Unique companion for each rank | All ranks |
 
 ---
 
 ## Key Milestones
 
 ### Early Game (Ranks 1-5)
-- **Rank 2 (5 votes):** Unlock warps and shops — start trading!
+- **Rank 2 (5 votes):** `/cartographytable`, unlock warps and shops — start trading!
 - **Rank 5 (30 votes):** `/sit` — social features unlocked
 - **Rank 6 (40 votes):** First Random Crate Key!
 
 ### Mid Game (Ranks 6-15)
-- **Rank 10 (140 votes):** Home icons, 10 homes, 5 warps, 10 shops
-- **Rank 15 (490 votes):** Major milestone, equivalent to Mythic store rank
+- **Rank 10 (140 votes):** `/dispose`, home icons, 10 homes, 5 warps, 10 shops
+- **Rank 15 (490 votes):** Major milestone, equivalent to Otter store rank
 
 ### End Game (Ranks 16-20)
 - **Rank 17 (690 votes):** `/ptime` — control your personal time
-- **Rank 20 (1000 votes):** Maximum rank! Permanent claims + Prestige eligible
+- **Rank 20 (1000 votes):** Maximum rank! `/heal`, prestige eligible
 
 ---
 
@@ -223,7 +223,7 @@ Prestige stars accumulate:
 A: Absolutely! Vote ranks provide everything store ranks do. It takes ~200 days of consistent voting, but it's completely achievable for free.
 
 **Q: Do store rank perks stack with vote ranks?**
-A: Yes! If you have Ember and reach VoteRank 15, you get VoteRank 15 perks plus Ember's exclusive bonuses (keep inventory, instant teleports).
+A: Yes! If you have Hedgehog and reach VoteRank 15, you get VoteRank 15 perks plus Hedgehog's exclusive bonuses (keep inventory, instant teleports, and your Hedgehog pet!).
 
 **Q: What happens if I miss voting days?**
 A: Nothing bad! You simply progress slower. There's no penalty for breaks—your vote count stays where it is.
@@ -232,10 +232,10 @@ A: Nothing bad! You simply progress slower. There's no penalty for breaks—your
 A: Use `/vote` to see your vote count and current rank progress.
 
 **Q: Are store ranks one-time purchases?**
-A: Yes! Pay once, keep forever. No subscriptions required for Ember/Cinder/Mythic/Ascend. The only subscription rank is Eternal, which is optional and purely cosmetic.
+A: Yes! Pay once, keep forever. No subscriptions required for Hedgehog/Squirrel/Otter/Owl. The only subscription rank is Phoenix, which is optional and purely cosmetic.
 
-**Q: What is the Eternal rank?**
-A: Eternal is an optional subscription rank for players who already own Ascend. It provides purely cosmetic perks like an exclusive chat tag—no gameplay advantages over Ascend.
+**Q: What is the Phoenix rank?**
+A: Phoenix is an optional subscription rank for players who already own Owl. It provides purely cosmetic perks like an exclusive chat tag and Phoenix pet—no gameplay advantages over Owl.
 
 ---
 

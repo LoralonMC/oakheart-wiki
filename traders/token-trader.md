@@ -1,7 +1,7 @@
 # Token Trader
 
 **NPC:** Merchant Bramblewood
-**Location:** Spawn Marketplace (near Ancient Stone Circle)
+**Location:** Village Square
 
 Trade your Vote Tokens for useful items, claim chunks, and smith progression materials.
 

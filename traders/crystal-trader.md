@@ -1,7 +1,7 @@
 # Crystal Trader
 
 **NPC:** Crystalkeeper Shimmervale
-**Location:** Crates Pavilion (inside the crates building)
+**Location:** Crates Pavilion
 
 Trade Crate Crystals for exclusive cosmetics, guaranteed valuable items, and more crate keys.
 

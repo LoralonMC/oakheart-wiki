@@ -141,7 +141,6 @@ When you use `/prestige`, a confirmation GUI appears:
 ║  ✓ 15 warps                           ║
 ║  ✓ 30 shops                           ║
 ║  ✓ All commands                       ║
-║  ✓ Permanent claims                   ║
 ║                                       ║
 ║  [✓ Confirm]         [✗ Cancel]       ║
 ║                                       ║

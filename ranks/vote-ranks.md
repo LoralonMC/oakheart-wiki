@@ -51,15 +51,15 @@ Voting on all 5 sites daily = 5 Vote Points per day. Rank 20 requires 1,000 vote
 | Rank | Homes | Warps | Shops | New Commands |
 |------|-------|-------|-------|--------------|
 | 1 | 1 | 0 | 0 | — |
-| 2 | 2 | 1 | 2 | First warp & shops |
+| 2 | 2 | 1 | 2 | `/cartographytable`, first warp & shops |
 | 3 | 3 | 1 | 3 | `/condense` |
 | 4 | 4 | 2 | 4 | `/lay` |
 | 5 | 5 | 2 | 5 | `/sit` |
 | 6 | 6 | 3 | 6 | `/feed` |
-| 7 | 7 | 3 | 7 | `/loom`, `/skulls` |
+| 7 | 7 | 3 | 7 | `/loom`, `/heads` |
 | 8 | 8 | 4 | 8 | `/craft` |
 | 9 | 9 | 4 | 9 | `/near`, `/armorstand` |
-| 10 | 10 | 5 | 10 | Home icons |
+| 10 | 10 | 5 | 10 | `/dispose`, home icons |
 | 11 | 10 | 6 | 12 | `/bellyflop` |
 | 12 | 11 | 7 | 14 | `/stonecutter` |
 | 13 | 11 | 8 | 16 | `/jump` |
@@ -69,7 +69,7 @@ Voting on all 5 sites daily = 5 Vote Points per day. Rank 20 requires 1,000 vote
 | 17 | 13 | 12 | 24 | `/ptime` |
 | 18 | 14 | 13 | 26 | `/smithingtable` |
 | 19 | 14 | 14 | 28 | `/enderchest` |
-| 20 | 15 | 15 | 30 | Permanent claims, Prestige |
+| 20 | 15 | 15 | 30 | `/heal`, prestige eligible |
 
 ---
 
@@ -109,12 +109,12 @@ You receive rewards every time you rank up:
 
 | Rank | Milestone |
 |------|-----------|
-| **Rank 2** | Unlock warps and shops — start trading! |
+| **Rank 2** | `/cartographytable`, unlock warps and shops — start trading! |
 | **Rank 5** | Fun social command (`/sit`) |
 | **Rank 6** | First Random Crate Key! |
-| **Rank 10** | Customize home icons, 10 homes, major emerald reward |
+| **Rank 10** | `/dispose`, customize home icons, 10 homes, major emerald reward |
 | **Rank 17** | `/ptime` — control your personal time |
-| **Rank 20** | Permanent claims, prestige eligibility, 15 homes, 15 warps, 30 shops! |
+| **Rank 20** | `/heal`, prestige eligibility, 15 homes, 15 warps, 30 shops! |
 
 ---
 
@@ -122,15 +122,17 @@ You receive rewards every time you rank up:
 
 | Command | What It Does |
 |---------|--------------|
+| `/cartographytable` | Open cartography table anywhere |
 | `/condense` | Convert items to blocks (e.g., diamonds → diamond blocks) |
 | `/lay` | Lay down on the ground |
 | `/sit` | Sit on stairs and slabs |
 | `/feed` | Restore hunger and saturation |
 | `/loom` | Open loom interface anywhere |
-| `/skulls` | Browse decorative skull menu |
+| `/heads` | Browse decorative head menu |
 | `/craft` | Open crafting table anywhere |
 | `/near` | See nearby players |
 | `/armorstand` | Armor stand editor |
+| `/dispose` | Trash unwanted items quickly |
 | `/bellyflop` | Fun bellyflop emote |
 | `/stonecutter` | Open stonecutter anywhere |
 | `/jump` | Teleport up to 30 blocks where you're looking |
@@ -140,6 +142,7 @@ You receive rewards every time you rank up:
 | `/ptime` | Set personal time (day/night for your view only) |
 | `/smithingtable` | Open smithing table anywhere |
 | `/enderchest` | Access your ender chest remotely |
+| `/heal` | Fully restore your health |
 
 ---
 

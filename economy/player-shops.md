@@ -75,7 +75,7 @@ Your maximum number of shops increases as you rank up:
 | 19 | 28 |
 | 20 (Yggdrasil) | 30 |
 
-**Store Ranks** match their equivalent vote rank (Ember = 5 shops, Ascend = 30 shops).
+**Store Ranks** match their equivalent vote rank (Hedgehog = 5 shops, Owl = 30 shops).
 
 ---
 

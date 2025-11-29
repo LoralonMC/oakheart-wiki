@@ -137,7 +137,7 @@ These commands unlock as you rank up through voting or store ranks.
 | `/sit` | Sit on stairs/slabs | 5 |
 | `/feed` | Restore hunger | 6 |
 | `/loom` | Open loom anywhere | 7 |
-| `/skulls` | Decorative skull menu | 7 |
+| `/heads` | Decorative head menu | 7 |
 | `/craft` | Open crafting table | 8 |
 | `/near` | See nearby players | 9 |
 | `/armorstand` | Armor stand editor | 9 |
@@ -155,9 +155,9 @@ These commands unlock as you rank up through voting or store ranks.
 
 | Command | Description | Rank |
 |---------|-------------|------|
-| `/dispose` | Trash items | Ember+ |
-| `/cartographytable` | Open cartography | Mythic+ |
-| `/heal` | Full health restore | Ascend |
+| `/dispose` | Trash items | Squirrel+ |
+| `/cartographytable` | Open cartography | Hedgehog+ |
+| `/heal` | Full health restore | Owl |
 
 ---
 

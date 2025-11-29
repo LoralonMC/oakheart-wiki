@@ -60,6 +60,7 @@
 * [Voice Chat](features/voice-chat.md)
 * [Resource World](features/resource-world.md)
 * [Pets](features/pets.md)
+* [Cosmetics](features/cosmetics.md)
 
 ## Community
 

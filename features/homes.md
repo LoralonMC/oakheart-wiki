@@ -107,7 +107,7 @@ Use `/homes` to open a visual menu showing all your saved homes.
 
 ### Home Icons (Rank 10+)
 
-At Vote Rank 10 (Root) or Store Rank Cinder+, you can set custom icons for your homes in the GUI:
+At Vote Rank 10 (Root) or Store Rank Squirrel+, you can set custom icons for your homes in the GUI:
 
 1. Open `/homes`
 2. Right-click a home
@@ -139,7 +139,7 @@ Example:
 
 By default, home teleports have a short warmup period. Stay still while the countdown completes.
 
-**Store Rank Benefit:** Ember rank and higher have **instant teleports**—no warmup needed!
+**Store Rank Benefit:** Hedgehog rank and higher have **instant teleports**—no warmup needed!
 
 ---
 

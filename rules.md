@@ -130,7 +130,7 @@ Warning → Trade restrictions → Temp ban → Economy reset + Permanent ban
 - Bypass claim protections with exploits
 
 ### Inactive Claims
-Claims inactive for 90+ days may be removed by staff. We'll attempt to contact you first. Rank 20 (Yggdrasil) and Ascend store rank players have permanent claims.
+Claims inactive for 90+ days may be removed by staff. We'll attempt to contact you first.
 
 ---
 
@@ -280,7 +280,7 @@ Vote rewards removed + Temp ban
 ## Store & Donations
 
 ### What You Can Buy
-- Store ranks (Ember, Cinder, Mythic, Ascend)
+- Store ranks (Hedgehog, Squirrel, Otter, Owl)
 - Crate keys
 - Cosmetics
 - Claim Chunks

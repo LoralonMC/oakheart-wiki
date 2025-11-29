@@ -106,6 +106,26 @@ Information about claiming and land management.
 
 ---
 
+## Specialty Services
+
+### Velvetpaw the Pet Keeper
+**Role:** Pet Shop Owner
+**Location:** Pet Shop
+*"Every creature deserves love and a good home."*
+
+A gentle soul surrounded by various animals. Speaks to animals better than people. Visit Velvetpaw for all your pet needs.
+
+---
+
+### Silkthread the Tailor
+**Role:** Cosmetics Shop Owner
+**Location:** Cosmetics Shop
+*"Darling, you simply MUST try this new ensemble!"*
+
+Fashionable NPC with an eye for style. Dramatic personality who treats fashion as art. Visit for cosmetic options and outfit customization.
+
+---
+
 ## Atmospheric NPCs
 
 ### Rosepetal the Florist

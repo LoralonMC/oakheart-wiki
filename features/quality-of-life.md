@@ -172,7 +172,7 @@ Access crafting interfaces anywhere without placing blocks.
 | `/grindstone` | Open grindstone | Rank 14 |
 | `/anvil` | Open anvil | Rank 16 |
 | `/smithingtable` | Open smithing table | Rank 18 |
-| `/cartographytable` | Open cartography table | Mythic+ Store Rank |
+| `/cartographytable` | Open cartography table | Rank 2 |
 
 ---
 
@@ -252,7 +252,7 @@ Quickly destroy unwanted items.
 /dispose
 ```
 
-**Rank Required:** Ember Store Rank or higher
+**Rank Required:** Rank 10 (Root) or Squirrel Store Rank+
 
 Opens a virtual trash can. Any items placed inside are permanently destroyed when you close it.
 
@@ -260,15 +260,15 @@ Opens a virtual trash can. Any items placed inside are permanently destroyed whe
 **Warning:** Items destroyed with `/dispose` cannot be recovered!
 {% endhint %}
 
-### Decorative Skulls
+### Decorative Heads
 
 ```
-/skulls
+/heads
 ```
 
 **Rank Required:** Rank 7 (Leaf)
 
-Opens a menu with hundreds of decorative skull designs for building.
+Opens a menu with hundreds of decorative head designs for building.
 
 ---
 
