@@ -85,6 +85,16 @@ Vote on all 5 voting sites daily using `/vote`. Each vote gives you **1 Vote Key
 | Ocelot Plushie | Uncommon |
 | Tropical Fish Plushie | Uncommon |
 | Creaking Plushie | Rare |
+| Zombie Horse Figure | Uncommon |
+| Endermite Figure | Uncommon |
+| Snow Golem Figure | Uncommon |
+| Elder Guardian Figure | Rare |
+
+### Trading Cards
+
+| Reward | Rarity |
+|--------|--------|
+| Starter Booster Pack | Common |
 
 ### Server Items
 

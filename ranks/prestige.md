@@ -74,9 +74,7 @@ After 5 prestiges, stars use multiplier format (⭐×6) to prevent chat clutter.
 | Emerald Blocks | 32 (20,480 emeralds!) |
 | Vote Keys | 5 |
 | Claim Chunks | 3 |
-| Paid Crate Key (Tier 1) | 1 |
 | Server announcement | Yes |
-| Fireworks celebration | Yes |
 
 {% hint style="info" %}
 **Why so generous?** 1000 votes = 200 days of perfect voting. That dedication deserves recognition!
@@ -104,22 +102,6 @@ Each prestige requires another 1000 votes from your current total.
 
 ### `/prestige`
 Opens the prestige confirmation GUI (must be Rank 20).
-
-### `/prestige stats`
-View your prestige information:
-- Current prestige level
-- Current vote rank
-- Total votes
-- Votes until next prestige
-
-### `/prestige top`
-View the prestige leaderboard:
-- Top prestiged players
-- Their total votes
-- Your current position
-
-### `/prestige info <player>`
-View another player's prestige stats.
 
 ---
 
@@ -156,9 +138,8 @@ This prevents accidental prestiging.
 When you prestige:
 
 1. **Server-wide announcement** in chat
-2. **Fireworks display** at the central oak tree
-3. **Personal congratulations** message
-4. **Rewards deposited** to your inventory
+2. **Personal congratulations** message
+3. **Rewards deposited** to your inventory
 
 Everyone online sees your achievement!
 
@@ -166,11 +147,8 @@ Everyone online sees your achievement!
 
 ## Prestige Leaderboard
 
-### In-Game
-Use `/prestige top` or `/prestigetop` to view the leaderboard.
-
 ### At Spawn
-A hologram near the central oak tree shows the top 5 prestiged players, updating in real-time.
+A hologram near the central oak tree shows the top prestiged players, updating in real-time.
 
 ---
 
@@ -202,7 +180,7 @@ A: No, purely cosmetic bragging rights. You already have max perks at Rank 20.
 A: 1000 votes = 200 days of perfect voting (5 votes/day on all sites).
 
 **Q: Can others see my prestige level?**
-A: Yes! Your stars show in chat, TAB list, and other displays. Use `/prestige top` to compare.
+A: Yes! Your stars show in chat, TAB list, and the prestige leaderboard at spawn.
 
 **Q: Do my vote points reset?**
 A: Yes, vote points reset to 0. Total votes (lifetime count) continues accumulating.
