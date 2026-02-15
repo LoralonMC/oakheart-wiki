@@ -13,7 +13,6 @@
 * [Overview](economy/overview.md)
 * [Spawn Shops](economy/spawn-shops.md)
 * [Player Shops](economy/player-shops.md)
-* [Trading](economy/trading.md)
 
 ## Ranks
 
@@ -21,12 +20,10 @@
 * [Vote Ranks](ranks/vote-ranks.md)
 * [Store Ranks](ranks/store-ranks.md)
 * [Prestige System](ranks/prestige.md)
-* [Rank Perks](ranks/perks.md)
 
 ## Claiming
 
 * [Overview](claiming/overview.md)
-* [Getting Started with Claims](claiming/getting-started.md)
 * [Claim Chunks](claiming/claim-chunks.md)
 * [Sub-Areas](claiming/sub-areas.md)
 * [Land Management](claiming/land-management.md)

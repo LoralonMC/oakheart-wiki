@@ -214,4 +214,3 @@ This means **emeralds are always valuable**—no massive villager halls breaking
 
 - [Spawn Shops](spawn-shops.md) — Detailed shop locations and NPC info
 - [Player Shops](player-shops.md) — How to create your own shop
-- [Trading](trading.md) — Safe player-to-player trading

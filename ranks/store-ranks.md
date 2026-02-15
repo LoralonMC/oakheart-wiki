@@ -164,4 +164,3 @@ Already own a Store Rank? Upgrades only cost the difference:
 - [Ranks Overview](overview.md)
 - [Vote Ranks](vote-ranks.md)
 - [Prestige System](prestige.md)
-- [Rank Perks](perks.md)

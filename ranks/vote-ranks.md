@@ -151,4 +151,3 @@ You receive rewards every time you rank up:
 - [Ranks Overview](overview.md)
 - [Store Ranks](store-ranks.md)
 - [Prestige System](prestige.md)
-- [Rank Perks](perks.md)

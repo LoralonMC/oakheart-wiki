@@ -64,4 +64,3 @@ Visit **Velvetpaw the Pet Keeper** for all your pet needs. A gentle soul surroun
 
 - [Cosmetics](cosmetics.md) — All cosmetic features
 - [Store Ranks](../ranks/store-ranks.md) — Get exclusive rank pets
-- [Trading](../economy/trading.md) — Trade pets with other players

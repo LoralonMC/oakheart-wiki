@@ -151,4 +151,3 @@ When setting your player warp, choose the appropriate category:
 - [Economy Overview](overview.md)
 - [Spawn Shops](spawn-shops.md)
 - [Player Warps](../features/player-warps.md)
-- [Trading](trading.md)

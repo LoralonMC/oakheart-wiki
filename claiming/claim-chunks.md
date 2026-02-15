@@ -103,5 +103,4 @@ Milestone vote ranks give bonus Claim Chunks when you rank up:
 ## Related Pages
 
 - [Claiming Overview](overview.md)
-- [Getting Started with Claims](getting-started.md)
 - [Token Trader](../traders/token-trader.md)

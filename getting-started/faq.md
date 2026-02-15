@@ -48,7 +48,7 @@ Rank 20 (Yggdrasil) requires 1,000 votes = ~200 days of consistent voting.
 
 **Q: What do ranks give me?**
 
-More homes, warps, shop slots, claim chunks, and utility commands. See [Rank Perks](../ranks/perks.md).
+More homes, warps, shop slots, claim chunks, and utility commands. See [Ranks Overview](../ranks/overview.md).
 
 **Q: What are Store Ranks?**
 

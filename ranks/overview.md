@@ -244,4 +244,3 @@ A: Phoenix is an optional subscription rank for players who already own Owl. It 
 - [Vote Ranks](vote-ranks.md) — Detailed vote rank information
 - [Store Ranks](store-ranks.md) — Store rank details and purchasing
 - [Prestige System](prestige.md) — Post-Rank 20 progression
-- [Rank Perks](perks.md) — Complete perk breakdown

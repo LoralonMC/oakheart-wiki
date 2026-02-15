@@ -156,4 +156,3 @@ Buys wood and related materials.
 
 - [Economy Overview](overview.md)
 - [Player Shops](player-shops.md)
-- [Trading](trading.md)

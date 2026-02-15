@@ -155,6 +155,5 @@ Claims from inactive players (90+ days offline) may be removed by staff after re
 ## Related Pages
 
 - [Claiming Overview](overview.md)
-- [Getting Started with Claims](getting-started.md)
 - [Sub-Areas](sub-areas.md)
 - [Claim Chunks](claim-chunks.md)

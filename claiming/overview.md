@@ -248,6 +248,5 @@ A: Use `/lands leave` while in their land.
 
 ## Related Pages
 
-- [Getting Started with Claims](getting-started.md) — Step-by-step claiming tutorial
 - [Claim Chunks](claim-chunks.md) — How to get more chunks
 - [Land Management](land-management.md) — Advanced land features
