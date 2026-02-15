@@ -18,4 +18,3 @@ Join the Oakheart community on Discord!
 ## Related Pages
 
 - [Server Rules](../rules.md)
-- [Community Guidelines](guidelines.md)
