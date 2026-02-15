@@ -34,7 +34,7 @@ Hardened Ingots are crafting materials made from massive amounts of blocks and r
 | Ingredient | Quantity |
 |------------|----------|
 | Gold Block | 16 |
-| Heart of the Sea | 8 |
+| Heart of the Sea | 4 |
 | Emerald Block | 24 |
 
 **Used for:** Leggings, Bow, Hoe, Trident, Fishing Rod

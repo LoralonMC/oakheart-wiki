@@ -43,7 +43,7 @@ Five shops surround the central area:
 | Crates Pavilion | Crystalkeeper Shimmervale | Vote & Paid crates + Crystal Trader |
 | Ancient Stone Circle | Wanderlust | Player warps |
 | Inn/Tavern | Pipesmoke & Quillfeather | Social hub + Land Registry |
-| Village Square | Merchant Bramblewood | Vote Token Trader |
+| Crates Pavilion | Merchant Bramblewood | Vote Token Trader |
 | Pet Shop | Velvetpaw | Pet management |
 | Cosmetics Shop | Silkthread | Cosmetics & fashion |
 

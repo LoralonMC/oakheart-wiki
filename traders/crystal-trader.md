@@ -115,9 +115,9 @@ Trade up to higher-tier crate keys:
 
 | Crystals | Estimated Time | Can Afford |
 |----------|----------------|------------|
-| 30 | ~2-3 months | Cottage Hat |
-| 60 | ~4-6 months | Mending Book |
-| 130 | ~10-12 months | Full Cottage Set |
+| 30 | ~9 months | Cottage Hat |
+| 60 | ~18 months | Mending Book |
+| 130 | ~3.3 years | Full Cottage Set |
 
 **With Paid Crates:**
 - Much faster crystal acquisition
@@ -127,41 +127,6 @@ Trade up to higher-tier crate keys:
 {% hint style="warning" %}
 **Long-term goal:** Exclusive cosmetics are designed as dedication rewards. Don't expect to get the full Cottage Set quickly from voting alone!
 {% endhint %}
-
----
-
-## Spending Strategies
-
-### Pity-Focused (Practical)
-
-If you want guaranteed valuable items:
-1. Save 60 crystals for **Mending Book**
-2. Save 70 crystals for **Ancient Debris**
-3. Use remaining for claim chunks
-
-### Cosmetic-Focused (Collector)
-
-If you want the exclusive items:
-1. Save everything for the **Cottage Set** (130 crystals)
-2. Then work on Gardener's Hoe and Forester's Axe
-3. Grab decoratives last
-
-### Escalation-Focused (Gambler)
-
-If you love opening crates:
-1. Trade crystals for higher-tier keys
-2. More crate openings = more crystal drops
-3. Cycle continues!
-
----
-
-## Tips
-
-1. **Crystals are rare** — Don't spend impulsively
-2. **Plan big purchases** — Full Cottage Set takes dedication
-3. **Pity rewards are guaranteed** — Better than gambling for Mending
-4. **Cosmetics are exclusive** — Only available here
-5. **No weekly limits** — Save as long as you want
 
 ---
 

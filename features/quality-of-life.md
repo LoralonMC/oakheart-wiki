@@ -309,16 +309,6 @@ Visit the server's Squaremap URL (check in-game or Discord for the link).
 
 ---
 
-## Tips
-
-1. **Check your overflow** — Don't lose valuable items
-2. **Use portable workstations** — Save inventory space
-3. **Toggle phantoms** — If they annoy you
-4. **Invisible frames are craftable** — Stock up on phantom membranes
-5. **Animal traps** — Easiest way to move farm animals
-
----
-
 ## Related Pages
 
 - [Ranks Overview](../ranks/overview.md) — When commands unlock

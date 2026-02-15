@@ -1,7 +1,7 @@
 # Token Trader
 
 **NPC:** Merchant Bramblewood
-**Location:** Village Square
+**Location:** Crates Pavilion
 
 Trade your Vote Tokens for useful items, claim chunks, and smith progression materials.
 
@@ -35,14 +35,6 @@ These items have purchase limits that **reset every Monday at 00:00 server time*
 | 1 Totem of Undying | 40 tokens | 1/week |
 | 1 Dragon Head | 60 tokens | 1/week |
 | 1 Heart of the Sea | 90 tokens | 1/week |
-
-### Weekly Budget Example
-
-With 35 tokens/week, you could buy:
-- **Week 1:** 2 Ancient Debris (30) + save 5
-- **Week 2:** 1 Echo Shard (35) + use saved 5
-- **Week 3:** 1 Totem (40) — save from previous week
-- **Week 4:** 1 Heart of the Sea (90) — save 2-3 weeks
 
 ---
 
@@ -110,39 +102,6 @@ Custom items matching Oakheart's aesthetic:
 This lets dedicated voters save up for Crystal Trader exclusives without relying on crate luck.
 
 *20 days of perfect voting = 1 crystal via tokens*
-
----
-
-## Spending Strategies
-
-### New Player (Building Territory)
-
-Focus on claim chunks:
-- 10 chunks = 80 tokens (~2.5 weeks voting)
-- Gives you room to build and expand
-
-### Mid-Game (Smith Progression)
-
-Rotate weekly-limited materials:
-- Prioritize what you need for current [Reforged](../smith/reforged-gear.md) recipes
-- Ancient Debris and Echo Shards are most versatile
-
-### Late-Game (Convenience)
-
-Stock up on QoL items:
-- Shulker Boxes for storage
-- Elytra replacements
-- Building materials for projects
-
----
-
-## Tips
-
-1. **Vote every day** — Missing days means missing tokens
-2. **Check weekly limits** — Don't let them reset unused
-3. **Buy chunks in bulk** — Better value per chunk
-4. **Plan for big purchases** — Heart of the Sea requires saving
-5. **Don't ignore cosmetics** — The cottagecore items are unique!
 
 ---
 

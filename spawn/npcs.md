@@ -17,7 +17,7 @@ Greets new arrivals and explains the village's ways.
 
 ### Merchant Bramblewood
 **Role:** Vote Token Trader
-**Location:** Village Square marketplace area
+**Location:** Crates Pavilion
 *"Ah, vote tokens! The lifeblood of our community participation!"*
 
 Trade your Vote Tokens for valuable rewards.

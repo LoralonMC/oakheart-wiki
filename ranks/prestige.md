@@ -13,10 +13,6 @@ When you prestige:
 - You receive generous rewards
 - Server-wide celebration announcement
 
-{% hint style="success" %}
-**You keep everything!** Prestiging is purely cosmetic. Your 15 homes, 15 warps, 30 shops, and all commands remain yours.
-{% endhint %}
-
 ---
 
 ## Requirements
@@ -71,9 +67,10 @@ After 5 prestiges, stars use multiplier format (⭐×6) to prevent chat clutter.
 
 | Reward | Amount |
 |--------|--------|
-| Emerald Blocks | 32 (20,480 emeralds!) |
+| Emerald Blocks | 32 (288 emeralds) |
 | Vote Keys | 5 |
 | Claim Chunks | 3 |
+| Random Paid Key (Tier 1-3) | 1 |
 | Server announcement | Yes |
 
 {% hint style="info" %}
@@ -105,60 +102,15 @@ Opens the prestige confirmation GUI (must be Rank 20).
 
 ---
 
-## Confirmation Process
-
-When you use `/prestige`, a confirmation GUI appears:
-
-```
-╔═══════════════════════════════════════╗
-║        ⭐ Prestige Confirmation        ║
-╠═══════════════════════════════════════╣
-║                                       ║
-║  Reset your rank from Yggdrasil to    ║
-║  Acorn and gain your 5th prestige     ║
-║  star!                                ║
-║                                       ║
-║  You will KEEP all perks:             ║
-║  ✓ 15 homes                           ║
-║  ✓ 15 warps                           ║
-║  ✓ 30 shops                           ║
-║  ✓ All commands                       ║
-║                                       ║
-║  [✓ Confirm]         [✗ Cancel]       ║
-║                                       ║
-╚═══════════════════════════════════════╝
-```
-
-This prevents accidental prestiging.
-
----
-
-## Server Celebration
-
-When you prestige:
-
-1. **Server-wide announcement** in chat
-2. **Personal congratulations** message
-3. **Rewards deposited** to your inventory
-
-Everyone online sees your achievement!
-
----
-
 ## Prestige Leaderboard
 
-### At Spawn
-A hologram near the central oak tree shows the top prestiged players, updating in real-time.
+A hologram near the central oak tree at spawn shows the top prestiged players.
 
 ---
 
 ## Where Prestige Shows
 
-Your prestige stars appear in:
-- **Chat** — Before your rank and name
-- **TAB list** — Player list display
-- **Land info** — When viewing someone's claim
-- **Player info** — Various player lookup commands
+Your prestige stars appear in chat, TAB list, land info, and player lookup commands.
 
 ---
 
@@ -167,20 +119,8 @@ Your prestige stars appear in:
 **Q: Do I lose my perks when I prestige?**
 A: No! You keep all 15 homes, 15 warps, 30 shops, and every command. Only your rank display resets.
 
-**Q: Can I prestige more than once?**
-A: Yes! Unlimited prestiges. Each requires another 1000 votes.
-
 **Q: What if I accidentally prestige?**
 A: There's a confirmation GUI to prevent this. If issues occur, open a Discord ticket.
-
-**Q: Do prestige stars give gameplay advantages?**
-A: No, purely cosmetic bragging rights. You already have max perks at Rank 20.
-
-**Q: How long does it take to prestige?**
-A: 1000 votes = 200 days of perfect voting (5 votes/day on all sites).
-
-**Q: Can others see my prestige level?**
-A: Yes! Your stars show in chat, TAB list, and the prestige leaderboard at spawn.
 
 **Q: Do my vote points reset?**
 A: Yes, vote points reset to 0. Total votes (lifetime count) continues accumulating.

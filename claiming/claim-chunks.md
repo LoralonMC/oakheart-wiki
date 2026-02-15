@@ -100,17 +100,8 @@ Milestone vote ranks give bonus Claim Chunks when you rank up:
 
 ---
 
-## Tips
-
-1. **Vote daily** — Tokens add up fast for buying chunks
-2. **Check crates** — Vote Crate can drop chunks as a rare reward
-3. **Trade smart** — Buy from players who have extras
-4. **Plan ahead** — Know how many chunks you'll need before building big
-
----
-
 ## Related Pages
 
 - [Claiming Overview](overview.md)
 - [Getting Started with Claims](getting-started.md)
-- [Token Trader](../crates/token-trader.md)
+- [Token Trader](../traders/token-trader.md)

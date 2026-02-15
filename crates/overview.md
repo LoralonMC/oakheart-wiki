@@ -111,15 +111,6 @@ Seasonal crates contain **exclusive items** only available during that event.
 
 ---
 
-## Tips
-
-1. **Vote every day** — 5 keys daily adds up fast
-2. **Save crystals for exclusives** — Trade them at the Crystal Trader
-3. **Check seasonal crates** — Limited-time exclusives don't return
-4. **Open crates in bulk** — More satisfying and efficient
-
----
-
 ## Related Pages
 
 - [Vote Crate](vote-crate.md) — Full loot table

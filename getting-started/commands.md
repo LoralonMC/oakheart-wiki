@@ -146,18 +146,13 @@ These commands unlock as you rank up through voting or store ranks.
 | `/jump` | Fun emote | 13 |
 | `/grindstone` | Open grindstone | 14 |
 | `/crawl` | Fun emote | 15 |
+| `/cartographytable` | Open cartography table | 2 |
 | `/anvil` | Open anvil | 16 |
 | `/ptime` | Set personal time | 17 |
 | `/smithingtable` | Open smithing table | 18 |
 | `/enderchest` | Access ender chest | 19 |
-
-### Store Rank Exclusive
-
-| Command | Description | Rank |
-|---------|-------------|------|
-| `/dispose` | Trash items | Squirrel+ |
-| `/cartographytable` | Open cartography | Hedgehog+ |
-| `/heal` | Full health restore | Owl |
+| `/dispose` | Trash items | 10 |
+| `/heal` | Full health restore | 20 |
 
 ---
 

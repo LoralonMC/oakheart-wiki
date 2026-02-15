@@ -92,7 +92,7 @@ Before crafting Hardened gear, you must create **Hardened Ingots**—special all
 | Ingot Type | Materials Required |
 |------------|-------------------|
 | **Hardened Netherite Ingot** | 3 Netherite Blocks, 4 Ancient Debris, 12 Emerald Blocks |
-| **Hardened Gold Ingot** | 16 Gold Blocks, 8 Hearts of the Sea, 24 Emerald Blocks |
+| **Hardened Gold Ingot** | 16 Gold Blocks, 4 Hearts of the Sea, 24 Emerald Blocks |
 | **Hardened Copper Ingot** | 24 Copper Blocks, 8 Diamond Blocks, 16 Emerald Blocks |
 
 {% hint style="info" %}
@@ -144,7 +144,8 @@ Maximum enchantment levels with the **Unbreakable** property:
 - Looting V / Fortune V
 - Sweeping Edge IV
 - Bow: Power VIII, Flame I, Infinity I
-- Trident: Impaling VIII, Channeling I, Loyalty IV, Riptide IV
+- Trident (Loyalty): Impaling VIII, Channeling I, Loyalty IV
+- Trident (Riptide): Impaling VIII, Riptide IV
 - Mace: Density VIII, Wind Burst IV
 
 **Tools:**

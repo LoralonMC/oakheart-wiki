@@ -1,10 +1,10 @@
 # Pets
 
-Collect rare companion pets by defeating hostile mobs! Each pet is a custom 3D model that follows you around.
+Collect companion pets that follow you around with custom 3D animated models! There are two ways to get pets: rare mob drops and store rank exclusives.
 
 ---
 
-## How to Get Pets
+## Mob Drop Pets
 
 Every hostile mob has a **1 in 10,000** chance to drop its pet version when killed.
 
@@ -14,7 +14,25 @@ Every hostile mob has a **1 in 10,000** chance to drop its pet version when kill
 - And so on for all hostile mobs!
 
 {% hint style="info" %}
-When a pet drops, the server announces it to everyone! These are rare collectibles.
+**Server announcement!** When a pet drops, the entire server is notified. These are rare collectibles worth celebrating.
+{% endhint %}
+
+---
+
+## Store Rank Pets
+
+Each store rank comes with an **exclusive pet companion** matching the rank animal. These pets are only available to players who own that rank.
+
+| Store Rank | Pet | Price |
+|------------|-----|-------|
+| **Hedgehog** | Hedgehog Pet | $10 |
+| **Squirrel** | Squirrel Pet | $25 (cumulative) |
+| **Otter** | Otter Pet | $50 (cumulative) |
+| **Owl** | Owl Pet | $100 (cumulative) |
+| **Phoenix** | Phoenix Pet | $10/month subscription (requires Owl) |
+
+{% hint style="success" %}
+**You keep all pets!** When you upgrade to a higher store rank, you keep your previous rank's pet too. An Owl rank player has access to all four pets.
 {% endhint %}
 
 ---
@@ -22,22 +40,28 @@ When a pet drops, the server announces it to everyone! These are rare collectibl
 ## Pet Features
 
 - **Custom 3D Models** — Each pet has a unique animated model
-- **Follows You** — Your pet companions follow you around
-- **Collection System** — Collect different pet types
-- **Tradeable** — Trade pets with other players
+- **Follows You** — Your pet companions follow you around the world
+- **Collection System** — Collect different pet types from mob drops
+- **Tradeable** — Mob drop pets can be traded with other players
 
 ---
 
-## Tips
+## Velvetpaw the Pet Keeper
 
-1. **Keep hunting** — At 1/10,000, you'll need to defeat many mobs
-2. **Mob farms help** — Higher kill rates mean more chances
-3. **Check announcements** — Server announces all pet drops
-4. **Trade with others** — Can't get the one you want? Try trading
+**Location:** Pet Shop at spawn
+
+Visit **Velvetpaw the Pet Keeper** for all your pet needs. A gentle soul surrounded by various animals, Velvetpaw can help you with:
+
+- Viewing your pet collection
+- Managing active pets
+- Learning about available pets
+
+*"Every creature deserves love and a good home."*
 
 ---
 
 ## Related Pages
 
-- [Cosmetics](cosmetics.md)
-- [Trading](../economy/trading.md)
+- [Cosmetics](cosmetics.md) — All cosmetic features
+- [Store Ranks](../ranks/store-ranks.md) — Get exclusive rank pets
+- [Trading](../economy/trading.md) — Trade pets with other players

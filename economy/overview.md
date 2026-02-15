@@ -210,16 +210,6 @@ This means **emeralds are always valuable**—no massive villager halls breaking
 
 ---
 
-## Tips for New Players
-
-1. **Diversify your farming** — Different shops have different limits
-2. **Start with what you enjoy** — Mining? Farming? Fishing? All paths work
-3. **Don't sell everything** — Keep materials for your own builds
-4. **Trade with players** — Sometimes player shops offer better deals
-5. **Check limits daily** — Limits reset at midnight, don't miss free income
-
----
-
 ## Related Pages
 
 - [Spawn Shops](spawn-shops.md) — Detailed shop locations and NPC info

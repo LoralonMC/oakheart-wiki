@@ -156,47 +156,10 @@ You can set homes in different dimensions:
 
 ---
 
-## Tips
-
-### Strategic Home Placement
-
-1. **Main base** — Your primary home
-2. **Farms** — Quick access to your farms
-3. **Portals** — Near your nether portal for dimension travel
-4. **Mining spots** — Deep mining locations
-5. **Community areas** — Near spawn or popular player warps
-6. **Projects** — Wherever you're currently building
-
-### Maximizing Your Homes
-
-| Homes | Strategy |
-|-------|----------|
-| 1-3 | Main base, farm, mine |
-| 4-6 | Add nether, end access, shop |
-| 7-10 | Add grinders, projects, storage |
-| 11-15 | Full coverage of all your builds and future expansion |
-
-### Rank Up for More!
-
-If you're constantly running out of homes:
-- **Vote daily** — Progress through vote ranks
-- **Store ranks** — Instant access to more homes
-
----
-
-## Common Questions
-
-**Q: What happens if I die? Can I get back?**
-A: Use `/back` to return to your death location. Your homes remain saved.
+## FAQ
 
 **Q: Can other players use my homes?**
 A: No, homes are private. Use player warps if you want others to visit.
-
-**Q: Can I set a home in someone else's claim?**
-A: Yes, if they've trusted you. But consider asking first!
-
-**Q: What if I delete a home by accident?**
-A: Deleted homes cannot be recovered. Set it again manually.
 
 **Q: Do homes expire?**
 A: No, your homes persist indefinitely.

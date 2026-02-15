@@ -1,6 +1,15 @@
 # Server Rules
 
-Oakheart SMP is a community-focused survival server. These rules exist to ensure everyone has a positive experience. Please read them carefully.
+Oakheart SMP is a community-focused survival server. These rules exist to ensure everyone has a positive experience.
+
+---
+
+## Core Values
+
+- **Community First** — Support fellow players and build connections
+- **Fair Play** — No cheating, exploiting, or unfair advantages
+- **Respect** — Treat everyone with kindness and consideration
+- **Creativity** — Build, trade, and create unique experiences
 
 ---
 
@@ -292,50 +301,14 @@ Vote rewards removed + Temp ban
 
 ---
 
-## Custom Items & Systems
-
-### Smith Progression
-Custom gear at Hammerhand the Smith:
-- **Reforged:** Enhanced Netherite gear
-- **Hardened:** Ultimate unbreakable gear
-
-Don't exploit crafting systems or duplicate custom items.
-
-### Pets
-Rare mob drops (1/10,000 chance). Server-wide announcements for legendary drops.
-
-### Claim Chunks
-Custom items that add +1 chunk to your limit. Obtained from crates, events, ranks, or store.
-
----
-
-## FAQ
-
-**Q: Can I use client mods?**
-A: Yes, see the approved list above. When in doubt, ask staff.
-
-**Q: What if someone griefs my unclaimed build?**
-A: It's still against rules. Report via Discord. Always claim to be safe!
-
-**Q: Is PvP allowed?**
-A: Only between players who both have `/pvp` enabled.
-
-**Q: How do I report a rule breaker?**
-A: Open a Discord ticket with coordinates and details.
-
-**Q: Can I appeal my ban?**
-A: Bans 7+ days can be appealed. Hacking bans are not appealable.
-
----
-
 ## Rule Changes
 
 These rules may be updated as the server grows. Major changes will be announced on Discord.
 
-**Last Updated:** January 2025
-
 ---
 
-*Remember: Oakheart is a community. Your actions affect others. Build friendships, create memories, and help make this server welcoming for everyone.*
+## Need Help?
 
-*When in doubt, ask staff. We're here to help!*
+- Open a support ticket on **Discord**
+- Ask in chat — our community is friendly
+- Check the [FAQ](getting-started/faq.md) for common questions

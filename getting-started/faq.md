@@ -100,7 +100,7 @@ Per vote: 1 Vote Token, 1 Vote Key, 1 Vote Point. That's 5 of each daily!
 
 **Q: What are Vote Tokens for?**
 
-Trade them at Merchant Bramblewood (spawn marketplace) for claim chunks, smith materials, and more.
+Trade them at Merchant Bramblewood (Crates Pavilion) for claim chunks, smith materials, and more.
 
 **Q: What are Crate Crystals?**
 

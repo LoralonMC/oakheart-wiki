@@ -125,15 +125,6 @@ Vote on all 5 voting sites daily using `/vote`. Each vote gives you **1 Vote Key
 
 ---
 
-## Tips
-
-1. **Vote daily** — Consistency adds up to great rewards over time
-2. **Save crystals** — Crate Crystals from rare drops can be traded at Crystal Trader
-3. **Check all sites** — Make sure you vote on all 5 for maximum keys
-4. **Don't skip days** — You can't make up missed votes
-
----
-
 ## Related Pages
 
 - [Crates Overview](overview.md)

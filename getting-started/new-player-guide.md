@@ -96,8 +96,8 @@ Homes let you quickly teleport back to your favorite locations.
 You start with **1 home** at the default rank (Acorn). As you rank up through voting or purchasing store ranks, you unlock more:
 
 - **Rank 1 (Acorn):** 1 home
-- **Rank 10 (Root):** 6 homes
-- **Rank 20 (Yggdrasil):** 11 homes
+- **Rank 10 (Root):** 10 homes
+- **Rank 20 (Yggdrasil):** 15 homes
 
 ---
 

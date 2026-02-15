@@ -8,7 +8,7 @@ Oakheart features two special NPC traders who accept unique currencies earned th
 
 | Trader | NPC | Location | Currency |
 |--------|-----|----------|----------|
-| **Token Trader** | Merchant Bramblewood | Spawn Marketplace | Vote Tokens |
+| **Token Trader** | Merchant Bramblewood | Crates Pavilion | Vote Tokens |
 | **Crystal Trader** | Crystalkeeper Shimmervale | Crates Pavilion | Crate Crystals |
 
 ---

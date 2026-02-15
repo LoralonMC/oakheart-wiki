@@ -32,7 +32,7 @@ To create Hardened gear, you need:
 | **Bow** | Reforged Bow, 10 Hardened Gold Ingots, 48 Phantom Membrane |
 | **Axe** | Reforged Axe, 12 Hardened Netherite Ingots, 8 Ancient Debris |
 | **Crossbow** | Reforged Crossbow, 12 Hardened Copper Ingots, 64 Wind Charges |
-| **Trident** | Reforged Trident, 14 Hardened Gold Ingots, 2 Hearts of the Sea |
+| **Trident (Loyalty or Riptide)** | Reforged Trident, 14 Hardened Gold Ingots, 2 Hearts of the Sea |
 | **Mace** | Reforged Mace, 16 Hardened Netherite Ingots, 1 Heavy Core |
 
 ### Tools
@@ -74,7 +74,8 @@ All Hardened items are **Unbreakable** (never lose durability) and have maximum 
 | **Axe (Fortune)** | Efficiency VIII, Fortune V, Sharpness VIII |
 | **Axe (Silk Touch)** | Efficiency VIII, Silk Touch I, Sharpness VIII |
 | **Crossbow** | Multishot I, Piercing V, Quick Charge V |
-| **Trident** | Impaling VIII, Channeling I, Loyalty IV, Riptide IV |
+| **Trident (Loyalty)** | Impaling VIII, Channeling I, Loyalty IV |
+| **Trident (Riptide)** | Impaling VIII, Riptide IV |
 | **Mace** | Density VIII, Sharpness VIII, Wind Burst IV |
 | **Shield** | Protection VIII |
 
@@ -94,6 +95,7 @@ All Hardened items are **Unbreakable** (never lose durability) and have maximum 
 - **Axe:** Fortune for saplings/sticks or Silk Touch for bookshelves/logs
 - **Pickaxe:** Fortune for ores or Silk Touch for building materials
 - **Shovel:** Fortune for extra flint or Silk Touch for grass blocks/snow
+- **Trident:** Loyalty for ranged combat with Channeling or Riptide for mobility
 {% endhint %}
 
 ---
