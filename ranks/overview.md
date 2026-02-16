@@ -101,7 +101,7 @@ Every rank-up gives you bonus rewards:
 | 19 | 40 | 2500 | - | - |
 | 20 | 48 | 3000 | 2 | 8 |
 
-**Total from ranking:** 284 Emerald Blocks + 15,350 XP + 10 Random Crate Keys + 20 Claim Chunks
+**Total from ranking:** 287 Emerald Blocks + 13,350 XP + 9 Random Crate Keys + 20 Claim Chunks
 
 ---
 

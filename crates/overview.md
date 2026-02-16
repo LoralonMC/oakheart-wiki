@@ -64,7 +64,7 @@ The most accessible crate—earn 5 keys daily just by voting!
 - Claim Chunks (1-2)
 - Crate Crystals (2)
 - Vote Chat Tag (Legendary)
-- $30 Store Voucher (Mythic - ~0.1% chance)
+- $30 Store Voucher (Mythic - ~0.07% chance)
 
 **Escalation**
 - Paid Crate Key Tier 1 (Epic)
