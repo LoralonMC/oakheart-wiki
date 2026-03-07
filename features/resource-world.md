@@ -45,11 +45,13 @@ Returns you to Oakheart village. You can also use `/home` if you have homes set 
 
 ### Periodic Resets
 
-Resource Worlds reset on a regular schedule (check announcements for timing). When they reset:
+Resource Worlds reset on a regular schedule — check server announcements or Discord for exact timing. A warning is broadcast before each reset. When they reset:
 
 - All blocks regenerate to a fresh world
 - Any builds or items left behind are deleted
 - New terrain generates with full resources
+
+Your inventory travels with you between worlds, so grab everything valuable before a reset.
 
 {% hint style="danger" %}
 **Never build a base in Resource Worlds!** They will be deleted on reset. Use the main survival worlds for permanent builds.
@@ -58,14 +60,6 @@ Resource Worlds reset on a regular schedule (check announcements for timing). Wh
 ### No Claiming
 
 You cannot claim land in Resource Worlds. Anyone can mine anywhere, and blocks you place aren't protected.
-
----
-
-## Reset Schedule
-
-Resource Worlds reset on a regular schedule — check server announcements or Discord for timing. A warning is broadcast before each reset. When you see it, grab your items and head home.
-
-Your inventory travels with you between worlds, so take everything valuable before a reset.
 
 ---
 

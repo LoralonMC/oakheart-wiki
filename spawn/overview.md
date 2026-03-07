@@ -30,10 +30,10 @@ Five shops surround the central area:
 | Shop | Keeper | What They Buy |
 |------|--------|---------------|
 | Lumberjack's Workshop | Willowbark | Wood & building materials |
-| Farmer's Market | Seedsower | Food & seeds |
+| Farmer's Stall | Seedsower | Food & seeds |
 | Miner's Depot | Stonebeard | Ores, stone, gems |
 | Alchemist's Lab | Moonwhisper | Potions, brewing items, mob drops |
-| Fisherman's Dock | Tidecaller | Fish & ocean items |
+| Fisherman's Stall | Tidecaller | Fish & ocean items |
 
 ### Services
 
@@ -46,13 +46,14 @@ Five shops surround the central area:
 | Crates Pavilion | Merchant Bramblewood | Vote Token Trader |
 | Pet Shop | Velvetpaw | Pet management |
 | Cosmetics Shop | Silkthread | Cosmetics & fashion |
+| Toy Store | Toby Tinkertop | Novelty plushie collections |
 
 ### Atmosphere
 
 - **Village Well** — Atmospheric gathering spot
 - **Scattered Gardens** — Tended by Rosepetal throughout the village
 - **Inn/Tavern** — Run by Pipesmoke, with Quillfeather's desk
-- **Small Pond** — Near fisherman's stall, fishing contests
+- **Small Pond** — Near the fisherman's stall
 - **Village Square Bulletin Board** — Server announcements from Town Crier Loudvoice
 
 ---

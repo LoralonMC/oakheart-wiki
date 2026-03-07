@@ -8,8 +8,8 @@ Oakheart features two special NPC traders who accept unique currencies earned th
 
 | Trader | NPC | Location | Currency |
 |--------|-----|----------|----------|
-| **Token Trader** | Merchant Bramblewood | Crates Pavilion | Vote Tokens |
-| **Crystal Trader** | Crystalkeeper Shimmervale | Crates Pavilion | Crate Crystals |
+| **Token Trader** | Merchant Bramblewood | Crates Pavilion | {{item:vote_token}} |
+| **Crystal Trader** | Crystalkeeper Shimmervale | Crates Building (interior) | {{item:crate_crystal}} |
 
 ---
 
@@ -31,7 +31,7 @@ Vote Tokens are the easiest currency to earn—just vote daily! They're designed
 | Aspect | Details |
 |--------|---------|
 | **How to Earn** | Rare drops from crates |
-| **Vote Crate Rate** | ~1-2% chance (2 crystals) |
+| **Vote Crate Rate** | ~1% chance (2 crystals) |
 | **Paid Crate Rate** | Higher drop rates |
 | **Trade With** | Crystalkeeper Shimmervale |
 
@@ -45,7 +45,7 @@ Crate Crystals act as a **pity system**—even if you're unlucky with crate drop
 |--------|--------------|----------------|
 | **Focus** | Practical progression | Exclusive cosmetics + pity rewards |
 | **Currency Ease** | Easy (voting) | Harder (crate drops) |
-| **Weekly Limits** | Yes (smith materials) | No |
+| **Weekly Limits** | Yes (smith materials + claim chunks) | No |
 | **Best For** | Daily voters, new players | Collectors, crate enthusiasts |
 
 ---

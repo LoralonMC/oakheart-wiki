@@ -12,7 +12,7 @@ Use `/lands create <name>` to create a land, then `/lands claim` to claim the ch
 
 **Q: How many chunks can I claim?**
 
-You start with 4 chunks and earn +1 per hour for your first 4 hours = 8 free chunks total. Get more via voting, crates, or the store.
+You start with 4 chunks and earn +1 per hour for your first 4 hours = 8 free chunks total. Get more via voting, crates, purchasing {{item:claim_chunk}} from Quillfeather the Scribe for emeralds, or the store.
 
 **Q: What's the server currency?**
 
@@ -28,7 +28,7 @@ Spawn shops have per-player daily limits to balance the economy. Limits reset ev
 
 **Q: How do I create a player shop?**
 
-Buy a Shopkeeper Spawn Egg from Quillfeather the Scribe at spawn (100 emeralds, requires Rank 2+). Place a chest, then use the egg to create your shop NPC. Set a warp with `/warp set` so customers can find you!
+Buy a Shopkeeper Spawn Egg from Quillfeather the Scribe at spawn ({{item:emerald:100}}, requires Rank 2+). Place a chest, then use the egg to create your shop NPC. Set a warp with `/pw set` so customers can find you!
 
 **Q: How do I trade safely with other players?**
 
@@ -52,7 +52,7 @@ More homes, warps, shop slots, claim chunks, and utility commands. See [Ranks Ov
 
 **Q: What are Store Ranks?**
 
-Paid ranks ($10-$100) that give instant access to vote rank perks plus exclusives like Keep Inventory.
+Paid ranks that give instant access to vote rank perks plus exclusives like Keep Inventory. Prices are cumulative: Hedgehog ($10), Squirrel ($25), Otter ($50), Owl ($100) — upgrading only costs the difference. Each tier includes all perks from lower tiers.
 
 ---
 
@@ -68,11 +68,19 @@ Yes, claims protect from bedrock to sky limit (full vertical chunk).
 
 **Q: What happens if I run out of claim chunks?**
 
-You can't claim more until you get Claim Chunk items from voting, crates, or trading.
+You can get more {{item:claim_chunk}} from voting, crates, purchasing from Quillfeather the Scribe for emeralds, or trading with other players.
 
 **Q: Can I withdraw claim chunks I've added?**
 
 Yes! Use `/claimchunk` while standing in your land to withdraw an unused chunk back into a physical item (minimum 4 chunks must remain).
+
+**Q: What happens after I reach Rank 20?**
+
+You can **prestige** — reset your rank display back to Acorn, earn a prestige star before your name, and keep all your perks. Each prestige grants bonus rewards including emeralds, crate keys, and claim chunks. See [Prestige](../ranks/prestige.md).
+
+**Q: How do I upgrade my gear?**
+
+Visit **Hammerhand the Smith** at spawn. He can upgrade Netherite gear to Reforged (Level VI enchantments) and then to Hardened (Level VIII, unbreakable). It requires rare materials and lots of emeralds. See [Smith Overview](../smith/overview.md).
 
 ---
 
@@ -96,22 +104,22 @@ Optifine/Sodium, Litematica (no printer), minimaps (no entity radar/caves), shad
 
 **Q: What do I get for voting?**
 
-Per vote: 1 Vote Token, 1 Vote Key, 1 Vote Point. That's 5 of each daily!
+Per vote: 1 {{item:vote_token}}, 1 {{item:votekey}}, 1 Vote Point. That's 5 of each daily!
 
 **Q: What are Vote Tokens for?**
 
-Trade them at Merchant Bramblewood (Crates Pavilion) for claim chunks, smith materials, and more.
+Trade {{item:vote_token}} at Merchant Bramblewood (Crates Pavilion) for claim chunks, smith materials, and more.
 
 **Q: What are Crate Crystals?**
 
-A pity system currency from crates. Trade at Crystalkeeper Shimmervale for guaranteed rewards.
+{{item:crate_crystal}} are a pity system currency from crates. Trade at Crystalkeeper Shimmervale for guaranteed rewards.
 
 ---
 
 ## Need More Help?
 
 - Ask in chat - our community is friendly!
-- Open a ticket on **Discord: discord.gg/Oakheart**
+- Open a ticket on **Discord: discord.gg/TcKY5mNu**
 - Use `/tutorial` to replay the tutorial
 
 ---

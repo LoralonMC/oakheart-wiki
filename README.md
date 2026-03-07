@@ -1,5 +1,7 @@
 # Welcome to Oakheart
 
+<div class="wiki-explore-progress" id="wikiExploreProgress"></div>
+
 **A medieval cottagecore survival server hidden in the heart of an ancient oak forest.**
 
 ---
@@ -48,22 +50,22 @@ Our emerald-based economy features five themed shops at spawn where you can sell
 [Learn more about the Economy →](economy/overview.md)
 
 ### Ranks & Voting
-Progress through 20 vote ranks by supporting the server daily. Each rank unlocks new commands, homes, warps, and shop slots. Store ranks are also available for instant access to perks.
+Progress through 20 vote ranks by supporting the server daily. Earn {{item:vote_token}} from each vote and trade them with Bramblewood at spawn. Each rank unlocks new commands, homes, warps, and shop slots.
 
 [View Ranks & Voting →](ranks/overview.md)
 
 ### Claiming Land
-Protect your builds with our chunk-based claiming system. Start with 4 free chunks, earn more through playtime, and collect Claim Chunk items to expand your territory.
+Protect your builds with our chunk-based claiming system. Start with up to 8 free chunks, earn more through playtime, and collect {{item:claim_chunk}} items to expand your territory.
 
 [Claiming Guide →](claiming/overview.md)
 
 ### Custom Gear
-Visit Hammerhand the Smith to upgrade your Netherite equipment into powerful Reforged and ultimate Hardened gear—unbreakable tools and armor for endgame players.
+Visit Hammerhand the Smith to upgrade your Netherite equipment using {{item:hardened_netherite_ingot}} into powerful Reforged and ultimate Hardened gear—unbreakable tools and armor for endgame players.
 
 [Smith System →](smith/overview.md)
 
 ### Crates & Rewards
-Open crates with keys earned from voting, purchase them from the store, or spend emeralds at the Emerald Crate. Collect Crate Crystals for guaranteed rewards at the Crystal Trader.
+Open crates with keys earned from voting, purchase them from the store, or spend emeralds at the Emerald Crate. Collect {{item:crate_crystal}} for guaranteed rewards at the Crystal Trader.
 
 [Crates & Traders →](crates/overview.md)
 
@@ -71,7 +73,7 @@ Open crates with keys earned from voting, purchase them from the store, or spend
 
 ## Community
 
-- **Discord:** [discord.gg/Oakheart](https://discord.gg/Oakheart)
+- **Discord:** [discord.gg/TcKY5mNu](https://discord.gg/TcKY5mNu)
 - **Vote Sites:** Support us daily with `/vote`
 - **Store:** Coming soon
 

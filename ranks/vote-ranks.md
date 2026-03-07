@@ -10,8 +10,8 @@ Progress through 20 ranks by voting daily! Each rank unlocks new perks, commands
 2. Vote on all 5 voting sites daily
 3. Each vote gives you:
    - **1 Vote Point** (toward your next rank)
-   - **1 Vote Token** (trade at Merchant Bramblewood)
-   - **1 Vote Key** (open the Vote Crate)
+   - **1 {{item:vote_token}}** (trade at Merchant Bramblewood)
+   - **1** {{item:votekey}} (open the Vote Crate)
 
 {% hint style="info" %}
 Voting on all 5 sites daily = 5 Vote Points per day. Rank 20 requires 1,000 votes, achievable in about 200 days.
@@ -79,28 +79,28 @@ You receive rewards every time you rank up:
 
 | Rank | Reward |
 |------|--------|
-| 2 | 3 emerald blocks |
-| 3 | 250 XP, 3 emerald blocks |
-| 4 | 3 emerald blocks |
-| 5 | 300 XP, 3 emerald blocks, 2 Claim Chunks |
-| 6 | 5 emerald blocks, 1 Random Crate Key |
-| 7 | 400 XP, 5 emerald blocks |
-| 8 | 5 emerald blocks, 1 Random Crate Key |
-| 9 | 500 XP, 8 emerald blocks |
-| 10 | 12 emerald blocks, 1 Random Crate Key, 4 Claim Chunks |
-| 11 | 1000 XP, 12 emerald blocks |
-| 12 | 12 emerald blocks, 1 Random Crate Key |
-| 13 | 1400 XP, 16 emerald blocks |
-| 14 | 16 emerald blocks, 1 Random Crate Key |
-| 15 | 1800 XP, 20 emerald blocks, 6 Claim Chunks |
-| 16 | 20 emerald blocks, 1 Random Crate Key |
-| 17 | 2200 XP, 24 emerald blocks |
-| 18 | 32 emerald blocks, 1 Random Crate Key |
-| 19 | 2500 XP, 40 emerald blocks |
-| 20 | 3000 XP, 48 emerald blocks, 2 Random Crate Keys, 8 Claim Chunks |
+| 2 | {{item:emerald_block:3}} |
+| 3 | 250 XP, {{item:emerald_block:3}} |
+| 4 | {{item:emerald_block:3}} |
+| 5 | 300 XP, {{item:emerald_block:3}}, {{item:claim_chunk:2}} |
+| 6 | {{item:emerald_block:5}}, 1 Random Crate Key |
+| 7 | 400 XP, {{item:emerald_block:5}} |
+| 8 | {{item:emerald_block:5}}, 1 Random Crate Key |
+| 9 | 500 XP, {{item:emerald_block:8}} |
+| 10 | {{item:emerald_block:12}}, 1 Random Crate Key, {{item:claim_chunk:4}} |
+| 11 | 1000 XP, {{item:emerald_block:12}} |
+| 12 | {{item:emerald_block:12}}, 1 Random Crate Key |
+| 13 | 1400 XP, {{item:emerald_block:16}} |
+| 14 | {{item:emerald_block:16}}, 1 Random Crate Key |
+| 15 | 1800 XP, {{item:emerald_block:20}}, {{item:claim_chunk:6}} |
+| 16 | {{item:emerald_block:20}}, 1 Random Crate Key |
+| 17 | 2200 XP, {{item:emerald_block:24}} |
+| 18 | {{item:emerald_block:32}}, 1 Random Crate Key |
+| 19 | 2500 XP, {{item:emerald_block:40}} |
+| 20 | 3000 XP, {{item:emerald_block:48}}, 2 Random Crate Keys, {{item:claim_chunk:8}} |
 
 {% hint style="success" %}
-**Total from ranking to 20:** 20 bonus claim chunks from milestone rank-up rewards (at ranks 5, 10, 15, and 20)!
+**Total from ranking to 20:** 20 bonus {{item:claim_chunk}} from milestone rank-up rewards (at ranks 5, 10, 15, and 20)!
 {% endhint %}
 
 ---

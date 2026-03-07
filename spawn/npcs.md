@@ -20,7 +20,7 @@ Greets new arrivals and explains the village's ways.
 **Location:** Crates Pavilion
 *"Ah, vote tokens! The lifeblood of our community participation!"*
 
-Trade your Vote Tokens for valuable rewards.
+Trade your {{item:vote_token}} for valuable rewards.
 
 ---
 
@@ -29,7 +29,7 @@ Trade your Vote Tokens for valuable rewards.
 **Location:** Crates Pavilion
 *"These crystals hold the essence of fortune itself..."*
 
-Trade Crate Crystals for guaranteed rewards.
+Trade {{item:crate_crystal}} for guaranteed rewards.
 
 ---
 
@@ -82,7 +82,7 @@ Buys fish, kelp, and ocean treasures.
 **Location:** The Forge
 *"Aye, need something forged? Bring me the real materials and I'll make you something proper."*
 
-Creates Reforged gear, Hardened Ingots, and Hardened gear.
+Creates Reforged gear, {{item:hardened_netherite_ingot}}, and Hardened gear.
 
 ---
 
@@ -126,6 +126,15 @@ Fashionable NPC with an eye for style. Dramatic personality who treats fashion a
 
 ---
 
+### Toby Tinkertop
+**Role:** Toy Store Owner
+**Location:** Toy Store (northeast)
+*"Have you seen my latest creation? It's adorable, if I do say so myself!"*
+
+Sells novelty plushie collections for {{item:emerald:40}} each. Browse 129 unique plushies across many themed collections.
+
+---
+
 ## Atmospheric NPCs
 
 ### Rosepetal the Florist
@@ -156,7 +165,7 @@ Announces server news and updates.
 **Location:** Roams the village
 *"Oh my! Have you seen the autumn decorations? Simply divine!"*
 
-Changes appearance with each season and holiday. Coordinates seasonal events.
+Changes appearance with each season and holiday.
 
 ---
 

@@ -19,36 +19,36 @@ To create Hardened gear, you need:
 
 | Item | Materials Required |
 |------|-------------------|
-| **Helmet** | Reforged Helmet, 10 Hardened Netherite Ingots, 8 Echo Shards |
-| **Chestplate** | Reforged Chestplate, 12 Hardened Netherite Ingots, 32 Crying Obsidian |
-| **Leggings** | Reforged Leggings, 10 Hardened Gold Ingots, 1 Enchanted Golden Apple |
-| **Boots** | Reforged Boots, 8 Hardened Copper Ingots, 4 Breeze Rods |
+| {{item:hardened_helmet}} | {{item:reforged_helmet}}, {{item:hardened_netherite_ingot:10}}, {{item:echo_shard:8}} |
+| {{item:hardened_chestplate}} | {{item:reforged_chestplate}}, {{item:hardened_netherite_ingot:12}}, {{item:crying_obsidian:32}} |
+| {{item:hardened_leggings}} | {{item:reforged_leggings}}, {{item:hardened_gold_ingot:10}}, {{item:enchanted_golden_apple}} |
+| {{item:hardened_boots}} | {{item:reforged_boots}}, {{item:hardened_copper_ingot:8}}, {{item:breeze_rod:4}} |
 
 ### Weapons
 
 | Item | Materials Required |
 |------|-------------------|
-| **Sword** | Reforged Sword, 14 Hardened Netherite Ingots, 1 Nether Star |
-| **Bow** | Reforged Bow, 10 Hardened Gold Ingots, 48 Phantom Membrane |
-| **Axe** | Reforged Axe, 12 Hardened Netherite Ingots, 8 Ancient Debris |
-| **Crossbow** | Reforged Crossbow, 12 Hardened Copper Ingots, 64 Wind Charges |
-| **Trident (Loyalty or Riptide)** | Reforged Trident, 14 Hardened Gold Ingots, 2 Hearts of the Sea |
-| **Mace** | Reforged Mace, 16 Hardened Netherite Ingots, 1 Heavy Core |
+| {{item:hardened_sword}} | {{item:reforged_sword}}, {{item:hardened_netherite_ingot:14}}, {{item:nether_star}} |
+| {{item:hardened_bow}} | {{item:reforged_bow}}, {{item:hardened_gold_ingot:10}}, {{item:phantom_membrane:48}} |
+| {{item:hardened_axe}} | {{item:reforged_axe}}, {{item:hardened_netherite_ingot:12}}, {{item:ancient_debris:8}} |
+| {{item:hardened_crossbow}} | {{item:reforged_crossbow}}, {{item:hardened_copper_ingot:12}}, {{item:wind_charge:64}} |
+| {{item:hardened_trident}} / {{item:hardened_trident_riptide}} | {{item:reforged_trident}}, {{item:hardened_gold_ingot:14}}, {{item:heart_of_the_sea:2}} |
+| {{item:hardened_mace}} | {{item:reforged_mace}}, {{item:hardened_netherite_ingot:16}}, {{item:heavy_core}} |
 
 ### Tools
 
 | Item | Materials Required |
 |------|-------------------|
-| **Pickaxe** | Reforged Pickaxe, 10 Hardened Copper Ingots, 256 Deepslate |
-| **Shovel** | Reforged Shovel, 8 Hardened Copper Ingots, 24 Sculk Catalyst |
-| **Hoe** | Reforged Hoe, 8 Hardened Gold Ingots, 32 Chorus Flowers |
-| **Fishing Rod** | Reforged Fishing Rod, 8 Hardened Gold Ingots, 16 Nautilus Shells |
+| {{item:hardened_pickaxe}} | {{item:reforged_pickaxe}}, {{item:hardened_copper_ingot:10}}, {{item:deepslate:256}} |
+| {{item:hardened_shovel}} | {{item:reforged_shovel}}, {{item:hardened_copper_ingot:8}}, {{item:sculk_catalyst:24}} |
+| {{item:hardened_hoe}} | {{item:reforged_hoe}}, {{item:hardened_gold_ingot:8}}, {{item:chorus_flower:32}} |
+| {{item:hardened_fishing_rod}} | {{item:reforged_fishing_rod}}, {{item:hardened_gold_ingot:8}}, {{item:nautilus_shell:16}} |
 
 ### Other
 
 | Item | Materials Required |
 |------|-------------------|
-| **Shield** | Reforged Shield, 10 Hardened Netherite Ingots, 48 Crying Obsidian |
+| {{item:hardened_shield}} | {{item:reforged_shield}}, {{item:hardened_netherite_ingot:10}}, {{item:crying_obsidian:48}} |
 
 ---
 
@@ -60,35 +60,35 @@ All Hardened items are **Unbreakable** (never lose durability) and have maximum 
 
 | Piece | Enchantments |
 |-------|--------------|
-| **Helmet** | Protection VIII, Blast/Fire/Projectile Protection V, Respiration IV, Aqua Affinity I |
-| **Chestplate** | Protection VIII, Blast/Fire/Projectile Protection V |
-| **Leggings** | Protection VIII, Blast/Fire/Projectile Protection V, Swift Sneak IV |
-| **Boots** | Protection VIII, Blast/Fire/Projectile Protection V, Feather Falling V, Depth Strider IV, Soul Speed IV |
+| {{item:hardened_helmet}} | Protection VIII, Blast/Fire/Projectile Protection V, Respiration IV, Aqua Affinity I |
+| {{item:hardened_chestplate}} | Protection VIII, Blast/Fire/Projectile Protection V |
+| {{item:hardened_leggings}} | Protection VIII, Blast/Fire/Projectile Protection V, Swift Sneak IV |
+| {{item:hardened_boots}} | Protection VIII, Blast/Fire/Projectile Protection V, Feather Falling V, Depth Strider IV, Soul Speed IV |
 
 ### Weapons
 
 | Item | Enchantments |
 |------|--------------|
-| **Sword** | Sharpness VIII, Smite V, Bane of Arthropods V, Looting V, Sweeping Edge IV |
-| **Bow** | Power VIII, Flame I, Infinity I |
-| **Axe (Fortune)** | Efficiency VIII, Fortune V, Sharpness VIII |
-| **Axe (Silk Touch)** | Efficiency VIII, Silk Touch I, Sharpness VIII |
-| **Crossbow** | Multishot I, Piercing V, Quick Charge V |
-| **Trident (Loyalty)** | Impaling VIII, Channeling I, Loyalty IV |
-| **Trident (Riptide)** | Impaling VIII, Riptide IV |
-| **Mace** | Density VIII, Sharpness VIII, Wind Burst IV |
-| **Shield** | Protection VIII |
+| {{item:hardened_sword}} | Sharpness VIII, Smite V, Bane of Arthropods V, Looting V, Sweeping Edge IV |
+| {{item:hardened_bow}} | Power VIII, Flame I, Infinity I |
+| {{item:hardened_axe}} (Fortune) | Efficiency VIII, Fortune V, Sharpness VIII |
+| {{item:hardened_axe}} (Silk Touch) | Efficiency VIII, Silk Touch I, Sharpness VIII |
+| {{item:hardened_crossbow}} | Multishot I, Piercing V, Quick Charge V |
+| {{item:hardened_trident}} (Loyalty) | Impaling VIII, Channeling I, Loyalty IV |
+| {{item:hardened_trident_riptide}} (Riptide) | Impaling VIII, Riptide IV |
+| {{item:hardened_mace}} | Density VIII, Sharpness VIII, Wind Burst IV |
+| {{item:hardened_shield}} | Protection VIII |
 
 ### Tools
 
 | Item | Enchantments |
 |------|--------------|
-| **Pickaxe (Fortune)** | Efficiency VIII, Fortune V |
-| **Pickaxe (Silk Touch)** | Efficiency VIII, Silk Touch I |
-| **Shovel (Fortune)** | Efficiency VIII, Fortune V |
-| **Shovel (Silk Touch)** | Efficiency VIII, Silk Touch I |
-| **Hoe** | Efficiency VIII |
-| **Fishing Rod** | Luck of the Sea VIII, Lure IV |
+| {{item:hardened_pickaxe}} (Fortune) | Efficiency VIII, Fortune V |
+| {{item:hardened_pickaxe}} (Silk Touch) | Efficiency VIII, Silk Touch I |
+| {{item:hardened_shovel}} (Fortune) | Efficiency VIII, Fortune V |
+| {{item:hardened_shovel}} (Silk Touch) | Efficiency VIII, Silk Touch I |
+| {{item:hardened_hoe}} | Efficiency VIII |
+| {{item:hardened_fishing_rod}} | Luck of the Sea VIII, Lure IV |
 
 {% hint style="info" %}
 **Tool Choices:** When crafting Hardened Axe, Pickaxe, or Shovel, you can choose between Fortune V or Silk Touch variants. Same recipe cost for both options!
@@ -116,21 +116,7 @@ All Hardened items are **Unbreakable** (never lose durability) and have maximum 
 1. **Craft ingots first** — Stock up on all three ingot types before upgrading
 2. **Start with Pickaxe** — Makes farming other materials faster
 3. **Choose tool variants wisely** — Fortune for drops, Silk Touch for block preservation (Axe, Pickaxe, Shovel all have both options)
-4. **Full set bonus** — Complete armor set for maximum protection stacking
-
----
-
-## Full Progression Path
-
-```
-Netherite Gear
-     ↓
-Reforged Gear (Hammerhand - Shop 1)
-     ↓
-Hardened Ingots (Hammerhand - Shop 2)
-     ↓
-Hardened Gear (Hammerhand - Shop 3)
-```
+4. **Wear the full set** for the best possible protection
 
 ---
 

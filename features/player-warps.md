@@ -53,7 +53,7 @@ Stand exactly where you want players to teleport. Consider:
 Example: `/warp set MyShop`
 
 {% hint style="info" %}
-**Your first warp is free!** Additional warps cost 20 emeralds each.
+**Your first warp is free!** Additional warps cost {{item:emerald:20}} each.
 {% endhint %}
 
 ### Step 3: Customize (Optional)
@@ -114,7 +114,7 @@ When creating a warp, choose a category to help players find it:
 | Action | Cost |
 |--------|------|
 | First warp | **Free** |
-| Additional warps | 20 emeralds each |
+| Additional warps | {{item:emerald:20}} each |
 
 ---
 
@@ -124,9 +124,9 @@ Want premium visibility for your warp? Rent a **sponsored slot** to appear at th
 
 | Slot | Duration | Cost |
 |------|----------|------|
-| Sponsored Slot 1 | 7 days | 150 emeralds |
-| Sponsored Slot 2 | 3 days | 75 emeralds |
-| Sponsored Slot 3 | 1 day | 30 emeralds |
+| Sponsored Slot 1 | 7 days | {{item:emerald:150}} |
+| Sponsored Slot 2 | 3 days | {{item:emerald:75}} |
+| Sponsored Slot 3 | 1 day | {{item:emerald:30}} |
 
 Sponsored warps appear prominently in the warp browser, driving more visitors to your location.
 

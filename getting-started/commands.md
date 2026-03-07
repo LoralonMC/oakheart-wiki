@@ -9,8 +9,8 @@ A complete reference of all player commands on Oakheart, organized by category.
 | Command | Description | Notes |
 |---------|-------------|-------|
 | `/spawn` | Return to Oakheart village | Always available |
-| `/wild` or `/rtp` | Random teleport to wilderness | Find a spot to build |
-| `/back` | Return to last location | Works after death |
+| `/wild` | Random teleport to wilderness | Alias: `/rt`, `/rtp` |
+| `/back` | Return to last location | Works after death or teleport |
 | `/home <name>` | Teleport to a saved home | |
 | `/homes` | Open homes GUI menu | |
 
@@ -104,7 +104,7 @@ A complete reference of all player commands on Oakheart, organized by category.
 
 ### Shops
 
-Interact with NPCs at spawn to buy/sell items. Player shops are created by purchasing a **Shopkeeper Spawn Egg** from Quillfeather the Scribe at spawn (100 emeralds). See [Player Shops](../economy/player-shops.md) for details.
+Interact with NPCs at spawn to buy/sell items. Player shops are created by purchasing a {{item:shop_creation_item}} from Quillfeather the Scribe at spawn ({{item:emerald:100}}). See [Player Shops](../economy/player-shops.md) for details.
 
 **Shop limits:** 0 → 30 shops by Rank 20 (requires Rank 2+ to create shops)
 
@@ -132,6 +132,7 @@ These commands unlock as you rank up through voting or store ranks.
 
 | Command | Description | Rank |
 |---------|-------------|------|
+| `/cartographytable` | Open cartography table | 2 |
 | `/condense` | Convert items to blocks | 3 |
 | `/lay` | Lay down animation | 4 |
 | `/sit` | Sit on stairs/slabs | 5 |
@@ -141,17 +142,16 @@ These commands unlock as you rank up through voting or store ranks.
 | `/craft` | Open crafting table | 8 |
 | `/near` | See nearby players | 9 |
 | `/armorstand` | Armor stand editor | 9 |
+| `/dispose` | Trash items | 10 |
 | `/bellyflop` | Fun emote | 11 |
 | `/stonecutter` | Open stonecutter | 12 |
-| `/jump` | Fun emote | 13 |
+| `/jump` | Jump to target block (up to 30 blocks) | 13 |
 | `/grindstone` | Open grindstone | 14 |
 | `/crawl` | Fun emote | 15 |
-| `/cartographytable` | Open cartography table | 2 |
 | `/anvil` | Open anvil | 16 |
 | `/ptime` | Set personal time | 17 |
 | `/smithingtable` | Open smithing table | 18 |
 | `/enderchest` | Access ender chest | 19 |
-| `/dispose` | Trash items | 10 |
 | `/heal` | Full health restore | 20 |
 
 ---
@@ -161,9 +161,9 @@ These commands unlock as you rank up through voting or store ranks.
 | Command | Description |
 |---------|-------------|
 | `/vote` | Open voting sites |
-| `/prestige` | Prestige (Rank 20 only) |
-| `/prestige stats` | View your prestige info |
-| `/prestige top` | View prestige leaderboard |
+| `/ranks` | Open the ranks menu |
+| `/prestige` | Open the prestige menu (Rank 20 only) |
+| `/settings` | Open the player settings menu |
 
 ---
 
@@ -179,21 +179,21 @@ Both players must have PvP enabled for combat.
 
 ## Social & Misc
 
-| Command        | Description                                           |                     |
-| -------------- | ----------------------------------------------------- | ------------------- |
-| `/ping`        | Check your connection                                 |                     |
-| `/playtime`    | View your playtime                                    |                     |
-| `/playtimetop` | Playtime leaderboard                                  |                     |
-| `/afk`         | Toggle AFK status                                     |                     |
-| `/tutorial`    | Restart the tutorial                                  |                     |
-| `/overflow`    | View overflow inventory                               | Alias: /of          |
-| `/claimchunk`  | Withdraw a chunk from your limit into a physical item | Must have >4 chunks |
+| Command | Description |
+|---------|-------------|
+| `/ping` | Check your connection |
+| `/playtime` | View your playtime |
+| `/playtimetop` | Playtime leaderboard |
+| `/afk` | Toggle AFK status |
+| `/tutorial` | Restart the tutorial |
+| `/overflow` | View overflow inventory (alias: `/of`) |
+| `/claimchunk` | Withdraw a chunk from your limit into a physical item (must have >4 chunks) |
 
 ---
 
 ## Staff Assistance
 
-For staff help, open a ticket on **Discord: discord.gg/Oakheart**
+For staff help, open a ticket on **Discord: discord.gg/TcKY5mNu**
 
 ---
 
@@ -226,7 +226,9 @@ SOCIAL
 
 VOTING
 /vote               Vote for rewards
+/ranks              View ranks
 /prestige           Prestige (Rank 20)
+/settings           Player settings
 ```
 
 ---

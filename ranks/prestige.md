@@ -67,9 +67,9 @@ After 5 prestiges, stars use multiplier format (⭐×6) to prevent chat clutter.
 
 | Reward | Amount |
 |--------|--------|
-| Emerald Blocks | 32 (288 emeralds) |
-| Vote Keys | 5 |
-| Claim Chunks | 3 |
+| {{item:emerald_block:32}} | 288 emeralds |
+| {{item:votekey:5}} | |
+| {{item:claim_chunk:3}} | |
 | Random Paid Key (Tier 1-3) | 1 |
 | Server announcement | Yes |
 
@@ -104,7 +104,7 @@ Opens the prestige confirmation GUI (must be Rank 20).
 
 ## Prestige Leaderboard
 
-A hologram near the central oak tree at spawn shows the top prestiged players.
+A hologram near the central oak tree at spawn will show the top prestiged players (coming soon).
 
 ---
 
@@ -131,4 +131,4 @@ A: Yes, vote points reset to 0. Total votes (lifetime count) continues accumulat
 
 - [Ranks Overview](overview.md) — Full ranking system
 - [Vote Ranks](vote-ranks.md) — How to reach Rank 20
-- [Voting Rewards](../crates/overview.md) — What you earn from voting
+- [Crates Overview](../crates/overview.md) — What you earn from voting

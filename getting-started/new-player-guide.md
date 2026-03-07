@@ -22,8 +22,8 @@ If you accept Elder Oakworth's tutorial, you'll:
 4. **Get introduced to voting** — Support the server and earn daily rewards
 
 **Tutorial Rewards:**
-- 6 Emeralds
-- 1 Vote Key
+- {{item:emerald:6}}
+- 1x {{item:votekey}}
 - Tutorial Book (handy command reference)
 
 {% hint style="info" %}
@@ -39,7 +39,7 @@ The **Ancient Stone Circle** near spawn is your gateway to the wilderness. You h
 | Method | How |
 |--------|-----|
 | Portal | Right-click the Ancient Stone Circle |
-| Command | Type `/wild` or `/rtp` |
+| Command | Type `/wild` |
 
 This teleports you to a random location in the survival world where you can start building.
 
@@ -119,9 +119,9 @@ Each shop has **daily trade limits** per player—this keeps the economy balance
 
 ### Spending Emeralds
 
-- **Set player warps** (20 emeralds per warp after the first)
+- **Set player warps** ({{item:emerald:20}} per warp after the first)
 - **Rent sponsored warp slots** (premium visibility)
-- **Buy Emerald Crate keys** (coming soon)
+- **Buy Emerald Crate keys** ({{item:emerald:576}} each)
 - **Trade with players** for items
 
 ---
@@ -138,8 +138,8 @@ Voting supports the server and earns you rewards!
 
 ### Vote Rewards (Per Site)
 
-- **1 Vote Token** — Trade with Merchant Bramblewood
-- **1 Vote Key** — Opens the Vote Crate
+- **1** {{item:vote_token}} — Trade with Merchant Bramblewood
+- **1** {{item:votekey}} — Opens the Vote Crate
 - **1 Vote Point** — Progress toward vote ranks
 
 Vote daily on all 5 sites = **5 keys, 5 tokens, 5 points per day!**
@@ -178,7 +178,7 @@ Vote daily on all 5 sites = **5 keys, 5 tokens, 5 points per day!**
 SURVIVAL BASICS
 /wild              - Random teleport to wilderness
 /spawn             - Return to Oakheart village
-/back              - Return to last location (after death)
+/back              - Return to last location (after death or teleport)
 
 CLAIMS & HOMES
 /lands create <n>  - Create land called <n>
@@ -214,7 +214,7 @@ Now that you're set up, here are some goals to work toward:
 ## Need Help?
 
 - **In-game chat:** Just ask! Our community loves helping new players.
-- **Discord:** [discord.gg/Oakheart](https://discord.gg/Oakheart) — Open a ticket for staff support
+- **Discord:** [discord.gg/TcKY5mNu](https://discord.gg/TcKY5mNu) — Open a ticket for staff support
 - **Wiki:** Browse the sidebar for detailed guides on every system
 
 ---

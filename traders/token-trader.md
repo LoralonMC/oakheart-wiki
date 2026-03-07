@@ -3,7 +3,7 @@
 **NPC:** Merchant Bramblewood
 **Location:** Crates Pavilion
 
-Trade your Vote Tokens for useful items, claim chunks, and smith progression materials.
+Trade your {{item:vote_token}} for useful items, {{item:claim_chunk}}, and smith progression materials.
 
 ---
 
@@ -30,55 +30,46 @@ These items have purchase limits that **reset every Monday at 00:00 server time*
 
 | Item | Cost | Weekly Limit |
 |------|------|--------------|
-| 2 Ancient Debris | 30 tokens | 2/week |
-| 1 Echo Shard | 35 tokens | 2/week |
-| 1 Totem of Undying | 40 tokens | 1/week |
-| 1 Dragon Head | 60 tokens | 1/week |
-| 1 Heart of the Sea | 90 tokens | 1/week |
+| {{item:ancient_debris:2}} | {{item:vote_token:30}} | 2/week |
+| {{item:echo_shard}} | {{item:vote_token:35}} | 2/week |
+| {{item:totem_of_undying}} | {{item:vote_token:40}} | 1/week |
+| {{item:dragon_head}} | {{item:vote_token:60}} | 1/week |
+| {{item:heart_of_the_sea}} | {{item:vote_token:90}} | 1/week |
+| {{item:claim_chunk:2}} | {{item:vote_token:20}} | 3/week |
+
+{% hint style="info" %}
+**Claim Chunks** are limited to 3 purchases per week (6 chunks max). Plan ahead if you need a lot of land!
+{% endhint %}
 
 ---
 
 ## Unlimited Items
 
-### Claim Chunks
-
-Best value for expanding your territory!
-
-| Amount | Cost | Per Chunk |
-|--------|------|-----------|
-| 2 Claim Chunks | 20 tokens | 10 each |
-| 5 Claim Chunks | 45 tokens | 9 each |
-| 10 Claim Chunks | 80 tokens | 8 each |
-
-{% hint style="success" %}
-**Best Deal:** Buy in bulk! 10 chunks for 80 tokens saves you 20 tokens vs buying singles.
-{% endhint %}
-
 ### Utility Items
 
 | Item | Cost |
 |------|------|
-| 16 XP Bottles | 12 tokens |
-| 1 Ender Chest | 25 tokens |
-| 1 Shulker Box | 50 tokens |
-| 1 Elytra | 85 tokens |
+| {{item:experience_bottle:16}} | {{item:vote_token:12}} |
+| {{item:ender_chest}} | {{item:vote_token:25}} |
+| {{item:shulker_box}} | {{item:vote_token:50}} |
+| {{item:elytra}} | {{item:vote_token:85}} |
 
 ### Food & Consumables
 
 | Item | Cost |
 |------|------|
-| 16 Bone Meal | 5 tokens |
-| 32 Golden Carrots | 15 tokens |
-| 8 Golden Apples | 25 tokens |
+| {{item:bone_meal:16}} | {{item:vote_token:5}} |
+| {{item:golden_carrot:32}} | {{item:vote_token:15}} |
+| {{item:golden_apple:8}} | {{item:vote_token:25}} |
 
 ### Building Materials
 
 | Item | Cost |
 |------|------|
-| 32 Packed Ice | 8 tokens |
-| 64 Terracotta (random color) | 10 tokens |
-| 64 Concrete Powder (random color) | 10 tokens |
-| 64 Scaffolding | 12 tokens |
+| {{item:packed_ice:32}} | {{item:vote_token:8}} |
+| {{item:terracotta:64}} (random color) | {{item:vote_token:10}} |
+| {{item:white_concrete_powder:64}} (random color) | {{item:vote_token:10}} |
+| {{item:scaffolding:64}} | {{item:vote_token:12}} |
 
 ### Cottagecore Decoratives
 
@@ -86,10 +77,35 @@ Custom items matching Oakheart's aesthetic:
 
 | Item | Cost |
 |------|------|
-| Decorative Wheat Sheaf | 30 tokens |
-| Copper Watering Can | 45 tokens |
-| Wicker Basket | 55 tokens |
-| Stone Garden Bench | 70 tokens |
+| Decorative Wheat Sheaf | {{item:vote_token:30}} |
+| Copper Watering Can | {{item:vote_token:45}} |
+| Wicker Basket | {{item:vote_token:55}} |
+| Stone Garden Bench | {{item:vote_token:70}} |
+
+### EI Utility Tools
+
+Special tools with unique abilities:
+
+| Item | Cost |
+|------|------|
+| Harvester's Hoe | {{item:vote_token:60}} |
+| Excavation Shovel | {{item:vote_token:60}} |
+| {{item:oak_wand}} | {{item:vote_token:70}} |
+| Vein Miner Pickaxe | {{item:vote_token:70}} |
+| Lumberjack Axe | {{item:vote_token:70}} |
+
+### Nog's Menagerie Cosmetics
+
+Rotating cosmetic collections that change each month:
+
+| Category | Cost Range | Details |
+|----------|-----------|---------|
+| Adorables | {{item:vote_token:15-25}} | Mini-collectible figures |
+| Bits & Bobs | {{item:vote_token:25-35}} | Decorative display items |
+
+{% hint style="info" %}
+**Rotating stock!** The specific Adorables and Bits & Bobs available change each month, so check back regularly for new items.
+{% endhint %}
 
 ---
 
@@ -97,7 +113,7 @@ Custom items matching Oakheart's aesthetic:
 
 | Trade | Cost |
 |-------|------|
-| 1 Crate Crystal | 100 tokens |
+| {{item:crate_crystal}} | {{item:vote_token:100}} |
 
 This lets dedicated voters save up for Crystal Trader exclusives without relying on crate luck.
 

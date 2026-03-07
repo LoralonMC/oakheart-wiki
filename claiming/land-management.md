@@ -82,6 +82,10 @@ Stand in a chunk you own and run:
 
 The chunk returns to your available pool.
 
+### Withdrawing Chunk Slots
+
+If you have unused chunk slots above the base 4, you can convert them back into physical Claim Chunk items using `/claimchunk`. See [Claim Chunks](claim-chunks.md) for full details.
+
 ### Viewing Your Claims
 
 | Command | Description |
@@ -89,6 +93,13 @@ The chunk returns to your available pool.
 | `/lands view` | Toggle chunk border particles |
 | `/lands map` | Open map GUI of nearby claims |
 | `/lands info` | Info about your land |
+
+### Claim Visualization
+
+Use `/lands view` to toggle chunk border particles:
+- **Green particles** = Your claimed chunks
+- **Red particles** = Someone else's claim
+- **No particles** = Unclaimed wilderness
 
 ---
 

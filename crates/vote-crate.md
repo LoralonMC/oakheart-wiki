@@ -1,133 +1,43 @@
 # Vote Crate
 
-The Vote Crate is your main free reward source! Earn keys by voting daily and open them for resources, emeralds, and rare items.
+The Vote Crate is your main free reward source. Earn keys by voting for the server and open them at the crate building near spawn for resources, emeralds, collectibles, and rare items.
 
 ---
 
-## Getting Vote Keys
+## How It Works
 
-Vote on all 5 voting sites daily using `/vote`. Each vote gives you **1 Vote Key**.
+1. Type `/vote` in-game to see all voting sites
+2. Vote on each site to receive a {{item:votekey}} per vote
+3. Head to the crate building at spawn and right-click the Vote Crate with your key
+4. You'll receive one random reward based on the rarity tiers below
 
-- **5 votes/day = 5 Vote Keys/day**
-- **35 Vote Keys/week**
-- **~150 Vote Keys/month**
+You can vote on all 5 sites once per day, giving you up to **5x** {{item:votekey}} daily.
 
 ---
 
 ## Loot Table
 
-### Resources & Building
+```crate
+VoteCrate
+```
 
-| Reward | Rarity |
-|--------|--------|
-| 32 Bone Meal | Common |
-| 64 Scaffolding | Common |
-| 32 Packed Ice | Common |
-| 32 Kelp Blocks | Common |
-| 24 Gold Ingots | Common |
-| 16 Iron Ingots | Common |
-| 16 Obsidian | Common |
-| 64 Terracotta (random color) | Uncommon |
-| 64 Concrete Powder (random color) | Uncommon |
-| 1 Ender Chest | Uncommon |
-
-### Emeralds
-
-| Reward | Rarity |
-|--------|--------|
-| 8 Emeralds | Common |
-| 12 Emeralds | Common |
-| 20 Emeralds | Uncommon |
-| 30 Emeralds | Uncommon |
-| 40 Emeralds | Rare |
-| 80 Emeralds | Epic |
-| 150 Emeralds | Legendary |
-
-### Valuables
-
-| Reward | Rarity |
-|--------|--------|
-| 8 Diamonds | Common |
-| 16 Diamonds | Rare |
-| 1 Shulker Box | Uncommon |
-| 32 Golden Carrots | Uncommon |
-| 4 Golden Apples | Uncommon |
-| 1 Elytra | Rare |
-
-### Smith Materials
-
-| Reward | Rarity |
-|--------|--------|
-| 4 Crying Obsidian | Uncommon |
-| 2 Echo Shards | Rare |
-| 1 Totem of Undying | Rare |
-| 1 Heart of the Sea | Epic |
-| 1 Dragon Head | Epic |
-| 4 Ancient Debris | Legendary |
-
-### Enchantments
-
-| Reward | Rarity |
-|--------|--------|
-| Random Weapon Enchant (max level) | Uncommon |
-| Random Armor Enchant (max level) | Uncommon |
-| Random Tool Enchant (max level) | Uncommon |
-| Unbreaking III Book | Rare |
-| Mending Book | Epic |
-
-### Cosmetics
-
-| Reward | Rarity |
-|--------|--------|
-| Steve Plushie | Uncommon |
-| Alex Plushie | Uncommon |
-| Zombie Horse Plushie | Uncommon |
-| Ocelot Plushie | Uncommon |
-| Tropical Fish Plushie | Uncommon |
-| Creaking Plushie | Rare |
-| Zombie Horse Figure | Uncommon |
-| Endermite Figure | Uncommon |
-| Snow Golem Figure | Uncommon |
-| Elder Guardian Figure | Rare |
-
-### Trading Cards
-
-| Reward | Rarity |
-|--------|--------|
-| Starter Booster Pack | Common |
-
-### Server Items
-
-| Reward | Rarity |
-|--------|--------|
-| 24 XP Bottles | Uncommon |
-| 2 Crate Crystals | Rare |
-| 1 Claim Chunk | Rare |
-| 2 Claim Chunks | Epic |
-| 1 Paid Crate Key (Tier 1) | Epic |
-| 1 Paid Crate Key (Tier 2) | Legendary |
-| 1 Netherite Upgrade Template | Legendary |
-| Exclusive Vote Chat Tag | Legendary |
-| $30 Store Voucher | Mythic |
+{% hint style="info" %}
+Each opening rolls a rarity tier first (shown on each item's tooltip), then randomly picks one item from that tier. Rarer tiers have fewer items, so each individual reward within a rare tier is more likely to appear when that tier is rolled.
+{% endhint %}
 
 ---
 
-## Rarity Weights
+## Tips
 
-| Rarity | Chance | Color |
-|--------|--------|-------|
-| Common | High | White |
-| Uncommon | Medium | Green |
-| Rare | Low | Blue |
-| Epic | Very Low | Purple |
-| Legendary | Very Rare | Gold |
-| Mythic | Extremely Rare | Cyan |
+- **Vote daily** — consistent voting adds up fast. Even a few days of voting earns enough keys for a good chance at uncommon and rare rewards.
+- {{item:crate_crystal}} can drop from this crate — save them and trade with the [Crystal Trader](../traders/crystal-trader.md) for guaranteed items.
+- {{item:claim_chunk}} from the crate expand your protected land — a valuable find for builders.
 
 ---
 
 ## Related Pages
 
 - [Crates Overview](overview.md)
-- [Crystal Trader](crystal-trader.md)
-- [Token Trader](token-trader.md)
+- [Crystal Trader](../traders/crystal-trader.md)
+- [Token Trader](../traders/token-trader.md)
 - [Paid Crates](paid-crates.md)

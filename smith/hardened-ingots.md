@@ -9,9 +9,9 @@ Hardened Ingots are special alloy materials needed to upgrade Reforged gear into
 Hardened Ingots are crafting materials made from massive amounts of blocks and rare resources. They bridge the gap between Reforged gear and the ultimate Hardened tier.
 
 **Three Types:**
-- **Hardened Netherite Ingot** — Compressed netherite and ancient debris alloy
-- **Hardened Gold Ingot** — Gold infused with Heart of the Sea
-- **Hardened Copper Ingot** — Diamond-reinforced copper alloy
+- {{item:hardened_netherite_ingot}} — Compressed netherite and ancient debris alloy
+- {{item:hardened_gold_ingot}} — Gold infused with Heart of the Sea
+- {{item:hardened_copper_ingot}} — Diamond-reinforced copper alloy
 
 ---
 
@@ -21,9 +21,9 @@ Hardened Ingots are crafting materials made from massive amounts of blocks and r
 
 | Ingredient | Quantity |
 |------------|----------|
-| Netherite Block | 3 |
-| Emerald Block | 12 |
-| Ancient Debris | 4 |
+| {{item:netherite_block}} | 3 |
+| {{item:emerald_block}} | 12 |
+| {{item:ancient_debris}} | 4 |
 
 **Used for:** Helmet, Chestplate, Sword, Axe, Mace, Shield
 
@@ -33,9 +33,9 @@ Hardened Ingots are crafting materials made from massive amounts of blocks and r
 
 | Ingredient | Quantity |
 |------------|----------|
-| Gold Block | 16 |
-| Heart of the Sea | 4 |
-| Emerald Block | 24 |
+| {{item:gold_block}} | 16 |
+| {{item:heart_of_the_sea}} | 4 |
+| {{item:emerald_block}} | 24 |
 
 **Used for:** Leggings, Bow, Hoe, Trident, Fishing Rod
 
@@ -45,9 +45,9 @@ Hardened Ingots are crafting materials made from massive amounts of blocks and r
 
 | Ingredient | Quantity |
 |------------|----------|
-| Copper Block | 24 |
-| Diamond Block | 8 |
-| Emerald Block | 16 |
+| {{item:copper_block}} | 24 |
+| {{item:diamond_block}} | 8 |
+| {{item:emerald_block}} | 16 |
 
 **Used for:** Boots, Pickaxe, Shovel, Crossbow
 
@@ -70,30 +70,30 @@ Stock up on ingots before crafting Hardened gear — you'll need multiple ingots
 
 | Hardened Item | Ingot Type | Quantity Needed |
 |---------------|------------|-----------------|
-| Helmet | Netherite | 10 |
-| Chestplate | Netherite | 12 |
-| Leggings | Gold | 10 |
-| Boots | Copper | 8 |
-| Sword | Netherite | 14 |
-| Bow | Gold | 10 |
-| Axe | Netherite | 12 |
-| Pickaxe | Copper | 10 |
-| Shovel | Copper | 8 |
-| Hoe | Gold | 8 |
-| Crossbow | Copper | 12 |
-| Trident | Gold | 14 |
-| Mace | Netherite | 16 |
-| Shield | Netherite | 10 |
-| Fishing Rod | Gold | 8 |
+| {{item:hardened_helmet}} | Netherite | 10 |
+| {{item:hardened_chestplate}} | Netherite | 12 |
+| {{item:hardened_leggings}} | Gold | 10 |
+| {{item:hardened_boots}} | Copper | 8 |
+| {{item:hardened_sword}} | Netherite | 14 |
+| {{item:hardened_bow}} | Gold | 10 |
+| {{item:hardened_axe}} | Netherite | 12 |
+| {{item:hardened_pickaxe}} | Copper | 10 |
+| {{item:hardened_shovel}} | Copper | 8 |
+| {{item:hardened_hoe}} | Gold | 8 |
+| {{item:hardened_crossbow}} | Copper | 12 |
+| {{item:hardened_trident}} | Gold | 14 |
+| {{item:hardened_mace}} | Netherite | 16 |
+| {{item:hardened_shield}} | Netherite | 10 |
+| {{item:hardened_fishing_rod}} | Gold | 8 |
 
 ---
 
 ## Tips
 
 1. **Plan ahead** — Calculate total ingots needed before gathering materials
-2. **Hearts of the Sea** — Hardest material to farm; treasure hunting required
-3. **Copper blocks** — Easiest to mass produce; smelt and craft in bulk
-4. **Netherite blocks** — Most expensive; requires 9 ingots each
+2. **{{item:heart_of_the_sea}}** — Hardest material to farm; treasure hunting required
+3. **{{item:copper_block}}** — Easiest to mass produce; smelt and craft in bulk
+4. **{{item:netherite_block}}** — Most expensive; requires 9 ingots each
 
 ---
 

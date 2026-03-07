@@ -18,7 +18,7 @@ Oakheart SMP is a community-focused survival server. These rules exist to ensure
 **New to Oakheart? Here's the essential version:**
 
 1. **Be respectful** — No harassment, hate speech, slurs, or bullying
-2. **No cheating** — X-ray, hacking, duping = permanent ban
+2. **No cheating** — X-ray, hacking, and duping will get you banned
 3. **No griefing** — Don't steal or destroy others' builds
 4. **Claim your builds** — Use `/lands create` and `/lands claim`
 5. **Trade safely** — Use `/trade <player>` for secure exchanges
@@ -45,7 +45,7 @@ Oakheart SMP is a community-focused survival server. These rules exist to ensure
 - Bypass chat filters or evade mutes
 
 ### Consequences
-Warning → Mute (1hr → 6hr → 24hr → 7 days → Permanent) → Ban
+Warnings first, then escalating mutes depending on severity.
 
 ---
 
@@ -68,7 +68,7 @@ All claimed land is protected. Griefing **unclaimed** builds is still against th
 - Use lava/water to grief around claims
 
 ### Consequences
-Rollback + Ban (7 days → Permanent, depending on severity)
+Rollback of damage plus a ban. Length depends on severity and repeat offenses.
 
 ---
 
@@ -96,8 +96,8 @@ Rollback + Ban (7 days → Permanent, depending on severity)
 - **Other QoL mods** — When in doubt, ask staff first
 
 {% hint style="danger" %}
-**Hacking = Permanent Ban**
-No appeals for X-ray, hacking, or duping. This is non-negotiable.
+**Cheating Will Get You Banned**
+Ban length depends on the offense. Duping is an immediate permanent ban.
 {% endhint %}
 
 ---
@@ -229,20 +229,16 @@ Warning → Temp ban → Permanent ban
 Most first offenses result in a logged warning.
 
 ### Mute Durations
-1. 1 hour
-2. 6 hours
-3. 24 hours
-4. 7 days
-5. Permanent
+Mutes start short and get longer with repeat offenses. Staff choose the length based on what happened and how many times it has happened before.
 
 ### Ban Durations
 - **Minor** (chat spam, accidental grief): 1-3 days
 - **Moderate** (theft, intentional grief, scamming): 7-30 days
-- **Major** (hacking, duping, severe harassment): Permanent
+- **Major** (hacking, duping, severe harassment): Longer bans up to permanent
 
 ### Appeals
-- Bans 7+ days can be appealed on Discord
-- Permanent bans for hacking/duping are typically not appealable
+- All punishments can be appealed on Discord
+- Players who cooperate may receive reduced punishments
 - Staff will review evidence before decisions
 
 ---
@@ -274,7 +270,7 @@ Staff are held to higher standards and can be demoted for rule violations.
 
 ### Do
 - Vote on all 5 sites daily for maximum rewards
-- Enjoy your Vote Keys, Tokens, and Points!
+- Enjoy your {{item:votekey}}, {{item:vote_token}}, and Vote Points!
 
 ### Don't
 - Use VPNs to vote multiple times

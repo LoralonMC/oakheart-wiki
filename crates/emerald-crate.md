@@ -8,7 +8,7 @@ The Emerald Crate is a special in-game crate that lets you spend your hard-earne
 
 | Item | Cost |
 |------|------|
-| **1 Emerald Crate Key** | 64 Emerald Blocks (576 emeralds) |
+| **1 Emerald Crate Key** | {{item:emerald_block:64}} (576 emeralds) |
 
 {% hint style="info" %}
 **That's roughly 1-2 days** of maxing out all spawn shop trades. It's a significant investment, but the rewards match!
@@ -18,7 +18,7 @@ The Emerald Crate is a special in-game crate that lets you spend your hard-earne
 
 ## How to Buy Keys
 
-Purchase Emerald Crate Keys at the **Crates Pavilion** at spawn. You'll need 64 Emerald Blocks in your inventory to buy a key.
+Purchase Emerald Crate Keys at the **Crates Pavilion** at spawn. You'll need {{item:emerald_block:64}} in your inventory to buy a key.
 
 ---
 
@@ -28,16 +28,26 @@ Open your Emerald Crate at the **Crates Pavilion** at spawn, alongside the Vote 
 
 ---
 
-## Purpose
+## What's Inside?
 
-The Emerald Crate exists to give late-game players a meaningful way to spend their emeralds. As you progress and accumulate wealth, the Emerald Crate provides:
+The Emerald Crate is **cosmetics only** — no resources, no currency, just collectibles and troll junk. Every open is a gamble!
 
-- **A reason to keep earning** — Always something to spend emeralds on
-- **Economy balance** — Removes emeralds from circulation, preventing inflation
-- **Exclusive rewards** — Items worth the investment
+| Category | Rarity | What You Get |
+|----------|--------|-------------|
+| Troll Junk | Common | Silly items — part of the fun! |
+| Plushie Bundles | Uncommon | Random volume of collectible plushies |
+| Figure Bundles | Uncommon | Random volume of collectible figures |
+| Trading Card Boosters | Rare | Booster pack from one of 5 card sets |
+| Adorable Bundles | Rare | Mini-collectible figure bundles |
+| Bits & Bobs Bundles | Rare | Decorative display item bundles |
+| Chase Cosmetics | Epic | Rare exclusive items like the Teddy Fuzzball |
+
+There are **35 total rewards** across all categories. About **31% of opens** give you troll junk and **69%** give you a real cosmetic. The troll drops are part of the charm — embrace the chaos!
+
+The Emerald Crate includes all **8 plushie volumes** and **8 figure volumes** as individual bundle rewards, so there's huge variety in what you can collect.
 
 {% hint style="success" %}
-**Smart spending:** The Emerald Crate complements other emerald sinks like claim chunks, player warps, and shop creation. It's designed for players who have already invested in those essentials and want to gamble for something special.
+**Smart spending:** The Emerald Crate is designed for players who have already invested in claim chunks, player warps, and shops. It's a fun way to spend your extra emeralds on cosmetic collectibles.
 {% endhint %}
 
 ---

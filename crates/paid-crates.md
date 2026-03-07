@@ -49,6 +49,7 @@ Keys are available individually or in bundles from the server store.
 - **Vote Crate** — Rare chance to win a Paid Crate Key (Tier 1 at Epic rarity, Tier 2 at Legendary rarity)
 - **Rank-up rewards** — Random Crate Keys at milestone vote ranks
 - **Prestige rewards** — 1 Random Paid Key per prestige
+- **Escalation keys** — Daisy Crate can drop a Rose Key, Rose Crate can drop a Lily Key
 - **Special events** — Seasonal giveaways and promotions
 
 ---
@@ -59,20 +60,67 @@ All Paid Crates are opened at the **Crates Pavilion** at spawn. Look for the thr
 
 ---
 
-## Rarity System
+## Reward Tiers
 
-Paid Crates use the same global rarity system as all Oakheart crates:
+Paid Crates use a 3-tier weight system that's different from the Vote Crate:
 
-| Rarity | Color |
-|--------|-------|
-| Common | White |
-| Uncommon | Green |
-| Rare | Blue |
-| Epic | Purple |
-| Legendary | Gold |
-| Mythic | Cyan |
+| Tier | Weight | Chance | What to Expect |
+|------|--------|--------|----------------|
+| **Standard** | 10 | ~82% | Resources, tools, collectibles, cosmetic bundles |
+| **Premium** | 6 | ~17% | Exclusive hats, pets, elytra skins, chat tags, join/leave messages |
+| **Jackpot** | 2-1 | ~1-2% | Store rank vouchers |
 
-Higher tier crates have better odds for rare+ items.
+{% hint style="info" %}
+**How odds work:** Each item within a tier has equal weight. Because Standard has more items than Premium, each individual Standard item is less likely — but your overall chance of getting *something* from Standard is ~82%.
+{% endhint %}
+
+---
+
+## What's Inside
+
+### Daisy Crate (25 items)
+
+**Standard (~83%):** Resources ({{item:diamond_block}}, {{item:netherite_ingot}}, {{item:ancient_debris}}, {{item:enchanted_golden_apple}}), {{item:crate_crystal:3}}, {{item:claim_chunk}} (2 or 3), {{item:random_pottery_sherd}}, Harvester's Hoe, Excavation Shovel, Plushie Bundles (Vol 1-3), Wonderful World Booster, Adorable: Foodstuff Bundle
+
+**Premium (~17%):** Daisy Flower Crown, Daisy Butterfly Pet, Daisy Petal Wings (elytra), Daisy Chat Tag, Daisy Join/Leave Message, 1 Rose Key
+
+**Jackpot (~0.9%):** {{item:hedgehog_rank_voucher}}
+
+### Rose Crate (24 items)
+
+**Standard (~82%):** Resources ({{item:diamond_block}}, {{item:netherite_ingot}}/{{item:netherite_block}}, {{item:ancient_debris}}, {{item:enchanted_golden_apple}}), {{item:crate_crystal:4}}, {{item:claim_chunk}} (3 or 5), {{item:random_armor_trim}}, {{item:oak_wand}}, Vein Miner Pickaxe, Plushie Bundles (Vol 4-6), Nascent Nature Booster
+
+**Premium (~17%):** Rose Petal Crown, Rose Hummingbird Pet, Rose Velvet Wings (elytra), Rose Chat Tag, Rose Join/Leave Message, 1 Lily Key
+
+**Jackpot (~1.0%):** {{item:squirrel_rank_voucher}}
+
+### Lily Crate (22 items)
+
+**Standard (~82%):** Resources ({{item:diamond_block}}, {{item:netherite_ingot}}/{{item:netherite_block}}, {{item:ancient_debris}}, {{item:enchanted_golden_apple}}), {{item:crate_crystal:5}}, {{item:claim_chunk}} (4 or 6), {{item:random_rare_music_disc}}, Lumberjack Axe, Plushie Bundles (Vol 7-8), Mortal Monsters Booster
+
+**Premium (~16%):** Lily Crown, Lily Firefly Pet, Lily Ethereal Wings (elytra), Lily Chat Tag, Lily Join/Leave Message
+
+**Jackpot (~1.6%):** {{item:otter_rank_voucher}} (~1.1%) or {{item:owl_rank_voucher}} (~0.5%)
+
+{% hint style="info" %}
+**No emeralds in paid crates** — this is intentional. The emerald economy is protected through spawn shop daily limits, so paid crates use high-value resources like Diamond Blocks, Netherite, and Ancient Debris instead.
+{% endhint %}
+
+---
+
+## Tier Comparison
+
+| Category | Daisy | Rose | Lily |
+|----------|-------|------|------|
+| {{item:diamond_block}} | 4 or 8 | 6 or 12 | 8 or 16 |
+| {{item:netherite_ingot}} | 1-2 Ingots | 2 Ingots or 1 Block | 4 Ingots or 1 Block |
+| {{item:ancient_debris}} | 4 or 8 | 8 or 12 | 12 or 16 |
+| {{item:claim_chunk}} | 2 or 3 | 3 or 5 | 4 or 6 |
+| {{item:crate_crystal}} | 3 | 4 | 5 |
+| Exclusive Hat | Flower Crown | Petal Crown | Lily Crown |
+| Exclusive Pet | Butterfly | Hummingbird | Firefly |
+| Exclusive Elytra | Petal Wings | Velvet Wings | Ethereal Wings |
+| Rank Voucher | Hedgehog ($10) | Squirrel ($25) | Otter ($50) + Owl ($100) |
 
 ---
 

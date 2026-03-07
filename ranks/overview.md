@@ -1,217 +1,25 @@
 # Ranks Overview
 
-Oakheart features two rank systems: **Vote Ranks** (free, earned through voting) and **Store Ranks** (paid, instant access). Both systems provide the same core perks—store ranks simply provide instant access without the voting grind.
+Oakheart has two rank systems: **Vote Ranks** (free, earned by voting) and **Store Ranks** (paid, instant access). Both give the same core perks — store ranks are just a shortcut, not a paywall.
 
 ---
 
-## Quick Comparison
+## Rank Explorer
 
-| Type | Ranks | Cost | Time to Max |
-|------|-------|------|-------------|
-| **Vote Ranks** | 20 (Acorn → Yggdrasil) | Free | ~200 days |
-| **Store Ranks** | 4 main + 1 subscription (Hedgehog → Phoenix) | $10 - $100+ | Instant |
+Click any rank to see its perks, commands, and rewards. Diamond markers show Store Rank equivalents.
+
+```ranks
+```
 
 {% hint style="info" %}
-**Can I have both?** Yes! You keep the best of both. If you have Hedgehog store rank and reach VoteRank 15 through voting, you get VoteRank 15 perks plus Hedgehog's exclusive bonuses (including your pet!).
+**Can I have both?** Yes! You keep the best of both. A Hedgehog owner at Vote Rank 15 gets all Rank 15 perks plus Hedgehog exclusives (keep inventory, instant teleports, and their pet).
 {% endhint %}
 
 ---
 
-## Vote Ranks
+## Prestige
 
-Progress through 20 ranks by voting daily on our 5 voting sites. Each vote earns you:
-- **1 Vote Point** — Progress toward your next rank
-- **1 Vote Token** — Trade with Merchant Bramblewood
-- **1 Vote Key** — Opens the Vote Crate
-
-**Vote 5 times per day = 5 points/tokens/keys daily!**
-
-### Vote Rank Progression
-
-| Rank | Name | Total Votes | Days (5/day) | Homes | Warps | Shops |
-|------|------|-------------|--------------|-------|-------|-------|
-| 1 | **Acorn** | 0 | 0 | 1 | 0 | 0 |
-| 2 | **Sprout** | 5 | 1 | 2 | 1 | 2 |
-| 3 | **Seedling** | 10 | 2 | 3 | 1 | 3 |
-| 4 | **Sapling** | 20 | 4 | 4 | 2 | 4 |
-| 5 | **Bud** | 30 | 6 | 5 | 2 | 5 |
-| 6 | **Bloom** | 40 | 8 | 6 | 3 | 6 |
-| 7 | **Leaf** | 60 | 12 | 7 | 3 | 7 |
-| 8 | **Twig** | 80 | 16 | 8 | 4 | 8 |
-| 9 | **Branch** | 100 | 20 | 9 | 4 | 9 |
-| 10 | **Root** | 140 | 28 | 10 | 5 | 10 |
-| 11 | **Fern** | 190 | 38 | 10 | 6 | 12 |
-| 12 | **Moss** | 250 | 50 | 11 | 7 | 14 |
-| 13 | **Thicket** | 320 | 64 | 11 | 8 | 16 |
-| 14 | **Grove** | 400 | 80 | 12 | 9 | 18 |
-| 15 | **Willow** | 490 | 98 | 12 | 10 | 20 |
-| 16 | **Maple** | 590 | 118 | 13 | 11 | 22 |
-| 17 | **Oak** | 690 | 138 | 13 | 12 | 24 |
-| 18 | **Elderwood** | 790 | 158 | 14 | 13 | 26 |
-| 19 | **Heartwood** | 890 | 178 | 14 | 14 | 28 |
-| 20 | **Yggdrasil** | 1000 | 200 | 15 | 15 | 30 |
-
-### Command Unlocks by Rank
-
-| Rank | Commands Unlocked |
-|------|-------------------|
-| 2 (Sprout) | `/cartographytable`, first warp, player shops |
-| 3 (Seedling) | `/condense` |
-| 4 (Sapling) | `/lay` |
-| 5 (Bud) | `/sit` |
-| 6 (Bloom) | `/feed` |
-| 7 (Leaf) | `/loom`, `/heads` |
-| 8 (Twig) | `/craft` |
-| 9 (Branch) | `/near`, `/armorstand` |
-| 10 (Root) | `/dispose`, home icons in GUI |
-| 11 (Fern) | `/bellyflop` |
-| 12 (Moss) | `/stonecutter` |
-| 13 (Thicket) | `/jump` |
-| 14 (Grove) | `/grindstone` |
-| 15 (Willow) | `/crawl` |
-| 16 (Maple) | `/anvil` |
-| 17 (Oak) | `/ptime` |
-| 18 (Elderwood) | `/smithingtable` |
-| 19 (Heartwood) | `/enderchest` |
-| 20 (Yggdrasil) | `/heal`, prestige eligible |
-
-### Rank-Up Rewards
-
-Every rank-up gives you bonus rewards:
-
-| Rank | Emerald Blocks | XP | Crate Keys | Claim Chunks |
-|------|----------------|-----|------------|--------------|
-| 2 | 3 | - | - | - |
-| 3 | 3 | 250 | - | - |
-| 4 | 3 | - | - | - |
-| 5 | 3 | 300 | - | 2 |
-| 6 | 5 | - | 1 | - |
-| 7 | 5 | 400 | - | - |
-| 8 | 5 | - | 1 | - |
-| 9 | 8 | 500 | - | - |
-| 10 | 12 | - | 1 | 4 |
-| 11 | 12 | 1000 | - | - |
-| 12 | 12 | - | 1 | - |
-| 13 | 16 | 1400 | - | - |
-| 14 | 16 | - | 1 | - |
-| 15 | 20 | 1800 | - | 6 |
-| 16 | 20 | - | 1 | - |
-| 17 | 24 | 2200 | - | - |
-| 18 | 32 | - | 1 | - |
-| 19 | 40 | 2500 | - | - |
-| 20 | 48 | 3000 | 2 | 8 |
-
-**Total from ranking:** 287 Emerald Blocks + 13,350 XP + 9 Random Crate Keys + 20 Claim Chunks
-
----
-
-## Store Ranks
-
-Purchase instant access to perks without voting. Store ranks use **cumulative pricing**—if you already own a lower tier, you only pay the difference to upgrade.
-
-### Store Rank Tiers
-
-| Rank | Price | Upgrade From | Equivalent Vote Rank | Pet |
-|------|-------|--------------|---------------------|-----|
-| **Hedgehog** | $10 | - | VoteRank 5 (Bud) | Hedgehog |
-| **Squirrel** | $25 | $15 from Hedgehog | VoteRank 10 (Root) | Squirrel |
-| **Otter** | $50 | $25 from Squirrel | VoteRank 15 (Willow) | Otter |
-| **Owl** | $100 | $50 from Otter | VoteRank 20 (Yggdrasil) | Owl |
-| **Phoenix** | Subscription | Requires Owl | Cosmetic only | Phoenix |
-
-### Store Rank Perks
-
-| Rank         | Homes | Warps | Shops | Exclusive Perks                                        |
-| ------------ | ----- | ----- | ----- | ------------------------------------------------------ |
-| **Hedgehog** | 5     | 2     | 5     | Keep inventory on death, instant teleports, Hedgehog pet |
-| **Squirrel** | 10    | 5     | 10    | All Hedgehog perks + home icons, Squirrel pet          |
-| **Otter**    | 12    | 10    | 20    | All Squirrel perks, Otter pet                          |
-| **Owl**      | 15    | 15    | 30    | All Otter perks, Owl pet                               |
-| **Phoenix**  | 15    | 15    | 30    | All Owl perks + exclusive chat tag, Phoenix pet        |
-
-{% hint style="info" %}
-**Phoenix** is a subscription rank for players who already own Owl. It provides purely cosmetic perks—an exclusive chat tag, Phoenix pet, and future cosmetic additions.
-{% endhint %}
-
-### Store Rank One-Time Rewards
-
-When you purchase a store rank, you receive a bonus package:
-
-| Rank | Emerald Blocks | XP | Random Crate Keys | Pet |
-|------|----------------|-----|-------------------|-----|
-| Hedgehog | 5 | 300 | - | Hedgehog |
-| Squirrel | 12 | 500 | - | Squirrel |
-| Otter | 20 | 1500 | 2 | Otter |
-| Owl | 32 | 3000 | 3 | Owl |
-
----
-
-## Command Reference
-
-### Utility Commands
-
-| Command | Description | Unlocked At |
-|---------|-------------|-------------|
-| `/condense` | Convert items to blocks (64 diamonds → diamond blocks) | Rank 3 |
-| `/lay` | Lay down on the ground | Rank 4 |
-| `/sit` | Sit on stairs and slabs | Rank 5 |
-| `/feed` | Restore hunger and saturation | Rank 6 |
-| `/loom` | Open loom interface anywhere | Rank 7 |
-| `/heads` | Browse decorative head menu | Rank 7 |
-| `/craft` | Open crafting table anywhere | Rank 8 |
-| `/near` | See nearby players | Rank 9 |
-| `/armorstand` | Armor stand editor | Rank 9 |
-| `/bellyflop` | Fun bellyflop emote | Rank 11 |
-| `/stonecutter` | Open stonecutter anywhere | Rank 12 |
-| `/jump` | Teleport up to 30 blocks where you're looking | Rank 13 |
-| `/grindstone` | Open grindstone anywhere | Rank 14 |
-| `/crawl` | Fun crawl emote | Rank 15 |
-| `/anvil` | Open anvil anywhere | Rank 16 |
-| `/ptime` | Set personal time (day/night for your view) | Rank 17 |
-| `/smithingtable` | Open smithing table anywhere | Rank 18 |
-| `/enderchest` | Access ender chest remotely | Rank 19 |
-
-### Store Rank Exclusive Perks
-
-| Perk | Description | Rank |
-|------|-------------|------|
-| Keep Inventory | Don't lose items on death | Hedgehog+ |
-| Instant teleports | No warmup on `/tpa`, `/home` | Hedgehog+ |
-| Exclusive pets | Unique companion for each rank | All ranks |
-
----
-
-## Key Milestones
-
-### Early Game (Ranks 1-5)
-- **Rank 2 (5 votes):** `/cartographytable`, unlock warps and shops — start trading!
-- **Rank 5 (30 votes):** `/sit` — social features unlocked
-- **Rank 6 (40 votes):** First Random Crate Key!
-
-### Mid Game (Ranks 6-15)
-- **Rank 10 (140 votes):** `/dispose`, home icons, 10 homes, 5 warps, 10 shops
-- **Rank 15 (490 votes):** Major milestone, equivalent to Otter store rank
-
-### End Game (Ranks 16-20)
-- **Rank 17 (690 votes):** `/ptime` — control your personal time
-- **Rank 20 (1000 votes):** Maximum rank! `/heal`, prestige eligible
-
----
-
-## Prestige System
-
-Players who reach Rank 20 (Yggdrasil) can **prestige** to showcase their dedication:
-
-- Reset your rank display back to "Acorn"
-- Gain a **prestige star** (⭐) before your name
-- **Keep ALL perks** — 15 homes, 15 warps, 30 shops, all commands
-- Receive generous reward package (32 emerald blocks, keys, claim chunks)
-- Server-wide celebration announcement
-
-Prestige stars accumulate:
-- ⭐ Acorn (Prestige 1)
-- ⭐⭐⭐⭐⭐ Oak (Prestige 5)
-- ⭐×10 Yggdrasil (Prestige 10)
+Reached Rank 20? You can **prestige** — reset your rank display back to Acorn, earn a prestige star (⭐) before your name, and keep all your perks. Each prestige grants bonus rewards and a server-wide announcement.
 
 [Learn more about Prestige →](prestige.md)
 
@@ -219,28 +27,25 @@ Prestige stars accumulate:
 
 ## FAQ
 
-**Q: Can I reach max rank without paying?**
-A: Absolutely! Vote ranks provide everything store ranks do. It takes ~200 days of consistent voting, but it's completely achievable for free.
+**Can I reach max rank without paying?**
+Yes! Voting on all 5 sites daily gets you there in about 200 days. No content is locked behind store ranks.
 
-**Q: Do store rank perks stack with vote ranks?**
-A: Yes! If you have Hedgehog and reach VoteRank 15, you get VoteRank 15 perks plus Hedgehog's exclusive bonuses (keep inventory, instant teleports, and your Hedgehog pet!).
+**Do store ranks stack with vote ranks?**
+Yes. You always keep the best of both — store exclusives (keep inventory, instant teleports, pet) stay no matter how far you climb through voting.
 
-**Q: What happens if I miss voting days?**
-A: Nothing bad! You simply progress slower. There's no penalty for breaks—your vote count stays where it is.
+**What if I miss voting days?**
+Nothing happens. Your vote count stays where it is — you just progress slower.
 
-**Q: How do I check my current rank/votes?**
-A: Use `/vote` to see your vote count and current rank progress.
+**How do I check my rank?**
+Use `/vote` to see your current vote count and rank progress.
 
-**Q: Are store ranks one-time purchases?**
-A: Yes! Pay once, keep forever. No subscriptions required for Hedgehog/Squirrel/Otter/Owl. The only subscription rank is Phoenix, which is optional and purely cosmetic.
-
-**Q: What is the Phoenix rank?**
-A: Phoenix is an optional subscription rank for players who already own Owl. It provides purely cosmetic perks like an exclusive chat tag and Phoenix pet—no gameplay advantages over Owl.
+**Are store ranks one-time purchases?**
+Yes. Hedgehog through Owl are permanent. Phoenix is the only subscription rank — it's optional, cosmetic-only, and requires Owl.
 
 ---
 
 ## Related Pages
 
-- [Vote Ranks](vote-ranks.md) — Detailed vote rank information
-- [Store Ranks](store-ranks.md) — Store rank details and purchasing
+- [Vote Ranks](vote-ranks.md) — Full vote rank details
+- [Store Ranks](store-ranks.md) — Store rank details and pricing
 - [Prestige System](prestige.md) — Post-Rank 20 progression

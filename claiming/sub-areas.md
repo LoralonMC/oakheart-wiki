@@ -167,7 +167,7 @@ Now anyone can enter your shop, open doors, and trade with your shopkeepers, but
 2. **Select and assign** using `/lands selection` then `/lands selection assign Farm`
 3. **Enable for Visitors:**
    - `INTERACT_GENERAL` (use hoes)
-   - `BLOCK_BREAK` for specific blocks (crops only if supported)
+   - `BLOCK_BREAK` (allows breaking all blocks — this flag is all-or-nothing, so keep valuables outside the farm area)
 4. **Keep disabled:**
    - `BLOCK_PLACE` (prevent random blocks)
    - `INTERACT_CONTAINER` (protect seed chests)

@@ -1,17 +1,20 @@
 # Pets
 
-Collect companion pets that follow you around with custom 3D animated models! There are two ways to get pets: rare mob drops and store rank exclusives.
+Collect companion pets that follow you around with custom 3D animated models! There are three ways to get pets: rare mob drops, paid crate rewards, and store rank exclusives.
+
+{% hint style="warning" %}
+**Coming soon!** The pet system is currently in development. Details on this page reflect the planned design.
+{% endhint %}
 
 ---
 
 ## Mob Drop Pets
 
-Every hostile mob has a **1 in 10,000** chance to drop its pet version when killed.
+Certain hostile mobs have a **1 in 10,000** chance to drop a pet voucher when killed. Right-click the voucher to unlock the pet permanently.
 
-- Kill zombies for a chance at a Zombie Pet
-- Kill creepers for a chance at a Creeper Pet
-- Kill skeletons for a chance at a Skeleton Pet
-- And so on for all hostile mobs!
+**Available mob pets:**
+- Zombie, Creeper, Skeleton, Enderman (Hostile pack)
+- Boss mobs (Bosses pack)
 
 {% hint style="info" %}
 **Server announcement!** When a pet drops, the entire server is notified. These are rare collectibles worth celebrating.
@@ -19,9 +22,21 @@ Every hostile mob has a **1 in 10,000** chance to drop its pet version when kill
 
 ---
 
+## Crate Pets
+
+Each paid crate tier has an **exclusive pet** with a custom 3D model.
+
+| Pet | Source |
+|-----|--------|
+| **Daisy Butterfly Pet** | Daisy Crate |
+| **Rose Hummingbird Pet** | Rose Crate |
+| **Lily Firefly Pet** | Lily Crate |
+
+---
+
 ## Store Rank Pets
 
-Each store rank comes with an **exclusive pet companion** matching the rank animal. These pets are only available to players who own that rank.
+Each store rank comes with an **exclusive pet companion** matching the rank animal. These are automatic — no voucher needed, you get them with your rank.
 
 | Store Rank | Pet | Price |
 |------------|-----|-------|
@@ -42,7 +57,7 @@ Each store rank comes with an **exclusive pet companion** matching the rank anim
 - **Custom 3D Models** — Each pet has a unique animated model
 - **Follows You** — Your pet companions follow you around the world
 - **Collection System** — Collect different pet types from mob drops
-- **Tradeable** — Mob drop pets can be traded with other players
+- **Tradeable Vouchers** — Mob drop pet vouchers can be traded with other players before redemption
 
 ---
 

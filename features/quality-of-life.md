@@ -4,20 +4,26 @@ Oakheart includes several quality-of-life features to make your gameplay smoothe
 
 ---
 
-## Phantom Toggle
+## Player Settings
 
-Tired of Phantoms attacking you at night? Toggle them off!
+Use `/settings` to open a GUI with gameplay toggles you can customize:
 
-### Command
+| Toggle | What It Does |
+|--------|-------------|
+| **Phantom Spawning** | Stop phantoms from targeting you |
+| **PVP** | Toggle player combat (opt-in) |
+| **TP Requests** | Toggle receiving teleport requests |
+| **Private Messages** | Toggle receiving PMs |
+| **Trade Requests** | Toggle receiving trade requests |
+| **Server Announcements** | Toggle timed server messages in chat |
+| **Scoreboard Display** | Toggle the sidebar scoreboard |
+| **TPS Bossbar** | Toggle the TPS/MSPT/ping bossbar |
+| **Player Locator** | Show/hide your location to other players |
 
-```
-/settings
-```
-
-Toggles whether Phantoms will target you. Your sleep deprivation still builds up, but Phantoms simply won't spawn for you.
+You can also manage **Join/Leave Messages** and **NPC Dialogue** (skip dialogue for NPCs you've already talked to) from the settings menu.
 
 {% hint style="info" %}
-**Note:** This only affects Phantoms targeting *you*. You can still encounter Phantoms that were spawned by other players.
+**Phantom note:** When phantoms are toggled off, your sleep deprivation still builds up — phantoms simply won't spawn for *you*. You can still encounter phantoms spawned by other players.
 {% endhint %}
 
 ---
@@ -28,20 +34,24 @@ Create cleaner displays by making item frames invisible while keeping the item v
 
 ### How to Craft
 
-Surround a **Phantom Membrane** with item frames in a crafting table:
+Surround a {{item:phantom_membrane}} with item frames in a crafting table:
 
 **Normal Invisible Frame:**
-```
-[Frame] [Frame] [Frame]
-[Frame] [Membrane] [Frame]
-[Frame] [Frame] [Frame]
+
+```crafting
+item_frame, item_frame, item_frame
+item_frame, phantom_membrane, item_frame
+item_frame, item_frame, item_frame
+=> invisible_item_frame
 ```
 
 **Glow Invisible Frame:**
-```
-[Glow Frame] [Glow Frame] [Glow Frame]
-[Glow Frame] [Membrane] [Glow Frame]
-[Glow Frame] [Glow Frame] [Glow Frame]
+
+```crafting
+glow_item_frame, glow_item_frame, glow_item_frame
+glow_item_frame, phantom_membrane, glow_item_frame
+glow_item_frame, glow_item_frame, glow_item_frame
+=> invisible_glow_item_frame
 ```
 
 ### Use Cases
@@ -63,6 +73,8 @@ When you receive items but your inventory is full, they go to your overflow inst
 |---------|-------------|
 | `/overflow` | Open your overflow inventory |
 | `/of` | Shortcut for `/overflow` |
+| `/overflow count` | See how many items are waiting |
+| `/overflow claimall` | Claim all items at once |
 
 ### When Overflow Activates
 
@@ -160,6 +172,16 @@ Teleports you approximately 30 blocks in the direction you're looking. Useful fo
 
 ---
 
+## Useful Commands
+
+| Command | Description | Rank Required |
+|---------|-------------|---------------|
+| `/feed` | Restore your hunger and saturation | Rank 6 |
+| `/near` | See nearby players | Rank 9 |
+| `/heal` | Fully restore your health | Rank 20 |
+
+---
+
 ## Portable Workstations
 
 Access crafting interfaces anywhere without placing blocks.
@@ -234,10 +256,10 @@ Quickly convert items into their block form.
 ### What It Does
 
 Converts items in your inventory to their block form:
-- 9 Diamonds → 1 Diamond Block
-- 9 Iron Ingots → 1 Iron Block
-- 9 Gold Ingots → 1 Gold Block
-- 9 Emeralds → 1 Emerald Block
+- {{item:diamond:9}} → {{item:diamond_block}}
+- {{item:iron_ingot:9}} → {{item:iron_block}}
+- {{item:gold_ingot:9}} → {{item:gold_block}}
+- {{item:emerald:9}} → {{item:emerald_block}}
 - And more...
 
 ---
@@ -260,7 +282,9 @@ Opens a virtual trash can. Any items placed inside are permanently destroyed whe
 **Warning:** Items destroyed with `/dispose` cannot be recovered!
 {% endhint %}
 
-### Decorative Heads
+---
+
+## Decorative Heads
 
 ```
 /heads
@@ -268,7 +292,7 @@ Opens a virtual trash can. Any items placed inside are permanently destroyed whe
 
 **Rank Required:** Rank 7 (Leaf)
 
-Opens a menu with hundreds of decorative head designs for building.
+Opens a menu with hundreds of decorative head designs for building. Great for custom furniture, signs, and decoration details.
 
 ---
 

@@ -20,12 +20,12 @@ Physical shops encourage community interaction and give players a reason to expl
 
 - **Rank 2+** (5 votes) to create shops
 - A **chest** to store your shop's inventory
-- A **Shopkeeper Spawn Egg** (purchased at spawn)
+- A {{item:shop_creation_item}} (purchased at spawn)
 - A claimed area for your shop location
 
 ### Step 1: Buy a Shopkeeper Spawn Egg
 
-Visit **Quillfeather the Scribe** at spawn to purchase a Shopkeeper Spawn Egg for **100 emeralds**.
+Visit **Quillfeather the Scribe** at spawn to purchase a {{item:shop_creation_item}} for {{item:emerald:100}}.
 
 {% hint style="success" %}
 **Good news!** If you delete your shop later, you get the spawn egg back. This lets you move or reorganize your shops without losing your investment.
@@ -49,7 +49,7 @@ Visit **Quillfeather the Scribe** at spawn to purchase a Shopkeeper Spawn Egg fo
 
 Set a player warp so customers can find you:
 1. Stand at your shop entrance
-2. Use `/warp set <name>`
+2. Use `/pw set <name>`
 3. Choose the **Shops** category
 4. Add a description of what you sell
 
@@ -75,7 +75,7 @@ Your maximum number of shops increases as you rank up:
 | 19 | 28 |
 | 20 (Yggdrasil) | 30 |
 
-**Store Ranks** match their equivalent vote rank (Hedgehog = 5 shops, Owl = 30 shops).
+**Store Ranks** match their equivalent vote rank: Hedgehog = 5 shops, Squirrel = 10 shops, Otter = 20 shops, Owl = 30 shops.
 
 ---
 
@@ -103,6 +103,18 @@ Open the editor and click the **Move** button, then right-click a new location.
 ### Removing Your Shopkeeper
 
 Open the editor and click the **Delete** button to remove your shopkeeper entirely. **You'll get your spawn egg back** to use for another shop or trade to other players.
+
+---
+
+## Player-to-Player Trading
+
+Don't have a shop set up? You can trade directly with any nearby player using `/trade <player>`.
+
+This opens a split-screen trading GUI where both players can place items they want to offer. Both sides must confirm before the trade goes through. Items swap safely — no risk of dropping or stealing.
+
+{% hint style="info" %}
+`/trade` works at any distance, so you don't need to be standing next to the other player.
+{% endhint %}
 
 ---
 

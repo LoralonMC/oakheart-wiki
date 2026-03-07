@@ -1,6 +1,10 @@
 # Building Tools
 
-Oakheart has two custom building tools designed for survival mode: the **File** and the **Trowel**. Both are craftable and work with your claims.
+Oakheart has three custom building tools designed for survival mode: the {{item:oak_file}}, the {{item:oak_trowel}}, and the {{item:oak_wand}}. All are craftable and work with your claims.
+
+{% hint style="info" %}
+**Don't want to craft?** These tools are also available from the [Token Trader](../traders/token-trader.md) ({{item:vote_token:60-70}}) and as drops from Paid Crates (Daisy, Rose, and Lily tiers).
+{% endhint %}
 
 ---
 
@@ -23,19 +27,18 @@ Right-click supported blocks to modify their appearance:
 
 ### How to Craft
 
+```crafting
+_,_,iron_ingot
+_,iron_ingot,_
+stick,_,_
+=> oak_file
 ```
-[ ] [ ] [I]
-[ ] [I] [ ]
-[S] [ ] [ ]
-```
-
-I = Iron Ingot, S = Stick (diagonal pattern)
 
 ### Tips
 
 - Uses durability per edit
 - Supports Mending and Unbreaking enchantments
-- Repair with iron ingots in an anvil
+- Repair with {{item:iron_ingot}} in an anvil
 - Works with your claimed land
 
 ---
@@ -54,13 +57,12 @@ Each placement consumes one block from your inventory.
 
 ### How to Craft
 
+```crafting
+_,_,iron_ingot
+_,iron_ingot,iron_ingot
+stick,_,_
+=> oak_trowel
 ```
-[ ] [ ] [I]
-[ ] [I] [I]
-[S] [ ] [ ]
-```
-
-I = Iron Ingot, S = Stick (like the File but with an extra iron)
 
 ### Tips
 
@@ -68,15 +70,47 @@ I = Iron Ingot, S = Stick (like the File but with an extra iron)
 - Automatically skips incompatible items (doors, beds, signs)
 - Uses durability per placement
 - Supports Mending and Unbreaking enchantments
-- Repair with iron ingots in an anvil
+- Repair with {{item:iron_ingot}} in an anvil
+
+---
+
+## Builder's Wand
+
+A smart building tool that extends surfaces by placing blocks along the face you're looking at — perfect for quickly building walls, floors, and ceilings.
+
+### What It Does
+
+1. **Right-click** a block face to extend it by placing matching blocks from your inventory
+2. **Shift + right-click** to cycle between placement modes:
+   - **Face** — fills a flat area on the clicked face
+   - **Line** — extends a single row along one axis
+
+Each placement consumes blocks from your inventory and supports up to 64 blocks per use.
+
+### How to Craft
+
+```crafting
+_,iron_ingot,iron_ingot
+_,stick,iron_ingot
+stick,_,_
+=> oak_wand
+```
+
+### Tips
+
+- Preview shows a glow outline before placing
+- Supports undo (up to 5 recent placements, expires after 5 minutes)
+- Uses durability per placement
+- Supports Mending and Unbreaking enchantments
+- Repair with {{item:iron_ingot}} in an anvil
 
 ---
 
 ## Repair
 
-Both tools can be repaired:
+All tools can be repaired:
 
-- **Anvil + Iron Ingots** — Standard repair
+- **Anvil + {{item:iron_ingot}}** — Standard repair
 - **Combine two tools** — Merges durability with a 5% bonus
 - **Enchanted books** — Add Mending or Unbreaking
 

@@ -1,9 +1,9 @@
 # Crystal Trader
 
 **NPC:** Crystalkeeper Shimmervale
-**Location:** Crates Pavilion
+**Location:** Crates Building (interior)
 
-Trade Crate Crystals for exclusive cosmetics, guaranteed valuable items, and more crate keys.
+Trade {{item:crate_crystal}} for exclusive cosmetics, guaranteed valuable items, and more crate keys.
 
 ---
 
@@ -11,7 +11,7 @@ Trade Crate Crystals for exclusive cosmetics, guaranteed valuable items, and mor
 
 | Source | Drop Rate | Amount |
 |--------|-----------|--------|
-| Vote Crate | ~1-2% | 2 crystals |
+| Vote Crate | ~1% | 2 crystals |
 | Paid Crates | Higher rates | Varies |
 | Token Trader | 100 tokens | 1 crystal |
 
@@ -29,11 +29,11 @@ Custom-textured leather armor with a cozy cottagecore aesthetic.
 
 | Item | Cost |
 |------|------|
-| Cottage Hat | 30 crystals |
-| Cottage Tunic | 40 crystals |
-| Cottage Pants | 35 crystals |
-| Cottage Boots | 25 crystals |
-| **Full Set** | **130 crystals** |
+| Cottage Hat | {{item:crate_crystal:30}} |
+| Cottage Tunic | {{item:crate_crystal:40}} |
+| Cottage Pants | {{item:crate_crystal:35}} |
+| Cottage Boots | {{item:crate_crystal:25}} |
+| **Full Set** | **{{item:crate_crystal:130}}** |
 
 {% hint style="info" %}
 **Collector's Goal:** The full Cottage Set requires significant dedication—plan your crystal spending if you want the complete look!
@@ -45,16 +45,29 @@ Custom-textured tools matching the cottage aesthetic:
 
 | Item | Cost |
 |------|------|
-| Gardener's Hoe | 80 crystals |
-| Forester's Axe | 80 crystals |
+| Gardener's Hoe | {{item:crate_crystal:80}} |
+| Forester's Axe | {{item:crate_crystal:80}} |
 
 ### Decorative Items
 
 | Item | Cost |
 |------|------|
-| Cosmetic Oak Sapling | 35 crystals |
-| Plushie Bundle (5 random) | 45 crystals |
-| Lantern Collection (5 designs) | 50 crystals |
+| Cosmetic Oak Sapling | {{item:crate_crystal:35}} |
+| Plushie Bundle (5 random) | {{item:crate_crystal:45}} |
+| Lantern Collection (5 designs) | {{item:crate_crystal:50}} |
+
+### MEGA Plushies
+
+Oversized collectible plushies — much bigger than standard ones!
+
+| Item | Cost |
+|------|------|
+| MEGA Ender Dragon | {{item:crate_crystal:25}} |
+| MEGA Iron Golem | {{item:crate_crystal:25}} |
+| MEGA Ravager | {{item:crate_crystal:25}} |
+| MEGA Elder Guardian | {{item:crate_crystal:25}} |
+| MEGA Warden | {{item:crate_crystal:30}} |
+| MEGA Wither | {{item:crate_crystal:30}} |
 
 ---
 
@@ -64,11 +77,11 @@ Guaranteed high-value items for unlucky crate streaks:
 
 | Item | Cost |
 |------|------|
-| 16 Diamonds | 45 crystals |
-| Mending Book | 60 crystals |
-| 4 Ancient Debris | 70 crystals |
-| Heart of the Sea | 75 crystals |
-| Netherite Upgrade Template | 90 crystals |
+| {{item:diamond:16}} | {{item:crate_crystal:45}} |
+| {{item:enchanted_book_mending}} | {{item:crate_crystal:60}} |
+| {{item:ancient_debris:4}} | {{item:crate_crystal:70}} |
+| {{item:heart_of_the_sea}} | {{item:crate_crystal:75}} |
+| {{item:netherite_upgrade_smithing_template}} | {{item:crate_crystal:90}} |
 
 {% hint style="success" %}
 **Tired of bad luck?** If you've been opening crates without hitting Mending or Ancient Debris, save your crystals and buy them guaranteed!
@@ -84,16 +97,16 @@ Trade up to higher-tier crate keys:
 
 | Amount | Cost |
 |--------|------|
-| 1 Vote Key | 20 crystals |
-| 5 Vote Keys | 90 crystals |
+| {{item:votekey}} | {{item:crate_crystal:20}} |
+| {{item:votekey:5}} | {{item:crate_crystal:90}} |
 
 ### Paid Crate Keys
 
 | Key Type | Cost |
 |----------|------|
-| Paid Crate Key Tier 1 | 80 crystals |
-| Paid Crate Key Tier 2 | 120 crystals |
-| Paid Crate Key Tier 3 | 180 crystals |
+| Paid Crate Key Tier 1 | {{item:crate_crystal:80}} |
+| Paid Crate Key Tier 2 | {{item:crate_crystal:120}} |
+| Paid Crate Key Tier 3 | {{item:crate_crystal:180}} |
 
 ---
 
@@ -101,11 +114,11 @@ Trade up to higher-tier crate keys:
 
 | Item | Cost |
 |------|------|
-| 1 Emerald Block (9 emeralds) | 25 crystals |
-| 1 Claim Chunk | 35 crystals |
-| 1 Diamond Block | 40 crystals |
-| 5 Claim Chunks | 150 crystals |
-| 1 Netherite Block | 150 crystals |
+| {{item:emerald_block}} (9 emeralds) | {{item:crate_crystal:25}} |
+| {{item:claim_chunk}} | {{item:crate_crystal:15}} |
+| {{item:diamond_block}} | {{item:crate_crystal:40}} |
+| {{item:claim_chunk:5}} | {{item:crate_crystal:60}} |
+| {{item:netherite_block}} | {{item:crate_crystal:150}} |
 
 ---
 
@@ -116,7 +129,7 @@ Trade up to higher-tier crate keys:
 | Crystals | Estimated Time | Can Afford |
 |----------|----------------|------------|
 | 30 | ~9 months | Cottage Hat |
-| 60 | ~18 months | Mending Book |
+| 60 | ~18 months | {{item:enchanted_book_mending}} |
 | 130 | ~3.3 years | Full Cottage Set |
 
 **With Paid Crates:**

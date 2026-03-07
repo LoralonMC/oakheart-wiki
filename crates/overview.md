@@ -19,7 +19,7 @@ Oakheart features multiple crate types that reward you with valuable items, reso
 
 ## Crate Crystals
 
-Crates can drop **Crate Crystals**, a special currency you can trade with Crystalkeeper Shimmervale for guaranteed rewards and exclusive cosmetics.
+Crates can drop {{item:crate_crystal}}, a special currency you can trade with Crystalkeeper Shimmervale for guaranteed rewards and exclusive cosmetics.
 
 [Learn more about Traders →](../traders/overview.md)
 
@@ -32,47 +32,11 @@ The most accessible crate—earn 5 keys daily just by voting!
 ### How to Get Keys
 1. Run `/vote`
 2. Vote on all 5 sites (takes ~2 minutes)
-3. Receive 1 Vote Key per site = 5 keys/day
+3. Receive 1x {{item:votekey}} per site = 5 keys/day
 
-### Notable Rewards
+The Vote Crate has over 50 possible rewards across many categories — resources, emeralds, smith materials, enchantment books, {{item:claim_chunk}}, {{item:crate_crystal}}, starter plushies and figures, and even Paid Crate Keys at higher rarities. There's also a {{item:devoted_chat_tag}} at Legendary rarity and a $30 Store Voucher at Mythic (~0.07% chance).
 
-**Resources & QoL**
-- 32 Bone Meal, 64 Scaffolding, 32 Packed Ice
-- 16-24 Iron/Gold Ingots
-- Ender Chest
-
-**Emeralds**
-- Common: 8-12 emeralds
-- Legendary: 150 emeralds
-
-**Valuable Items**
-- 8-16 Diamonds
-- Shulker Box
-- Elytra (Rare)
-
-**Smith Materials**
-- Crying Obsidian, Echo Shards
-- Totem of Undying, Heart of the Sea
-- Dragon Head, Ancient Debris (Legendary)
-
-**Enchantments**
-- Random max-level weapon/armor/tool enchants
-- Unbreaking III Book
-- Mending Book (Epic)
-
-**Server Items**
-- Claim Chunks (1-2)
-- Crate Crystals (2)
-- Vote Chat Tag (Legendary)
-- $30 Store Voucher (Mythic - ~0.07% chance)
-
-**Escalation**
-- Paid Crate Key Tier 1 (Epic)
-- Paid Crate Key Tier 2 (Legendary)
-
-**Plushies**
-- Steve, Alex, Zombie Horse, Ocelot, Tropical Fish
-- Creaking (Rare)
+[See the full Vote Crate loot table →](vote-crate.md)
 
 ---
 
@@ -80,23 +44,25 @@ The most accessible crate—earn 5 keys daily just by voting!
 
 Three tiers available in the store with increasingly better rewards.
 
-| Tier | Price | Reward Quality |
-|------|-------|----------------|
-| **Tier 1** | TBD | Good rewards |
-| **Tier 2** | TBD | Better rewards |
-| **Tier 3** | TBD | Best rewards |
+| Tier | Name | Price (3-pack) | Reward Quality |
+|------|------|---------------|----------------|
+| **Tier 1** | Daisy Crate | $10 | Good rewards |
+| **Tier 2** | Rose Crate | $15 | Better rewards |
+| **Tier 3** | Lily Crate | $20 | Best rewards |
 
-Higher tiers have better chances at rare items and exclusive rewards not found in Vote Crate.
+Higher tiers have better chances at rare items, exclusive pets, cosmetics, and rank vouchers not found in the Vote Crate.
+
+[See full pricing and details →](paid-crates.md)
 
 ---
 
 ## Emerald Crate
 
-**Purpose:** Major economy sink to control emerald inflation.
+**Price:** {{item:emerald_block:64}} (576 emeralds) per key.
 
-- Buy keys with emeralds
-- Contains valuable rewards worth the investment
-- Helps maintain healthy server economy
+A cosmetics-focused crate for late-game players looking to spend their emerald fortune. Every open gives you either a cosmetic collectible (~69%) or a troll junk drop (~31%) — it's a fun gamble, not a resource farm!
+
+[See Emerald Crate details →](emerald-crate.md)
 
 ---
 

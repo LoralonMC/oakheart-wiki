@@ -12,7 +12,7 @@ Support the server and get instant access to perks with Store Ranks! Each rank g
 | **Squirrel** | $25 | Rank 10 (Root) | Squirrel companion |
 | **Otter** | $50 | Rank 15 (Willow) | Otter companion |
 | **Owl** | $100 | Rank 20 (Yggdrasil) | Owl companion |
-| **Phoenix** | Subscription | Requires Owl (cosmetic only) | Phoenix companion |
+| **Phoenix** | $10/month | Requires Owl (cosmetic only) | Phoenix companion |
 
 {% hint style="info" %}
 **Cumulative pricing** — If you own Hedgehog ($10) and want Squirrel, you only pay $15 more (not the full $25).
@@ -94,7 +94,7 @@ Everything from Otter, plus Vote Ranks 16-20 commands:
 {% endhint %}
 
 Everything from Owl, plus:
-- **Exclusive chat tag** — Show your dedication in chat
+- {{item:phoenix_chat_tag}} — Show your dedication in chat
 - **Phoenix pet** — Legendary companion follows you around
 - **Future cosmetic additions** — More cosmetics to come!
 
@@ -106,10 +106,10 @@ Each Store Rank includes a bonus reward package on purchase:
 
 | Rank | Reward |
 |------|--------|
-| **Hedgehog** | 5 emerald blocks, 300 XP, Hedgehog pet |
-| **Squirrel** | 12 emerald blocks, 500 XP, Squirrel pet |
-| **Otter** | 20 emerald blocks, 1500 XP, 2 Random Crate Keys, Otter pet |
-| **Owl** | 32 emerald blocks, 3000 XP, 3 Random Crate Keys, Owl pet |
+| **Hedgehog** | {{item:emerald_block:5}}, 300 XP, Hedgehog pet |
+| **Squirrel** | {{item:emerald_block:12}}, 500 XP, Squirrel pet |
+| **Otter** | {{item:emerald_block:20}}, 1500 XP, 2 Random Crate Keys, Otter pet |
+| **Owl** | {{item:emerald_block:32}}, 3000 XP, 3 Random Crate Keys, Owl pet |
 
 ---
 
@@ -122,7 +122,7 @@ These perks are **only** available through Store Ranks:
 | Keep Inventory      | Hedgehog+     |
 | Instant teleports   | Hedgehog+     |
 | Exclusive pets      | All ranks     |
-| Exclusive chat tag  | Phoenix       |
+| {{item:phoenix_chat_tag}} | Phoenix       |
 
 {% hint style="warning" %}
 Vote Ranks provide the same core progression (homes, warps, shops, commands) but these exclusives are Store-only perks.
