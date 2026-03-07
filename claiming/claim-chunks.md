@@ -1,5 +1,5 @@
 # Claim Chunks
-test
+test test
 {{item:claim_chunk}} are items that permanently increase your maximum claim limit by +1 each. Here's how to get them and use them.
 
 ---
