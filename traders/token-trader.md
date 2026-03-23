@@ -90,7 +90,7 @@ Special tools with unique abilities:
 |------|------|
 | Harvester's Hoe | {{item:vote_token:60}} |
 | Excavation Shovel | {{item:vote_token:60}} |
-| {{item:oak_wand}} | {{item:vote_token:70}} |
+| {{item:wand}} | {{item:vote_token:70}} |
 | Vein Miner Pickaxe | {{item:vote_token:70}} |
 | Lumberjack Axe | {{item:vote_token:70}} |
 

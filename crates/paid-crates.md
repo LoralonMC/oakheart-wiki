@@ -88,7 +88,7 @@ Paid Crates use a 3-tier weight system that's different from the Vote Crate:
 
 ### Rose Crate (24 items)
 
-**Standard (~82%):** Resources ({{item:diamond_block}}, {{item:netherite_ingot}}/{{item:netherite_block}}, {{item:ancient_debris}}, {{item:enchanted_golden_apple}}), {{item:crate_crystal:4}}, {{item:claim_chunk}} (3 or 5), {{item:random_armor_trim}}, {{item:oak_wand}}, Vein Miner Pickaxe, Plushie Bundles (Vol 4-6), Nascent Nature Booster
+**Standard (~82%):** Resources ({{item:diamond_block}}, {{item:netherite_ingot}}/{{item:netherite_block}}, {{item:ancient_debris}}, {{item:enchanted_golden_apple}}), {{item:crate_crystal:4}}, {{item:claim_chunk}} (3 or 5), {{item:random_armor_trim}}, {{item:wand}}, Vein Miner Pickaxe, Plushie Bundles (Vol 4-6), Nascent Nature Booster
 
 **Premium (~17%):** Rose Petal Crown, Rose Hummingbird Pet, Rose Velvet Wings (elytra), Rose Chat Tag, Rose Join/Leave Message, 1 Lily Key
 

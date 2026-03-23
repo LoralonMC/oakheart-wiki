@@ -1,6 +1,6 @@
 # Building Tools
 
-Oakheart has three custom building tools designed for survival mode: the {{item:oak_file}}, the {{item:oak_trowel}}, and the {{item:oak_wand}}. All are craftable and work with your claims.
+Oakheart has three custom building tools designed for survival mode: the {{item:file}}, the {{item:trowel}}, and the {{item:wand}}. All are craftable and work with your claims.
 
 {% hint style="info" %}
 **Don't want to craft?** These tools are also available from the [Token Trader](../traders/token-trader.md) ({{item:vote_token:60-70}}) and as drops from Paid Crates (Daisy, Rose, and Lily tiers).
@@ -31,7 +31,7 @@ Right-click supported blocks to modify their appearance:
 _,_,iron_ingot
 _,iron_ingot,_
 stick,_,_
-=> oak_file
+=> file
 ```
 
 ### Tips
@@ -61,7 +61,7 @@ Each placement consumes one block from your inventory.
 _,_,iron_ingot
 _,iron_ingot,iron_ingot
 stick,_,_
-=> oak_trowel
+=> trowel
 ```
 
 ### Tips
@@ -93,7 +93,7 @@ Each placement consumes blocks from your inventory and supports up to 64 blocks 
 _,iron_ingot,iron_ingot
 _,stick,iron_ingot
 stick,_,_
-=> oak_wand
+=> wand
 ```
 
 ### Tips
