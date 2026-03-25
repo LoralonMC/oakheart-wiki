@@ -44,7 +44,7 @@ Each store rank comes with an **exclusive pet companion** matching the rank anim
 | **Squirrel** | Squirrel Pet | $25 (cumulative) |
 | **Otter** | Otter Pet | $50 (cumulative) |
 | **Owl** | Owl Pet | $100 (cumulative) |
-| **Phoenix** | Phoenix Pet | $10/month subscription (standalone) |
+| **Phoenix** | Phoenix Pet | $10/month subscription (requires Owl) |
 
 {% hint style="success" %}
 **You keep all pets!** When you upgrade to a higher store rank, you keep your previous rank's pet too. An Owl rank player has access to all four pets.
