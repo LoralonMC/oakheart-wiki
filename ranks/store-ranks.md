@@ -12,7 +12,7 @@ Support the server and get instant access to perks with Store Ranks! Each rank g
 | **Squirrel** | $25 | Rank 10 (Root) | Squirrel companion |
 | **Otter** | $50 | Rank 15 (Willow) | Otter companion |
 | **Owl** | $100 | Rank 20 (Yggdrasil) | Owl companion |
-| **Phoenix** | $10/month | Requires Owl (cosmetic only) | Phoenix companion |
+| **Phoenix** | $10/month | Standalone (cosmetic only) | Phoenix companion |
 
 {% hint style="info" %}
 **Cumulative pricing** — If you own Hedgehog ($10) and want Squirrel, you only pay $15 more (not the full $25).
@@ -90,12 +90,12 @@ Everything from Otter, plus Vote Ranks 16-20 commands:
 ### Phoenix (Subscription)
 
 {% hint style="info" %}
-**Phoenix** requires owning the Owl rank first. It is a purely cosmetic subscription rank with no gameplay advantages over Owl.
+**Phoenix** is a standalone cosmetic subscription — no other rank required. It provides no gameplay perks (homes, warps, shops, commands). Those come from your vote rank or one-time store rank.
 {% endhint %}
 
-Everything from Owl, plus:
 - {{item:phoenix_chat_tag}} — Show your dedication in chat
 - **Phoenix pet** — Legendary companion follows you around
+- **Phoenix join/leave message** — Unique entrance and exit messages
 - **Future cosmetic additions** — More cosmetics to come!
 
 ---
@@ -154,7 +154,7 @@ Already own a Store Rank? Upgrades only cost the difference:
 | Otter → Owl | $50 |
 
 {% hint style="info" %}
-**Phoenix** is a separate subscription rank that requires owning Owl first. It provides purely cosmetic perks and is not part of the upgrade path.
+**Phoenix** is a standalone cosmetic subscription ($10/month). It's not part of the upgrade path — anyone can subscribe regardless of their current rank.
 {% endhint %}
 
 ---

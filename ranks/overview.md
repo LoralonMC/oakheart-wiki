@@ -40,7 +40,7 @@ Nothing happens. Your vote count stays where it is — you just progress slower.
 Use `/vote` to see your current vote count and rank progress.
 
 **Are store ranks one-time purchases?**
-Yes. Hedgehog through Owl are permanent. Phoenix is the only subscription rank — it's optional, cosmetic-only, and requires Owl.
+Yes. Hedgehog through Owl are permanent. Phoenix is the only subscription rank — it's optional, cosmetic-only, and available to anyone ($10/month).
 
 ---
 
