@@ -70,7 +70,7 @@ After 5 prestiges, stars use multiplier format (⭐×6) to prevent chat clutter.
 | {{item:emerald_block:32}} | 288 emeralds |
 | {{item:votekey:5}} | |
 | {{item:claim_chunk:3}} | |
-| Random Paid Key (Tier 1-3) | 1 |
+| {{item:enigma_key_tome:1}} | |
 | Server announcement | Yes |
 
 {% hint style="info" %}
