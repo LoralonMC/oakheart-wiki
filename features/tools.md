@@ -116,9 +116,9 @@ Harvesting tools are consumable. Once the durability runs out, the tool breaks p
 
 | Tool               | Effect                          | Durability | Source                               |
 | ------------------ | ------------------------------- | ---------- | ------------------------------------ |
-| Excavation Shovel  | 3×3 area dig                   | 500        | {{item:vote_token:60}} / Daisy Crate |
-| Vein Miner Pickaxe | Mine entire connected ore vein  | 750        | {{item:vote_token:70}} / Rose Crate  |
-| Lumberjack's Axe   | Fell an entire tree in one chop | 1000       | {{item:vote_token:70}} / Lily Crate  |
+| {{item:excavator}}  | 3×3 area dig                   | 500        | {{item:vote_token:60}} / Daisy Crate |
+| {{item:vein-miner}} | Mine entire connected ore vein  | 750        | {{item:vote_token:70}} / Rose Crate  |
+| {{item:lumberjack}}   | Fell an entire tree in one chop | 1000       | {{item:vote_token:70}} / Lily Crate  |
 
 ### Excavation Shovel
 
