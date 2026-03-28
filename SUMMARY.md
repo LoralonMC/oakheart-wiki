@@ -52,7 +52,7 @@
 
 * [Player Warps](features/player-warps.md)
 * [Homes](features/homes.md)
-* [Building Tools](features/tools.md)
+* [Tools](features/tools.md)
 * [Quality of Life](features/quality-of-life.md)
 * [Voice Chat](features/voice-chat.md)
 * [Resource World](features/resource-world.md)
