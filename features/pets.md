@@ -59,6 +59,7 @@ subtitle: Owl Rank — $100
 name: Phoenix Pet
 image: /assets/pets/md_phoenix_pet.gif
 subtitle: Phoenix Rank — $10/mo
+featured: true
 {% endpets %}
 
 {% hint style="success" %}
