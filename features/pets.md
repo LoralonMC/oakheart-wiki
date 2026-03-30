@@ -13,6 +13,7 @@ Collect companion pets that follow you around with custom 3D animated models! Th
 Certain hostile mobs have a **1 in 10,000** chance to drop a pet voucher when killed. Right-click the voucher to unlock the pet permanently.
 
 **Available mob pets:**
+
 - Zombie, Creeper, Skeleton, Enderman (Hostile pack)
 - Boss mobs (Bosses pack)
 
@@ -26,11 +27,11 @@ Certain hostile mobs have a **1 in 10,000** chance to drop a pet voucher when ki
 
 Each paid crate tier has an **exclusive pet** with a custom 3D model.
 
-| Pet | Source |
-|-----|--------|
-| **Daisy Butterfly Pet** | Daisy Crate |
-| **Rose Hummingbird Pet** | Rose Crate |
-| **Lily Firefly Pet** | Lily Crate |
+| Pet                            | Source      |
+| ------------------------------ | ----------- |
+| **Daisy Butterfly Pet**  | Daisy Crate |
+| **Rose Hummingbird Pet** | Rose Crate  |
+| **Lily Firefly Pet**     | Lily Crate  |
 
 ---
 
@@ -38,13 +39,27 @@ Each paid crate tier has an **exclusive pet** with a custom 3D model.
 
 Each store rank comes with an **exclusive pet companion** matching the rank animal. These are automatic — no voucher needed, you get them with your rank.
 
-| Store Rank | Pet | Price |
-|------------|-----|-------|
-| **Hedgehog** | Hedgehog Pet | $10 |
-| **Squirrel** | Squirrel Pet | $25 (cumulative) |
-| **Otter** | Otter Pet | $50 (cumulative) |
-| **Owl** | Owl Pet | $100 (cumulative) |
-| **Phoenix** | Phoenix Pet | $10/month subscription (standalone) |
+{% pets %}
+name: Hedgehog Pet
+image: /assets/pets/md_hedgehog_pet.gif
+subtitle: Hedgehog Rank — $10
+
+name: Squirrel Pet
+image: /assets/pets/md_squirrel_pet.gif
+subtitle: Squirrel Rank — $25
+
+name: Otter Pet
+image: /assets/pets/md_otter_pet.gif
+subtitle: Otter Rank — $50
+
+name: Owl Pet
+image: /assets/pets/md_owl_pet.gif
+subtitle: Owl Rank — $100
+
+name: Phoenix Pet
+image: /assets/pets/md_phoenix_pet.gif
+subtitle: Phoenix Rank — $10/mo
+{% endpets %}
 
 {% hint style="success" %}
 **You keep all pets!** When you upgrade to a higher store rank, you keep your previous rank's pet too. An Owl rank player has access to all four pets.
