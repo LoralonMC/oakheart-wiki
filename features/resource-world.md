@@ -1,6 +1,6 @@
 # Resource World
 
-Resource Worlds are separate dimensions designed for gathering resources without damaging the main survival worlds.
+Resource Worlds are separate dimensions designed for gathering resources without damaging the main survival worlds. Each resource world is **5,000 x 5,000 blocks**.
 
 ---
 
@@ -24,10 +24,8 @@ Dedicated worlds that **reset periodically**, giving everyone fresh resources to
 
 | Command | Destination |
 |---------|-------------|
-| `/resource` | Overworld Resource World |
-| `/rw` | Overworld Resource World |
-| `/resourcenether` | Nether Resource World |
-| `/rwn` | Nether Resource World |
+| `/resource` (or `/rw`) | Overworld Resource World |
+| `/resourcenether` (or `/rwn`) | Nether Resource World |
 
 Each command teleports you to a random location in that Resource World.
 
