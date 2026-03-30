@@ -67,8 +67,8 @@ These items have purchase limits that **reset every Monday at 00:00 server time*
 | Item | Cost |
 |------|------|
 | {{item:packed_ice:32}} | {{item:vote_token:8}} |
-| {{item:terracotta:64}} (random color) | {{item:vote_token:10}} |
-| {{item:white_concrete_powder:64}} (random color) | {{item:vote_token:10}} |
+| {{item:random_terracotta_bundle}} | {{item:vote_token:10}} |
+| {{item:random_concrete_powder_bundle}} | {{item:vote_token:10}} |
 | {{item:scaffolding:64}} | {{item:vote_token:12}} |
 
 ### Cottagecore Decoratives
@@ -88,11 +88,9 @@ Special tools with unique abilities:
 
 | Item | Cost |
 |------|------|
-| Harvester's Hoe | {{item:vote_token:60}} |
-| Excavation Shovel | {{item:vote_token:60}} |
-| {{item:wand}} | {{item:vote_token:70}} |
-| Vein Miner Pickaxe | {{item:vote_token:70}} |
-| Lumberjack Axe | {{item:vote_token:70}} |
+| {{item:excavator}} | {{item:vote_token:60}} |
+| {{item:vein-miner}} | {{item:vote_token:70}} |
+| {{item:lumberjack}} | {{item:vote_token:70}} |
 
 ### Nog's Menagerie Cosmetics
 
