@@ -7,7 +7,7 @@ Building Tools: file, trowel, wand#builders-wand
 Sickle: iron_sickle#sickle
 Harvesting Tools: excavator#excavation-shovel, vein-miner#vein-miner-pickaxe, lumberjack#lumberjacks-axe
 {% endquicknav %}
-
+ 
 ---
 
 ## Building Tools
