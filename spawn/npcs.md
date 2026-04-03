@@ -98,11 +98,11 @@ Helps with player warps and navigation. Stationed at the gateway to the wilds.
 ---
 
 ### Quillfeather the Scribe
-**Role:** Land Registry Clerk
+**Role:** Land Registry & Shop Vendor
 **Location:** Corner desk inside Inn/Tavern
 *"Every plot must be properly registered, for order brings peace."*
 
-Information about claiming and land management.
+Sells claim chunks and Shopkeeper Spawn Eggs. Your one-stop NPC for establishing your presence on the server.
 
 ---
 
