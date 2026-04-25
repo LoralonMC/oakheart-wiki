@@ -13,7 +13,9 @@ The catch? You can't buy them all at once. The shop **rotates monthly** — only
 
 ## This Month's Rotation
 
-<div id="toy-store-rotation" data-shop="Toy Store">Loading current rotation…</div>
+```rotationShop
+Toy Store
+```
 
 ---
 
