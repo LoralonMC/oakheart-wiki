@@ -38,6 +38,7 @@
 ## Traders
 
 * [Overview](traders/overview.md)
+* [Toy Store](traders/toy-store.md)
 * [Token Trader](traders/token-trader.md)
 * [Crystal Trader](traders/crystal-trader.md)
 
