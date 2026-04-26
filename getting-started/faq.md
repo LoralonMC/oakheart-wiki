@@ -119,7 +119,7 @@ Trade {{item:vote_token}} at Merchant Bramblewood (Crates Pavilion) for claim ch
 ## Need More Help?
 
 - Ask in chat - our community is friendly!
-- Open a ticket on **Discord: discord.gg/TcKY5mNu**
+- Open a ticket on **Discord: discord.gg/6k8PhgAK9g**
 - Use `/tutorial` to replay the tutorial
 
 ---
