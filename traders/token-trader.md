@@ -113,7 +113,6 @@ Limited-charge tools with unique abilities:
 | Item | Cost |
 |------|------|
 | {{item:excavator}} (500 durability) | {{item:vote_token:60}} |
-| {{item:wand}} (250 durability) | {{item:vote_token:70}} |
 | {{item:vein_miner}} (750 durability) | {{item:vote_token:70}} |
 | {{item:lumberjack}} (1000 durability) | {{item:vote_token:70}} |
 
