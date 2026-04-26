@@ -29,7 +29,6 @@ Equippable tags that show next to your name in chat. Pick your active tag from t
 | {{item:rose_chat_tag}} | Rose Crate |
 | {{item:lily_chat_tag}} | Lily Crate |
 | Whimsy Chat Tag | Crystal Trader |
-| {{item:phoenix_chat_tag}} | Phoenix store rank |
 
 ---
 
@@ -50,12 +49,12 @@ Six oversized plushies available only from the Crystal Trader. The MEGA versions
 
 | MEGA Plushie | Price |
 |-------------|-------|
-| MEGA Ender Dragon | {{item:crate_crystal:25}} |
-| MEGA Iron Golem | {{item:crate_crystal:25}} |
-| MEGA Ravager | {{item:crate_crystal:25}} |
-| MEGA Elder Guardian | {{item:crate_crystal:25}} |
-| MEGA Warden | {{item:crate_crystal:30}} |
-| MEGA Wither | {{item:crate_crystal:30}} |
+| {{item:nm_plushie_enderdragon}} | {{item:crate_crystal:25}} |
+| {{item:nm_plushie_iron_golem}} | {{item:crate_crystal:25}} |
+| {{item:nm_plushie_ravager}} | {{item:crate_crystal:25}} |
+| {{item:nm_plushie_elder_guardian}} | {{item:crate_crystal:25}} |
+| {{item:nm_plushie_warden}} | {{item:crate_crystal:30}} |
+| {{item:nm_plushie_wither}} | {{item:crate_crystal:30}} |
 
 ---
 
@@ -92,7 +91,7 @@ Custom headwear from paid crates. One hat per crate tier.
 
 | Hat | Source |
 |-----|--------|
-| Daisy Flower Crown | Daisy Crate |
+| {{item:daisy_flower_crown}} | Daisy Crate |
 | Rose Petal Crown | Rose Crate |
 | Lily Crown | Lily Crate |
 
