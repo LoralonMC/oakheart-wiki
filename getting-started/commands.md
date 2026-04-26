@@ -193,7 +193,7 @@ Both players must have PvP enabled for combat.
 
 ## Staff Assistance
 
-For staff help, open a ticket on **Discord: discord.gg/TcKY5mNu**
+For staff help, open a ticket on **Discord: discord.gg/6k8PhgAK9g**
 
 ---
 
