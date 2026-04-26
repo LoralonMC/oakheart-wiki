@@ -1,6 +1,6 @@
 # Cosmetics
 
-Oakheart has a huge cosmetics system with over 750 collectible items. Everything is purely visual — no gameplay advantages.
+Oakheart has a huge cosmetics system with hundreds of collectible items. Everything is purely visual — no gameplay advantages.
 
 ---
 
@@ -9,13 +9,12 @@ Oakheart has a huge cosmetics system with over 750 collectible items. Everything
 | Source | What You Can Find |
 |--------|-------------------|
 | **Vote Crate** | Starter figures, {{item:nm_pack_starter_pack}}, {{item:devoted_chat_tag}} |
-| **Paid Crates** | Plushie bundles, card boosters, adorable bundles, hats, wings, pets, chat tags, join/leave messages |
-| **Emerald Crate** | All plushie/figure volumes, card boosters, adorable bundles, bits & bobs |
-| **Seasonal Crates** | Holiday plushies, adorables, bits & bobs, limited editions |
-| **Crystal Trader** | MEGA plushies, Cottage armor, cottagecore tools, lanterns, decoratives |
-| **Token Trader** | Adorables, bits & bobs, cottagecore decoratives |
-| **Toy Store NPC** | 129 novelty plushies ({{item:emerald:40}} each) |
-| **Collection Log** | Golden plushies (complete a set to earn one) |
+| **Paid Crates** | Plushie bundles, card boosters, hats, wings, pets, chat tags, join/leave messages |
+| **Emerald Crate** | Plushie volume bundles, card boosters, adorable bundles |
+| **Seasonal Crates** | Holiday plushies, adorables, limited-edition seasonal items |
+| **Crystal Trader** | MEGA plushies, Cottage armor, Cottage tools, whimsy exclusives |
+| **Token Trader** | Cottagecore decoratives |
+| **Toy Store** | 300+ collectibles — plushies, figures, adorables, card boosters (monthly rotation) |
 
 ---
 
@@ -29,25 +28,25 @@ Equippable tags that show next to your name in chat. Pick your active tag from t
 | {{item:daisy_chat_tag}} | Daisy Crate |
 | {{item:rose_chat_tag}} | Rose Crate |
 | {{item:lily_chat_tag}} | Lily Crate |
+| Whimsy Chat Tag | Crystal Trader |
 | {{item:phoenix_chat_tag}} | Phoenix store rank |
 
 ---
 
 ## Plushies
 
-Placeable 3D mob plushies for decorating your base. There are **80+ core plushies** across 8 volumes, plus 31 bonus variants.
+Placeable 3D mob plushies for decorating your base — one of the largest categories on the server.
 
-- **Core Plushies (Vols 1-8):** Found in Paid Crates and the Emerald Crate as random bundles
-- **MEGA Plushies (6):** Oversized versions from the Crystal Trader ({{item:crate_crystal:25-30}} each)
-- **Golden Plushies (10):** Earned by completing sections of the Collection Log
-- **Novelty Plushies (129):** Sold at the Toy Store for {{item:emerald:40}} each
-- **Seasonal Plushies (170+):** Exclusive to Seasonal Crates
+- **Vol 1-8 Plushies (~80):** Found in Paid Crates and the Emerald Crate as random volume bundles
+- **MEGA Plushies (6):** Oversized versions of the rarest mobs, only at the Crystal Trader ({{item:crate_crystal:25-30}} each)
+- **Toy Store Plushies (197):** Sold by Toby Tinkertop at the Toy Store ({{item:emerald:40}} each, monthly rotation)
+- **Seasonal Plushies (170+):** Exclusive to Seasonal Crates during their event windows
 
 ---
 
 ## MEGA Plushies
 
-Six oversized plushies available only from the Crystal Trader. These are the biggest and rarest in the collection.
+Six oversized plushies available only from the Crystal Trader. The MEGA versions of these mobs are exclusive to Crystal Trader, no matter how many crates you open.
 
 | MEGA Plushie | Price |
 |-------------|-------|
@@ -62,10 +61,10 @@ Six oversized plushies available only from the Crystal Trader. These are the big
 
 ## Figures
 
-Boxed collectible figures you unbox at a crafting table. There are **83 figures** across 8 volumes plus 4 starter figures.
+Detailed mob figures across 8 volumes — 79 total, plus 4 starter figures from the Vote Crate.
 
 - **Starter Figures:** Found in the Vote Crate
-- **Figure Vols 1-8:** Found in the Emerald Crate as random bundles
+- **Vol 1-8 Figures:** Sold individually at the Toy Store ({{item:emerald:60}} each, monthly rotation)
 
 ---
 
@@ -74,26 +73,16 @@ Boxed collectible figures you unbox at a crafting table. There are **83 figures*
 Collectible cards you open from booster packs. There are **5 sets of 37 cards** each (18 Common, 18 Rare, 1 Ultra-Rare). Trade with other players to complete your sets!
 
 - {{item:nm_pack_starter_pack}}: Found in the Vote Crate
-- **All 5 Boosters:** Found in the Emerald Crate (Rare tier)
+- **All 5 Boosters:** Found in the Emerald Crate (Rare tier) and at the Toy Store ({{item:emerald:50}} per booster, monthly rotation)
 
 ---
 
 ## Adorables
 
-Tiny mini-plushie collectibles. Non-themed sets are available year-round, with seasonal sets during events.
+Tiny mini-plushie collectibles in three themed sets.
 
-- **Year-round (26 items):** Token Trader ({{item:vote_token:15-25}}, rotating monthly) and Emerald Crate
-- **Seasonal:** Seasonal Crates only
-
----
-
-## Bits & Bobs
-
-Decorative items for your base like chess sets and display cases.
-
-- **Chess/Checkers & Display Cases:** Token Trader ({{item:vote_token:25-35}}, rotating monthly) and Emerald Crate
-- **Prizes, Medals & Trophies:** Given by staff for server events only
-- **Seasonal sets:** Seasonal Crates
+- **Year-round (24 items):** Toy Store ({{item:emerald:50}} each, monthly rotation across Crops / Foodstuff / Fruit & Veg)
+- **Seasonal sets:** Seasonal Crates only
 
 ---
 
@@ -130,30 +119,13 @@ Custom messages that display when you join or leave the server. Unlock them from
 | Daisy Join/Leave | Daisy Crate | Garden themed |
 | Rose Join/Leave | Rose Crate | Elegant themed |
 | Lily Join/Leave | Lily Crate | Mystical themed |
-
----
-
-## Collection Log
-
-The Collection Log tracks your progress across plushies, figures, and trading cards. Complete a full section to earn a **Golden Plushie** as a reward.
-
----
-
-## Crystal Trader Exclusives
-
-The Crystal Trader also offers:
-
-| Item | Price |
-|------|-------|
-| Lantern Collection (5 designs) | {{item:crate_crystal:50}} |
-| Cosmetic Oak Sapling (decorative, can't be planted) | {{item:crate_crystal:35}} |
-| Plushie Bundle (5 random plushies) | {{item:crate_crystal:45}} |
+| Whimsy Join/Leave | Crystal Trader | Fae themed |
 
 ---
 
 ## Cottage Armor & Tools
 
-Exclusive cottagecore-themed cosmetics from the Crystal Trader. These can only be obtained here.
+Exclusive cottagecore-themed cosmetics from the Crystal Trader. Custom-textured leather armor and iron tools matching the Oakheart aesthetic — only available here.
 
 ### Cottage Armor Set
 
@@ -165,18 +137,35 @@ Exclusive cottagecore-themed cosmetics from the Crystal Trader. These can only b
 | Cottage Boots | {{item:crate_crystal:25}} |
 | **Full Set** | **130** {{item:crate_crystal}} |
 
-### Cottagecore Tools
+### Cottage Tools
 
 | Tool | Price |
 |------|-------|
-| Gardener's Hoe | {{item:crate_crystal:80}} |
-| Forester's Axe | {{item:crate_crystal:80}} |
+| Cottage Pickaxe | {{item:crate_crystal:80}} |
+| Cottage Axe | {{item:crate_crystal:80}} |
+| Cottage Shovel | {{item:crate_crystal:80}} |
+| Cottage Hoe | {{item:crate_crystal:80}} |
+| **Full Set** | **320** {{item:crate_crystal}} |
+
+---
+
+## Whimsy Exclusives
+
+Crystal Trader's signature collection — fae-touched items unique to this trader.
+
+| Item | Price |
+|------|-------|
+| Mushroom Sprite Pet | {{item:crate_crystal:100}} |
+| Whimsy Chat Tag | {{item:crate_crystal:80}} |
+| Whimsy Join/Leave Messages | {{item:crate_crystal:80}} |
 
 ---
 
 ## Toy Store
 
-Visit **Toby Tinkertop** at spawn to browse the Toy Store. He sells **129 novelty plushies** at {{item:emerald:40}} each, with a rotating monthly selection.
+Visit **Toby Tinkertop** at spawn to browse the Toy Store. Over 300 collectibles — plushies, figures, adorables, and card boosters — across 33 themed collections, with one collection per category spotlighted each month.
+
+See the full [Toy Store page](../traders/toy-store.md) for the rotation system and current month's stock.
 
 ---
 
@@ -198,4 +187,5 @@ Placeable decorative items from the Token Trader.
 - [Pets](pets.md) — Companion pets
 - [Crystal Trader](../traders/crystal-trader.md) — Exclusive cosmetics for crystals
 - [Token Trader](../traders/token-trader.md) — Cosmetics for vote tokens
+- [Toy Store](../traders/toy-store.md) — Monthly-rotating collectibles
 - [Crates Overview](../crates/overview.md) — Earn cosmetics from crates
