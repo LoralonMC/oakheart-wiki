@@ -83,21 +83,21 @@ You receive rewards every time you rank up:
 | 3 | 250 XP, {{item:emerald_block:3}} |
 | 4 | {{item:emerald_block:3}} |
 | 5 | 300 XP, {{item:emerald_block:3}}, {{item:claim_chunk:2}} |
-| 6 | {{item:emerald_block:5}}, 1 Random Crate Key |
+| 6 | {{item:emerald_block:5}}, {{item:random_paid_crate_key}} |
 | 7 | 400 XP, {{item:emerald_block:5}} |
-| 8 | {{item:emerald_block:5}}, 1 Random Crate Key |
+| 8 | {{item:emerald_block:5}}, {{item:random_paid_crate_key}} |
 | 9 | 500 XP, {{item:emerald_block:8}} |
-| 10 | {{item:emerald_block:12}}, 1 Random Crate Key, {{item:claim_chunk:4}} |
+| 10 | {{item:emerald_block:12}}, {{item:random_paid_crate_key}}, {{item:claim_chunk:4}} |
 | 11 | 1000 XP, {{item:emerald_block:12}} |
-| 12 | {{item:emerald_block:12}}, 1 Random Crate Key |
+| 12 | {{item:emerald_block:12}}, {{item:random_paid_crate_key}} |
 | 13 | 1400 XP, {{item:emerald_block:16}} |
-| 14 | {{item:emerald_block:16}}, 1 Random Crate Key |
+| 14 | {{item:emerald_block:16}}, {{item:random_paid_crate_key}} |
 | 15 | 1800 XP, {{item:emerald_block:20}}, {{item:claim_chunk:6}} |
-| 16 | {{item:emerald_block:20}}, 1 Random Crate Key |
+| 16 | {{item:emerald_block:20}}, {{item:random_paid_crate_key}} |
 | 17 | 2200 XP, {{item:emerald_block:24}} |
-| 18 | {{item:emerald_block:32}}, 1 Random Crate Key |
+| 18 | {{item:emerald_block:32}}, {{item:random_paid_crate_key}} |
 | 19 | 2500 XP, {{item:emerald_block:40}} |
-| 20 | 3000 XP, {{item:emerald_block:48}}, 2 Random Crate Keys, {{item:claim_chunk:8}} |
+| 20 | 3000 XP, {{item:emerald_block:48}}, {{item:random_paid_crate_key:2}}, {{item:claim_chunk:8}} |
 
 {% hint style="success" %}
 **Total from ranking to 20:** 20 bonus {{item:claim_chunk}} from milestone rank-up rewards (at ranks 5, 10, 15, and 20)!
