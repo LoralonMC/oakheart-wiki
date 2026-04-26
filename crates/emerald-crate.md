@@ -36,15 +36,13 @@ The Emerald Crate is **cosmetics only** — no resources, no currency, just coll
 |----------|--------|-------------|
 | Troll Junk | Common | Silly items — part of the fun! |
 | Plushie Bundles | Uncommon | Random volume of collectible plushies |
-| Figure Bundles | Uncommon | Random volume of collectible figures |
 | Trading Card Boosters | Rare | Booster pack from one of 5 card sets |
-| Adorable Bundles | Rare | Mini-collectible figure bundles |
-| Bits & Bobs Bundles | Rare | Decorative display item bundles |
+| Adorable Bundles | Rare | Themed mini-plushie set |
 | Chase Cosmetics | Epic | Rare exclusive items like the Teddy Fuzzball |
 
-There are **35 total rewards** across all categories. About **31% of opens** give you troll junk and **69%** give you a real cosmetic. The troll drops are part of the charm — embrace the chaos!
+About **31% of opens** give you troll junk and **69%** give you a real cosmetic. The troll drops are part of the charm — embrace the chaos!
 
-The Emerald Crate includes all **8 plushie volumes** and **8 figure volumes** as individual bundle rewards, so there's huge variety in what you can collect.
+The Emerald Crate is the F2P path to all **8 plushie volumes** as random bundle rewards, plus all 5 trading card sets and themed adorable bundles.
 
 {% hint style="success" %}
 **Smart spending:** The Emerald Crate is designed for players who have already invested in claim chunks, player warps, and shops. It's a fun way to spend your extra emeralds on cosmetic collectibles.
