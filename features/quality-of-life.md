@@ -20,7 +20,21 @@ Use `/settings` to open a GUI with gameplay toggles you can customize:
 | **TPS Bossbar** | Toggle the TPS/MSPT/ping bossbar |
 | **Player Locator** | Show/hide your location to other players |
 
-You can also manage **Join/Leave Messages** and **NPC Dialogue** (skip dialogue for NPCs you've already talked to) from the settings menu.
+You can also manage **Join/Leave Messages** and **NPC Dialogue** from the settings menu.
+
+### NPC Dialogue Toggle
+
+The first time you talk to a key spawn NPC, they walk you through a short introduction. Once you've heard it, you can skip future dialogue and go straight to their menu.
+
+**NPCs that support skip:**
+- **Hammerhand the Smith**
+- **Stonebeard the Miner**
+- **Willowbark the Lumberjack**
+- **Seedsower the Farmer**
+- **Moonwhisper the Alchemist**
+- **Tidecaller the Fisherman**
+
+The toggle remembers per-NPC, so you only skip ones you've actually heard. Re-enable in `/settings` if you want the full intro again later.
 
 {% hint style="info" %}
 **Phantom note:** When phantoms are toggled off, your sleep deprivation still builds up — phantoms simply won't spawn for *you*. You can still encounter phantoms spawned by other players.
@@ -65,25 +79,55 @@ glow_item_frame, glow_item_frame, glow_item_frame
 
 ## Overflow Inventory
 
-When you receive items but your inventory is full, they go to your overflow instead of being lost.
+A safety net for when your inventory is full. Instead of items dropping on the ground (and risking despawn or theft), they go into your personal overflow until you're ready to claim them.
 
 ### Commands
 
 | Command | Description |
 |---------|-------------|
-| `/overflow` | Open your overflow inventory |
-| `/of` | Shortcut for `/overflow` |
+| `/overflow` (or `/of`) | Open your overflow inventory |
 | `/overflow count` | See how many items are waiting |
-| `/overflow claimall` | Claim all items at once |
+| `/overflow claimall` | Claim everything at once |
 
 ### When Overflow Activates
 
+- Mob drops you couldn't pick up (within ~5 blocks of where they fell)
 - Crate rewards when inventory is full
-- Rank-up rewards when inventory is full
-- Any server-given items
+- Rank-up rewards and trade outputs
+- Any server- or plugin-given items
+
+### Things to know
+
+- Storage is **unlimited** — no cap, no expiry
+- Items **never auto-delete** even if you don't claim them
+- Pickup radius is per-player — your overflow won't capture another player's drops
+- Works with custom items the same as vanilla
 
 {% hint style="warning" %}
 **Check regularly!** Items in overflow don't despawn, but it's easy to forget they're there.
+{% endhint %}
+
+---
+
+## Explosion Rebuild
+
+Creeper holes and other mob explosions automatically rebuild themselves so they don't permanently scar the world.
+
+### What rebuilds
+
+| Source | Rebuilds? |
+|--------|-----------|
+| Creepers | ✅ Yes |
+| Ghast fireballs | ✅ Yes |
+| Wither skull projectiles | ✅ Yes |
+| Wither spawn explosion | ✅ Yes |
+| **TNT** | ❌ No (intentional — keeps redstone & farms working) |
+| **End Crystals** | ❌ No (intentional) |
+
+Blocks return from the top down with a small cloud particle effect — the area heals on its own, no command needed. Items dropped by the explosion are not affected.
+
+{% hint style="info" %}
+**Why TNT is excluded:** TNT blasts in your own builds (cobblestone generators, mob farms, demolition projects) work as expected — only mob-caused damage gets reverted.
 {% endhint %}
 
 ---
