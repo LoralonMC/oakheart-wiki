@@ -2,23 +2,36 @@
 
 Collect companion pets that follow you around with custom 3D animated models! There are three ways to get pets: rare mob drops, paid crate rewards, and store rank exclusives.
 
-{% hint style="warning" %}
-**Coming soon!** The pet system is currently in development. Details on this page reflect the planned design.
-{% endhint %}
-
 ---
 
 ## Mob Drop Pets
 
-Certain hostile mobs have a **1 in 10,000** chance to drop a pet voucher when killed. Right-click the voucher to unlock the pet permanently.
+Certain mobs have a chance to drop a pet voucher when killed. Right-click the voucher to unlock the pet permanently. **Boss kills have much better odds than regular mob kills** — boss pets are rarer items, but the bosses themselves are far harder to find and beat.
 
-**Available mob pets:**
+### Hostile Mob Pets
 
-- Zombie, Creeper, Skeleton, Enderman (Hostile pack)
-- Boss mobs (Bosses pack)
+| Pet | Source mob | Drop chance |
+|-----|-----------|-------------|
+| **Zombie Pet** | Zombie | 1 in 10,000 |
+| **Creeper Pet** | Creeper | 1 in 10,000 |
+| **Skeleton Pet** | Skeleton | 1 in 10,000 |
+| **Enderman Pet** | Enderman | 1 in 10,000 |
+
+### Boss Pets
+
+| Pet | Source mob | Drop chance |
+|-----|-----------|-------------|
+| **Clot the Creaking** | Creaking | 1 in 10,000 |
+| **Wrangle the Warden** | Warden | 1 in 2,000 |
+| **Wortle the Wither** | Wither | 1 in 500 |
+| **Escent the Ender Dragon** | Ender Dragon | 1 in 200 |
 
 {% hint style="info" %}
-**Server announcement!** When a pet drops, the entire server is notified. These are rare collectibles worth celebrating.
+**Server announcement!** Every pet drop sends a server-wide notification so the whole community can celebrate the lucky moment.
+{% endhint %}
+
+{% hint style="warning" %}
+**You have to land the killing blow.** Pet vouchers only drop when *you* kill the mob — kills from other players, traps, or fall damage don't count. Spawner-spawned mobs do drop pets, so mob farms are fair game.
 {% endhint %}
 
 ---
@@ -81,13 +94,13 @@ featured: true
 
 **Location:** Pet Shop at spawn
 
-Visit **Velvetpaw the Pet Keeper** for all your pet needs. A gentle soul surrounded by various animals, Velvetpaw can help you with:
-
-- Viewing your pet collection
-- Managing active pets
-- Learning about available pets
+Velvetpaw is a friendly resident at spawn — a gentle soul surrounded by various animals.
 
 *"Every creature deserves love and a good home."*
+
+{% hint style="info" %}
+**Currently flavor only.** All pets are delivered automatically (rank perms, crate rewards, mob drops) so Velvetpaw doesn't gate anything you need. We may add services here post-launch — pet renaming, a collection codex, cosmetic accessories — but nothing's needed from her right now.
+{% endhint %}
 
 ---
 
