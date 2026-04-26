@@ -134,7 +134,7 @@ Exclusive cottagecore-themed cosmetics from the Crystal Trader. Custom-textured 
 | Cottage Tunic | {{item:crate_crystal:40}} |
 | Cottage Pants | {{item:crate_crystal:35}} |
 | Cottage Boots | {{item:crate_crystal:25}} |
-| **Full Set** | **130** {{item:crate_crystal}} |
+| **Full Set** | {{item:crate_crystal:130}} |
 
 ### Cottage Tools
 
