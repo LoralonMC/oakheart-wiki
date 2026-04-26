@@ -66,10 +66,10 @@ Oakheart uses a chunk-based claiming system. To protect your builds:
 | Source | Chunks |
 |--------|--------|
 | Starting amount | 4 chunks |
-| First 4 hours of playtime | +1 chunk per hour |
+| Playtime bonus (1 per hour for your first 4 hours, automatic) | +4 chunks |
 | **Total free chunks** | **8 chunks** |
 
-You can earn more chunks through voting, crates, ranks, and events.
+The playtime chunks land in your inventory automatically as you play — no command needed. After the first 4 hours the automatic bonus stops, and you earn additional chunks through voting, crates, ranks, and events.
 
 {% hint style="success" %}
 **What's protected?**
@@ -214,7 +214,7 @@ Now that you're set up, here are some goals to work toward:
 ## Need Help?
 
 - **In-game chat:** Just ask! Our community loves helping new players.
-- **Discord:** [discord.gg/TcKY5mNu](https://discord.gg/TcKY5mNu) — Open a ticket for staff support
+- **Discord:** [discord.gg/6k8PhgAK9g](https://discord.gg/6k8PhgAK9g) — Open a ticket for staff support
 - **Wiki:** Browse the sidebar for detailed guides on every system
 
 ---
