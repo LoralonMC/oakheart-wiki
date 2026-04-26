@@ -22,58 +22,78 @@ Vote on all 5 sites daily with `/vote` to maximize your token income!
 
 ## Weekly-Limited Items
 
-These items have purchase limits that **reset every Monday at 00:00 server time**.
+These items have purchase limits that **reset every Monday at 00:00 server time**. A 6-hour reminder broadcast goes out before each reset.
 
 {% hint style="info" %}
-**Why limits?** Weekly caps on smith materials prevent bypassing the [Smith progression](../smith/overview.md) grind while still helping dedicated voters.
+**Why limits?** Weekly caps on rare items prevent bypassing the natural progression grind while still helping dedicated voters.
 {% endhint %}
+
+### Late-Game Smith Materials
+
+These resources are **limited per world** — Echo Shards from Ancient Cities, Heart of the Sea from buried treasure, Dragon Head from End ships. Token Trader is the safety net for players who can't find more in vanilla play.
 
 | Item | Cost | Weekly Limit |
 |------|------|--------------|
-| {{item:ancient_debris:2}} | {{item:vote_token:30}} | 2/week |
 | {{item:echo_shard}} | {{item:vote_token:35}} | 2/week |
 | {{item:totem_of_undying}} | {{item:vote_token:40}} | 1/week |
 | {{item:dragon_head}} | {{item:vote_token:60}} | 1/week |
 | {{item:heart_of_the_sea}} | {{item:vote_token:90}} | 1/week |
-| {{item:claim_chunk:2}} | {{item:vote_token:20}} | 3/week |
 
-{% hint style="info" %}
-**Claim Chunks** are limited to 3 purchases per week (6 chunks max). Plan ahead if you need a lot of land!
-{% endhint %}
+### Claim Chunks
+
+| Item | Cost | Weekly Limit |
+|------|------|--------------|
+| {{item:claim_chunk:2}} | {{item:vote_token:20}} | 3/week (6 chunks max) |
+
+### Trial Chamber Loot
+
+| Item | Cost | Weekly Limit |
+|------|------|--------------|
+| {{item:trial_key}} | {{item:vote_token:25}} | 5/week |
+| {{item:ominous_trial_key}} | {{item:vote_token:50}} | 2/week |
+
+### Other Weekly Items
+
+| Item | Cost | Weekly Limit |
+|------|------|--------------|
+| {{item:heavy_core}} | {{item:vote_token:100}} | 1/week |
+| {{item:sniffer_egg:4}} | {{item:vote_token:30}} | 5/week |
+| Random Music Disc (structure-rare) | {{item:vote_token:35}} | 2/week |
 
 ---
 
 ## Unlimited Items
 
-### Utility Items
+### Convenience Items
+
+Renewable in vanilla, but tedious or risky to track down. A fair shortcut for daily voters.
 
 | Item | Cost |
 |------|------|
-| {{item:experience_bottle:16}} | {{item:vote_token:12}} |
-| {{item:ender_chest}} | {{item:vote_token:25}} |
+| {{item:sponge}} | {{item:vote_token:15}} |
+| {{item:saddle}} | {{item:vote_token:15}} |
+| {{item:nautilus_shell:8}} | {{item:vote_token:30}} |
 | {{item:shulker_box}} | {{item:vote_token:50}} |
+| {{item:beacon}} | {{item:vote_token:60}} |
 | {{item:elytra}} | {{item:vote_token:85}} |
 
-### Food & Consumables
+### Cottagecore Lifestyle
 
 | Item | Cost |
 |------|------|
-| {{item:bone_meal:16}} | {{item:vote_token:5}} |
-| {{item:golden_carrot:32}} | {{item:vote_token:15}} |
-| {{item:golden_apple:8}} | {{item:vote_token:25}} |
+| {{item:glow_berries:16}} | {{item:vote_token:5}} |
+| {{item:mangrove_propagule:16}} | {{item:vote_token:10}} |
+| {{item:cherry_sapling:16}} | {{item:vote_token:12}} |
 
-### Building Materials
+### Collectibles & Decor
 
 | Item | Cost |
 |------|------|
-| {{item:packed_ice:32}} | {{item:vote_token:8}} |
-| {{item:random_terracotta_bundle}} | {{item:vote_token:10}} |
-| {{item:random_concrete_powder_bundle}} | {{item:vote_token:10}} |
-| {{item:scaffolding:64}} | {{item:vote_token:12}} |
+| Random Banner Pattern | {{item:vote_token:25}} |
 
 ### Cottagecore Decoratives
 
-Custom items matching Oakheart's aesthetic:
+Custom decorative items matching Oakheart's aesthetic:
 
 | Item | Cost |
 |------|------|
@@ -82,27 +102,18 @@ Custom items matching Oakheart's aesthetic:
 | Wicker Basket | {{item:vote_token:55}} |
 | Stone Garden Bench | {{item:vote_token:70}} |
 
-### EI Utility Tools
+### Utility Tools
 
-Special tools with unique abilities:
+Limited-charge tools with unique abilities:
 
 | Item | Cost |
 |------|------|
-| {{item:excavator}} | {{item:vote_token:60}} |
-| {{item:vein-miner}} | {{item:vote_token:70}} |
-| {{item:lumberjack}} | {{item:vote_token:70}} |
-
-### Nog's Menagerie Cosmetics
-
-Rotating cosmetic collections that change each month:
-
-| Category | Cost Range | Details |
-|----------|-----------|---------|
-| Adorables | {{item:vote_token:15-25}} | Mini-collectible figures |
-| Bits & Bobs | {{item:vote_token:25-35}} | Decorative display items |
+| {{item:excavator}} (500 durability) | {{item:vote_token:60}} |
+| {{item:vein_miner}} (750 durability) | {{item:vote_token:70}} |
+| {{item:lumberjack}} (1000 durability) | {{item:vote_token:70}} |
 
 {% hint style="info" %}
-**Rotating stock!** The specific Adorables and Bits & Bobs available change each month, so check back regularly for new items.
+**Looking for plushies, figures, adorables, or card boosters?** Those collectibles all live at the [Toy Store](toy-store.md) (Toby Tinkertop) and are bought with emeralds, not tokens.
 {% endhint %}
 
 ---
