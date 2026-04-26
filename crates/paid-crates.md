@@ -62,16 +62,14 @@ All Paid Crates are opened at the **Crates Pavilion** at spawn. Look for the thr
 
 ## Reward Tiers
 
-Paid Crates use a 3-tier weight system that's different from the Vote Crate:
+Paid Crates have three rarity tiers. The loot tables below show exact per-item percentages — here's the high-level shape of what you'll get:
 
-| Tier | Weight | Chance | What to Expect |
-|------|--------|--------|----------------|
-| **Standard** | 10 | ~82% | Resources, tools, collectibles, cosmetic bundles |
-| **Premium** | 6 | ~17% | Exclusive hats, pets, elytra skins, chat tags, join/leave messages |
-| **Jackpot** | 2-1 | ~1-2% | Store rank vouchers |
+- **Uncommon** (~80%) — Resources, tools, collectibles, and cosmetic bundles. What most rolls land on.
+- **Epic** (~18%) — Tier-exclusive cosmetics: hats, pets, elytra skins, chat tags, join/leave messages. Daisy and Rose crates can also drop the next tier's key here.
+- **Legendary** (~2%) — A store rank voucher. The marquee reward of each crate.
 
 {% hint style="info" %}
-**How odds work:** Each item within a tier has equal weight. Because Standard has more items than Premium, each individual Standard item is less likely — but your overall chance of getting *something* from Standard is ~82%.
+**How odds work:** Each item within a tier has equal weight. Tiers with more items spread the roll across more rewards — so the *tier total* stays the same, but any single item in a crowded tier is rarer than one in a sparse tier.
 {% endhint %}
 
 {% hint style="info" %}
