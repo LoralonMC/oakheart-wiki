@@ -89,11 +89,15 @@ Renewable in vanilla, but tedious or risky to track down. A fair shortcut for da
 
 | Item | Cost |
 |------|------|
-| Random Banner Pattern | {{item:vote_token:25}} |
+| {{item:random_banner_pattern}} | {{item:vote_token:25}} |
 
 ### Cottagecore Decoratives
 
 Custom decorative items matching Oakheart's aesthetic:
+
+{% hint style="warning" %}
+**Coming at launch** — these items are still in development and won't appear at the trader until they ship.
+{% endhint %}
 
 | Item | Cost |
 |------|------|
@@ -109,6 +113,7 @@ Limited-charge tools with unique abilities:
 | Item | Cost |
 |------|------|
 | {{item:excavator}} (500 durability) | {{item:vote_token:60}} |
+| {{item:wand}} (250 durability) | {{item:vote_token:70}} |
 | {{item:vein_miner}} (750 durability) | {{item:vote_token:70}} |
 | {{item:lumberjack}} (1000 durability) | {{item:vote_token:70}} |
 
