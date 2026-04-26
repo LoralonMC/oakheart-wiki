@@ -71,8 +71,8 @@ Custom items unique to Crystal Trader — not available in any crate. A whimsica
 | Item | Cost |
 |------|------|
 | Mushroom Sprite Pet | {{item:crate_crystal:100}} |
-| Whimsy Chat Tag | {{item:crate_crystal:80}} |
-| Whimsy Join/Leave Messages (one-time unlock for both) | {{item:crate_crystal:80}} |
+| {{item:fae_chat_tag}} | {{item:crate_crystal:80}} |
+| {{item:fae_glade_join_leave}} (one-time unlock for both) | {{item:crate_crystal:80}} |
 
 The Mushroom Sprite Pet is a custom 3D-modeled fantasy pet, distinct in style from the realistic crate pets (Butterfly / Hummingbird / Firefly). Whimsy Join/Leave messages add a flower-petal arrival and a "vanishes into the glade" departure.
 
