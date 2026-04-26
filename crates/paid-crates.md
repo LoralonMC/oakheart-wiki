@@ -74,37 +74,31 @@ Paid Crates use a 3-tier weight system that's different from the Vote Crate:
 **How odds work:** Each item within a tier has equal weight. Because Standard has more items than Premium, each individual Standard item is less likely — but your overall chance of getting *something* from Standard is ~82%.
 {% endhint %}
 
+{% hint style="info" %}
+**No emeralds in paid crates** — this is intentional. The emerald economy is protected through spawn shop daily limits, so paid crates use high-value resources like Diamond Blocks, Netherite, and Ancient Debris instead.
+{% endhint %}
+
 ---
 
 ## What's Inside
 
-### Daisy Crate (25 items)
+### Daisy Crate
 
-**Standard (~83%):** Resources ({{item:diamond_block}}, {{item:netherite_ingot}}, {{item:ancient_debris}}, {{item:enchanted_golden_apple}}), {{item:crate_crystal:3}}, {{item:claim_chunk}} (2 or 3), {{item:random_pottery_sherd}}, Harvester's Hoe, Excavation Shovel, Plushie Bundles (Vol 1-3), Wonderful World Booster, Adorable: Foodstuff Bundle
+```crate
+DaisyCrate
+```
 
-**Premium (~17%):** Daisy Flower Crown, Daisy Butterfly Pet, Daisy Petal Wings (elytra), Daisy Chat Tag, Daisy Join/Leave Message, 1 Rose Key
+### Rose Crate
 
-**Jackpot (~0.9%):** {{item:hedgehog_rank_voucher}}
+```crate
+RoseCrate
+```
 
-### Rose Crate (24 items)
+### Lily Crate
 
-**Standard (~82%):** Resources ({{item:diamond_block}}, {{item:netherite_ingot}}/{{item:netherite_block}}, {{item:ancient_debris}}, {{item:enchanted_golden_apple}}), {{item:crate_crystal:4}}, {{item:claim_chunk}} (3 or 5), {{item:random_armor_trim}}, {{item:wand}}, Vein Miner Pickaxe, Plushie Bundles (Vol 4-6), Nascent Nature Booster
-
-**Premium (~17%):** Rose Petal Crown, Rose Hummingbird Pet, Rose Velvet Wings (elytra), Rose Chat Tag, Rose Join/Leave Message, 1 Lily Key
-
-**Jackpot (~1.0%):** {{item:squirrel_rank_voucher}}
-
-### Lily Crate (22 items)
-
-**Standard (~82%):** Resources ({{item:diamond_block}}, {{item:netherite_ingot}}/{{item:netherite_block}}, {{item:ancient_debris}}, {{item:enchanted_golden_apple}}), {{item:crate_crystal:5}}, {{item:claim_chunk}} (4 or 6), {{item:random_rare_music_disc}}, Lumberjack Axe, Plushie Bundles (Vol 7-8), Mortal Monsters Booster
-
-**Premium (~16%):** Lily Crown, Lily Firefly Pet, Lily Ethereal Wings (elytra), Lily Chat Tag, Lily Join/Leave Message
-
-**Jackpot (~1.6%):** {{item:otter_rank_voucher}} (~1.1%) or {{item:owl_rank_voucher}} (~0.5%)
-
-{% hint style="info" %}
-**No emeralds in paid crates** — this is intentional. The emerald economy is protected through spawn shop daily limits, so paid crates use high-value resources like Diamond Blocks, Netherite, and Ancient Debris instead.
-{% endhint %}
+```crate
+LilyCrate
+```
 
 ---
 
