@@ -3,7 +3,7 @@
 **NPC:** Crystalkeeper Shimmervale
 **Location:** Crates Building (interior)
 
-Trade {{item:crate_crystal}} for exclusive cosmetics, guaranteed valuable items, and more crate keys.
+Cottagecore cosmetic specialist — trade {{item:crate_crystal}} for exclusive items only available here. Long-term goals for dedicated players.
 
 ---
 
@@ -15,7 +15,7 @@ Trade {{item:crate_crystal}} for exclusive cosmetics, guaranteed valuable items,
 | Paid Crates | Higher rates | Varies |
 | Token Trader | 100 tokens | 1 crystal |
 
-Crystals act as a **pity system**—even unlucky crate openers eventually afford guaranteed rewards.
+The crystal route is intentionally slow — Crystal Trader items are designed as multi-year dedication rewards for vote-only players. Paid crates accelerate the path significantly.
 
 ---
 
@@ -39,107 +39,74 @@ Custom-textured leather armor with a cozy cottagecore aesthetic.
 **Collector's Goal:** The full Cottage Set requires significant dedication—plan your crystal spending if you want the complete look!
 {% endhint %}
 
-### Cottagecore Tools
+### Cottage Tools
 
-Custom-textured tools matching the cottage aesthetic:
-
-| Item | Cost |
-|------|------|
-| Gardener's Hoe | {{item:crate_crystal:80}} |
-| Forester's Axe | {{item:crate_crystal:80}} |
-
-### Decorative Items
+Custom-textured iron tools — a 4-piece set matching the Cottage Armor aesthetic.
 
 | Item | Cost |
 |------|------|
-| Cosmetic Oak Sapling | {{item:crate_crystal:35}} |
-| Plushie Bundle (5 random) | {{item:crate_crystal:45}} |
-| Lantern Collection (5 designs) | {{item:crate_crystal:50}} |
+| Cottage Pickaxe | {{item:crate_crystal:80}} |
+| Cottage Axe | {{item:crate_crystal:80}} |
+| Cottage Shovel | {{item:crate_crystal:80}} |
+| Cottage Hoe | {{item:crate_crystal:80}} |
+| **Full Set** | **{{item:crate_crystal:320}}** |
 
 ### MEGA Plushies
 
-Oversized collectible plushies — much bigger than standard ones!
+Oversized collectible plushies of the rarest mobs — only available here. The full-sized MEGA versions of these six are exclusive to Crystal Trader, no matter how many crates you open.
 
 | Item | Cost |
 |------|------|
-| MEGA Ender Dragon | {{item:crate_crystal:25}} |
-| MEGA Iron Golem | {{item:crate_crystal:25}} |
-| MEGA Ravager | {{item:crate_crystal:25}} |
-| MEGA Elder Guardian | {{item:crate_crystal:25}} |
-| MEGA Warden | {{item:crate_crystal:30}} |
-| MEGA Wither | {{item:crate_crystal:30}} |
+| {{item:nm_plushie_enderdragon}} | {{item:crate_crystal:25}} |
+| {{item:nm_plushie_iron_golem}} | {{item:crate_crystal:25}} |
+| {{item:nm_plushie_ravager}} | {{item:crate_crystal:25}} |
+| {{item:nm_plushie_elder_guardian}} | {{item:crate_crystal:25}} |
+| {{item:nm_plushie_warden}} | {{item:crate_crystal:30}} |
+| {{item:nm_plushie_wither}} | {{item:crate_crystal:30}} |
 
----
+### Whimsy Exclusives
 
-## Pity Rewards
-
-Guaranteed high-value items for unlucky crate streaks:
+Custom items unique to Crystal Trader — not available in any crate. A whimsical, fae-touched aesthetic distinct from the rest of the cottagecore catalog.
 
 | Item | Cost |
 |------|------|
-| {{item:diamond:16}} | {{item:crate_crystal:45}} |
-| {{item:enchanted_book_mending}} | {{item:crate_crystal:60}} |
-| {{item:ancient_debris:4}} | {{item:crate_crystal:70}} |
-| {{item:heart_of_the_sea}} | {{item:crate_crystal:75}} |
-| {{item:netherite_upgrade_smithing_template}} | {{item:crate_crystal:90}} |
+| Mushroom Sprite Pet | {{item:crate_crystal:100}} |
+| Whimsy Chat Tag | {{item:crate_crystal:80}} |
+| Whimsy Join/Leave Messages (one-time unlock for both) | {{item:crate_crystal:80}} |
 
-{% hint style="success" %}
-**Tired of bad luck?** If you've been opening crates without hitting Mending or Ancient Debris, save your crystals and buy them guaranteed!
-{% endhint %}
+The Mushroom Sprite Pet is a custom 3D-modeled fantasy pet, distinct in style from the realistic crate pets (Butterfly / Hummingbird / Firefly). Whimsy Join/Leave messages add a flower-petal arrival and a "vanishes into the glade" departure.
 
 ---
 
-## Crate Key Escalation
-
-Trade up to higher-tier crate keys:
-
-### Vote Keys
-
-| Amount | Cost |
-|--------|------|
-| {{item:votekey}} | {{item:crate_crystal:20}} |
-| {{item:votekey:5}} | {{item:crate_crystal:90}} |
-
-### Paid Crate Keys
-
-| Key Type | Cost |
-|----------|------|
-| Paid Crate Key Tier 1 | {{item:crate_crystal:80}} |
-| Paid Crate Key Tier 2 | {{item:crate_crystal:120}} |
-| Paid Crate Key Tier 3 | {{item:crate_crystal:180}} |
-
----
-
-## Resource Blocks
+## Land Claims
 
 | Item | Cost |
 |------|------|
-| {{item:emerald_block}} (9 emeralds) | {{item:crate_crystal:25}} |
-| {{item:claim_chunk}} | {{item:crate_crystal:15}} |
-| {{item:diamond_block}} | {{item:crate_crystal:40}} |
-| {{item:claim_chunk:5}} | {{item:crate_crystal:60}} |
-| {{item:netherite_block}} | {{item:crate_crystal:150}} |
+| {{item:claim_chunk}} | {{item:crate_crystal:5}} |
+| {{item:claim_chunk:5}} | {{item:crate_crystal:20}} |
+
+A budget option for crystal holders who'd rather skip the Token Trader weekly cap.
 
 ---
 
 ## Crystal Acquisition Timeline
 
-**Vote Crate only (no paid crates):**
+**Vote Crate only (no paid crates) — about 40 crystals/year:**
 
 | Crystals | Estimated Time | Can Afford |
 |----------|----------------|------------|
-| 30 | ~9 months | Cottage Hat |
-| 60 | ~18 months | {{item:enchanted_book_mending}} |
-| 130 | ~3.3 years | Full Cottage Set |
+| 25 | ~7-8 months | First MEGA Plushie |
+| 80 | ~2 years | Whimsy Chat Tag |
+| 100 | ~2.5 years | Mushroom Sprite Pet |
+| 130 | ~3.3 years | Full Cottage Armor Set |
+| 320 | ~8 years | Full Cottage Tools Set |
 
-**With Paid Crates:**
-- Much faster crystal acquisition
-- Higher drop rates in paid crates
-- Mix both for best results
+**With paid crates:** Much faster — paid crates have higher crystal drop rates. A whale running regular paid crates can clear the Cottage Set within months.
 
 {% hint style="warning" %}
-**Long-term goal:** Exclusive cosmetics are designed as dedication rewards. Don't expect to get the full Cottage Set quickly from voting alone!
+**Long-term goal.** Crystal Trader exclusives are designed as dedication rewards. The full Cottage Armor + Tools + Whimsy Pet set is intentionally a multi-year goal for vote-only players — it should *feel* significant when you finish it.
 {% endhint %}
+
 
 ---
 
