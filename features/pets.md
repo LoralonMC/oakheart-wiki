@@ -21,10 +21,10 @@ Certain mobs have a chance to drop a pet voucher when killed. Right-click the vo
 
 | Pet | Source mob | Drop chance |
 |-----|-----------|-------------|
-| **Clot the Creaking** | Creaking | 1 in 10,000 |
-| **Wrangle the Warden** | Warden | 1 in 2,000 |
-| **Wortle the Wither** | Wither | 1 in 500 |
-| **Escent the Ender Dragon** | Ender Dragon | 1 in 200 |
+| {{item:clot_the_creaking_voucher}} | Creaking | 1 in 10,000 |
+| {{item:wrangle_the_warden_voucher}} | Warden | 1 in 2,000 |
+| {{item:wortle_the_wither_voucher}} | Wither | 1 in 500 |
+| {{item:escent_the_ender_dragon_voucher}} | Ender Dragon | 1 in 200 |
 
 {% hint style="info" %}
 **Server announcement!** Every pet drop sends a server-wide notification so the whole community can celebrate the lucky moment.
@@ -42,9 +42,9 @@ Each paid crate tier has an **exclusive pet** with a custom 3D model.
 
 | Pet                            | Source      |
 | ------------------------------ | ----------- |
-| **Daisy Butterfly Pet**  | Daisy Crate |
-| **Rose Hummingbird Pet** | Rose Crate  |
-| **Lily Firefly Pet**     | Lily Crate  |
+| {{item:butterfly_voucher}}  | Daisy Crate |
+| {{item:hummingbird_voucher}} | Rose Crate  |
+| {{item:firefly_voucher}}     | Lily Crate  |
 
 ---
 
