@@ -14,7 +14,28 @@ Dedicated worlds that **reset periodically**, giving everyone fresh resources to
 |-------|--------|
 | **Overworld** | Available |
 | **Nether** | Available |
-| **End** | Coming soon |
+| **End** | Locked until **August 1, 2026** (see below) |
+
+---
+
+## The End Unlock
+
+The End dimension is sealed for the first month of the season. All End portals are blocked and a countdown hologram shows the time remaining. **The End opens on August 1, 2026 at 18:00 UTC.**
+
+### Why?
+
+A staggered unlock gives players time to settle into the Overworld and Nether economy before the late-game push for Dragon Heads, Shulker Shells, Elytra, and other End-exclusive resources. It also lets the community plan the first dragon fight together.
+
+### What's affected
+
+- Both the main End and the End Resource World are locked
+- End-related smith materials (Dragon Head from End ships) become available after unlock
+- {{item:dragon_head}} can also be bought from the [Token Trader](../traders/token-trader.md) once their stock unlocks
+- Until unlock, items like {{item:ender_pearl}} and {{item:end_stone}} are only obtainable through the [Token Trader](../traders/token-trader.md), [crates](../crates/overview.md), or trades with other players
+
+{% hint style="info" %}
+**Watch the countdown.** Holograms at every blocked End portal show the exact time remaining. We'll also broadcast 24h, 1h, and 5-minute warnings.
+{% endhint %}
 
 ---
 
