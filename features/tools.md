@@ -5,7 +5,7 @@ Oakheart has custom tools split into two categories: **building tools** for crea
 {% quicknav %}
 Building Tools: file, trowel, wand#builders-wand
 Sickle: iron_sickle#sickle
-Harvesting Tools: excavator#excavation-shovel, vein-miner#vein-miner-pickaxe, lumberjack#lumberjacks-axe
+Harvesting Tools: excavator#excavation-shovel, vein_miner#vein-miner-pickaxe, lumberjack#lumberjacks-axe
 {% endquicknav %}
 
 ---
@@ -123,7 +123,7 @@ Harvesting tools are consumable. Once the durability runs out, the tool breaks p
 | Tool               | Effect                          | Durability | Source                               |
 | ------------------ | ------------------------------- | ---------- | ------------------------------------ |
 | {{item:excavator}}  | 3×3 area dig                   | 500        | {{item:vote_token:60}} / Daisy Crate |
-| {{item:vein-miner}} | Mine entire connected ore vein  | 750        | {{item:vote_token:70}} / Rose Crate  |
+| {{item:vein_miner}} | Mine entire connected ore vein  | 750        | {{item:vote_token:70}} / Rose Crate  |
 | {{item:lumberjack}}   | Fell an entire tree in one chop | 1000       | {{item:vote_token:70}} / Lily Crate  |
 
 ### Excavation Shovel
