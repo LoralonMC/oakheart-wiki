@@ -144,7 +144,7 @@ Exclusive cottagecore-themed cosmetics from the Crystal Trader. Custom-textured 
 | Cottage Axe | {{item:crate_crystal:80}} |
 | Cottage Shovel | {{item:crate_crystal:80}} |
 | Cottage Hoe | {{item:crate_crystal:80}} |
-| **Full Set** | **320** {{item:crate_crystal}} |
+| **Full Set** | {{item:crate_crystal:320}} |
 
 ---
 
