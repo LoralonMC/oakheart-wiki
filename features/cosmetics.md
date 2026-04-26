@@ -92,8 +92,8 @@ Custom headwear from paid crates. One hat per crate tier.
 | Hat | Source |
 |-----|--------|
 | {{item:daisy_flower_crown}} | Daisy Crate |
-| Rose Petal Crown | Rose Crate |
-| Lily Crown | Lily Crate |
+| {{item:rose_petal_crown}} | Rose Crate |
+| {{item:lily_crown}} | Lily Crate |
 
 ---
 
@@ -103,9 +103,9 @@ Custom elytra textures from paid crates. One pair per crate tier.
 
 | Wings | Source |
 |-------|--------|
-| Daisy Petal Wings | Daisy Crate |
-| Rose Velvet Wings | Rose Crate |
-| Lily Ethereal Wings | Lily Crate |
+| {{item:daisy_petal_wings}} | Daisy Crate |
+| {{item:rose_velvet_wings}} | Rose Crate |
+| {{item:lily_ethereal_wings}} | Lily Crate |
 
 ---
 
@@ -115,9 +115,9 @@ Custom messages that display when you join or leave the server. Unlock them from
 
 | Message | Source | Theme |
 |---------|--------|-------|
-| Daisy Join/Leave | Daisy Crate | Garden themed |
-| Rose Join/Leave | Rose Crate | Elegant themed |
-| Lily Join/Leave | Lily Crate | Mystical themed |
+| {{item:garden_wanderer_join_leave}} | Daisy Crate | Garden themed |
+| {{item:grand_arrival_join_leave}} | Rose Crate | Elegant themed |
+| {{item:mist_walker_join_leave}} | Lily Crate | Mystical themed |
 | Whimsy Join/Leave | Crystal Trader | Fae themed |
 
 ---
