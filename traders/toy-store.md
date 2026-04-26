@@ -5,7 +5,7 @@
 
 *"Have you seen my latest creation? It's adorable, if I do say so myself!"*
 
-Toby's the village inventor — goggles, toy-filled apron, cheerful as can be — and his Toy Store is home to **every Nog's Menagerie collectible** on Oakheart. Plushies, figures, adorables, and card boosters; all 305 of them, all at fixed emerald prices.
+Toby's the village inventor — goggles, toy-filled apron, cheerful as can be — and his Toy Store is home to **every collectible** on Oakheart. Plushies, figures, adorables, and card boosters; over 300 of them, all at fixed emerald prices.
 
 The catch? You can't buy them all at once. The shop **rotates monthly** — only one themed collection per category is in stock at a time, and the inventory completely changes on the 1st of each month.
 
