@@ -28,7 +28,7 @@ Equippable tags that show next to your name in chat. Pick your active tag from t
 | {{item:daisy_chat_tag}} | Daisy Crate |
 | {{item:rose_chat_tag}} | Rose Crate |
 | {{item:lily_chat_tag}} | Lily Crate |
-| Whimsy Chat Tag | Crystal Trader |
+| {{item:fae_chat_tag}} | Crystal Trader |
 
 ---
 
