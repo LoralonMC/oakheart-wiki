@@ -110,7 +110,7 @@ Emeralds are Oakheart's currency. The primary way to earn them is by selling ite
 | Shop | What to Sell |
 |------|-------------|
 | **Miner (Stonebeard)** | Ores, gems, stone, redstone |
-| **Lumberjack (Willowbark)** | Logs, sticks, apples |
+| **Lumberjack (Willowbark)** | Logs, charcoal, bee nests, sticks, apples |
 | **Farmer (Seedsower)** | Crops, honey, berries |
 | **Alchemist (Moonwhisper)** | Mob drops, brewing materials |
 | **Fisherman (Tidecaller)** | Fish, ocean treasures |
