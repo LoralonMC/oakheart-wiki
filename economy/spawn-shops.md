@@ -12,10 +12,10 @@ Oakheart features 5 themed NPC shops at spawn where you can sell items for emera
 | Alchemist | 138 |
 | Fisherman | 146 |
 | Farmer | 77 |
-| Lumberjack | 51 |
-| **Total (Shops)** | **498** |
+| Lumberjack | 67 |
+| **Total (Shops)** | **514** |
 | Raids (1 daily) | 25-35 |
-| **Grand Total** | **523-533** |
+| **Grand Total** | **539-549** |
 
 {% hint style="info" %}
 Trade limits reset at midnight server time everyday.
@@ -65,7 +65,7 @@ Farmer
 
 ## Willowbark the Lumberjack
 
-Buys wood and related materials.
+Buys wood and related materials. Also accepts processed wood (charcoal) and bee nests harvested with Silk Touch.
 
 ```trades
 Lumberjack
@@ -76,7 +76,7 @@ Lumberjack
 ## Tips for Maximizing Income
 
 1. **Diversify** — Don't focus on one shop. Spread your farming across all 5.
-2. **Prioritize high-value trades** — {{item:wither_skeleton_skull}} (30), {{item:heart_of_the_sea}} (50), and {{item:netherite_scrap}} (15) are worth the effort.
+2. **Prioritize high-value trades** — {{item:heart_of_the_sea}} (50), {{item:wither_skeleton_skull}} (30), {{item:netherite_scrap}} (15), and {{item:bee_nest}} (12) are worth the effort.
 3. **Build farms** — Automated farms for crops, mob drops, and fish make daily selling easy.
 4. **Check limits** — Plan your farming around what you can actually sell each day.
 5. **Raid once daily** — Raids give 25-35 emeralds worth of totems and other drops.
