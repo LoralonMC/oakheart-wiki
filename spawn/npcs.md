@@ -39,7 +39,7 @@ Trade {{item:crate_crystal}} for guaranteed rewards.
 **Role:** Wood & Building Shop
 *"Every tree I fell, I plant two more. That's the Oakheart way."*
 
-Buys wood, logs, and building materials.
+Buys logs of every variant, charcoal (smelted wood), sticks, apples, and bee nests harvested with Silk Touch.
 
 ---
 
