@@ -23,7 +23,7 @@ The primary way to earn emeralds is by selling items at the **five spawn shops**
 | Shop | NPC | What They Buy |
 |------|-----|---------------|
 | **Miner** | Stonebeard | Ores, gems, stone, redstone |
-| **Lumberjack** | Willowbark | Logs, sticks, apples |
+| **Lumberjack** | Willowbark | Logs, charcoal, bee nests, sticks, apples |
 | **Farmer** | Seedsower | Crops, honey, berries |
 | **Alchemist** | Moonwhisper | Mob drops, brewing ingredients |
 | **Fisherman** | Tidecaller | Fish, ocean treasures |
@@ -48,10 +48,10 @@ For full trade tables showing every item, price, and daily limit, see the [Spawn
 | Alchemist | 138 |
 | Miner | 86 |
 | Farmer | 77 |
-| Lumberjack | 51 |
-| **Shop Total** | **498** |
+| Lumberjack | 67 |
+| **Shop Total** | **514** |
 | Raids (1/day) | 25-35 |
-| **Grand Total** | **~523-533** |
+| **Grand Total** | **~539-549** |
 
 {% hint style="warning" %}
 **Note:** This is the theoretical maximum if you max every single trade. Most players will earn less based on their playstyle and focus.
