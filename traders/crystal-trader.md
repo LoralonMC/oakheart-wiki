@@ -23,33 +23,26 @@ The crystal route is intentionally slow — Crystal Trader items are designed as
 
 These items are **only available from the Crystal Trader** and cannot be obtained elsewhere.
 
-### Cottage Armor Set
+### Fae Wings
 
-Custom-textured leather armor with a cozy cottagecore aesthetic.
-
-| Item | Cost |
-|------|------|
-| Cottage Hat | {{item:crate_crystal:30}} |
-| Cottage Tunic | {{item:crate_crystal:40}} |
-| Cottage Pants | {{item:crate_crystal:35}} |
-| Cottage Boots | {{item:crate_crystal:25}} |
-| **Full Set** | **{{item:crate_crystal:130}}** |
-
-{% hint style="info" %}
-**Collector's Goal:** The full Cottage Set requires significant dedication—plan your crystal spending if you want the complete look!
-{% endhint %}
-
-### Cottage Tools
-
-Custom-textured iron tools — a 4-piece set matching the Cottage Armor aesthetic.
+A custom fae-themed elytra retexture — the voter-grindable counterpart to the paid-crate wing sets (Petal / Velvet / Ethereal Wings).
 
 | Item | Cost |
 |------|------|
-| Cottage Pickaxe | {{item:crate_crystal:80}} |
-| Cottage Axe | {{item:crate_crystal:80}} |
-| Cottage Shovel | {{item:crate_crystal:80}} |
-| Cottage Hoe | {{item:crate_crystal:80}} |
-| **Full Set** | **{{item:crate_crystal:320}}** |
+| {{item:fae_wings}} | {{item:crate_crystal:90}} |
+
+### Fae Tools
+
+Whimsical fae-touched tool wraps. Drag a wrap onto any tool tier (wood → netherite) and the tool takes on the Fae appearance — purely cosmetic, no stat changes.
+
+| Item | Cost |
+|------|------|
+| {{item:fae_pickaxe_wrap}} | {{item:crate_crystal:80}} |
+| {{item:fae_axe_wrap}} | {{item:crate_crystal:80}} |
+| {{item:fae_shovel_wrap}} | {{item:crate_crystal:80}} |
+| {{item:fae_hoe_wrap}} | {{item:crate_crystal:80}} |
+| {{item:fae_sword_wrap}} | {{item:crate_crystal:80}} |
+| **Full Set** | **{{item:crate_crystal:400}}** |
 
 ### MEGA Plushies
 
@@ -89,22 +82,12 @@ A budget option for crystal holders who'd rather skip the Token Trader weekly ca
 
 ---
 
-## Crystal Acquisition Timeline
+## Crystal Acquisition Pace
 
-**Vote Crate only (no paid crates) — about 40 crystals/year:**
-
-| Crystals | Estimated Time | Can Afford |
-|----------|----------------|------------|
-| 25 | ~7-8 months | First MEGA Plushie |
-| 80 | ~2 years | Whimsy Chat Tag |
-| 100 | ~2.5 years | Mushroom Sprite Pet |
-| 130 | ~3.3 years | Full Cottage Armor Set |
-| 320 | ~8 years | Full Cottage Tools Set |
-
-**With paid crates:** Much faster — paid crates have higher crystal drop rates. A whale running regular paid crates can clear the Cottage Set within months.
+Crystal Trader exclusives are deliberately slow to earn through voting alone — expect individual items to take weeks to months, and the full Fae set to be a long-term goal. Paid crates accelerate this significantly. There's no rush; collect what you want, when you want it.
 
 {% hint style="warning" %}
-**Long-term goal.** Crystal Trader exclusives are designed as dedication rewards. The full Cottage Armor + Tools + Whimsy Pet set is intentionally a multi-year goal for vote-only players — it should *feel* significant when you finish it.
+**Long-term goal.** Crystal Trader exclusives are designed as dedication rewards. The full Fae Wings + Fae Tools + Whimsy Pet set is intentionally a long-term goal for vote-only players — it should *feel* significant when you finish it.
 {% endhint %}
 
 
