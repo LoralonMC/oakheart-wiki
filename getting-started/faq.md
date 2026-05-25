@@ -28,7 +28,7 @@ Spawn shops have per-player daily limits to balance the economy. Limits reset ev
 
 **Q: How do I create a player shop?**
 
-Buy a Shopkeeper Spawn Egg from Quillfeather the Scribe at spawn ({{item:emerald:100}}, requires Rank 2+). Place a chest, then use the egg to create your shop NPC. Set a warp with `/pw set` so customers can find you!
+Buy a Shopkeeper Spawn Egg from Quillfeather the Scribe at spawn ({{item:emerald:100}}, requires Rank 2+). Place a chest, then use the egg to create your shop NPC. Set a warp with `/warp set` so customers can find you!
 
 **Q: How do I trade safely with other players?**
 
