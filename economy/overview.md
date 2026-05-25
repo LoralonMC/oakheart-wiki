@@ -1,6 +1,6 @@
 # Economy Overview
 
-Ooooakheart uses an **emerald-based economy** with carefully controlled currency flow. Emeralds enter the economy through spawn shops and exit through various sinks, creating a balanced trading environment.
+Oakheart uses an **emerald-based economy** with carefully controlled currency flow. Emeralds enter the economy through spawn shops and exit through various sinks, creating a balanced trading environment.
 
 ---
 
