@@ -106,7 +106,7 @@ Custom elytra textures from paid crates. One pair per crate tier.
 | {{item:daisy_petal_wings}} | Daisy Crate |
 | {{item:rose_velvet_wings}} | Rose Crate |
 | {{item:lily_ethereal_wings}} | Lily Crate |
-| {{item:fae_wings}} | Crystal Trader |
+| {{item:fae_elytra}} | Crystal Trader |
 
 ---
 
