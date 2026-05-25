@@ -53,7 +53,7 @@ You may think you've collected sheep. There are 15 more to chase.
 
 Sets are themed groupings that cut across categories — collection challenges with their own completion meters.
 
-**Nog's Menagerie pools:**
+**Custom Collectibles:**
 - Plushies, Figures, Adorables, Trading Cards, Card Boosters
 
 **Trading card decks:**
@@ -109,9 +109,7 @@ The board updates every 60 seconds.
 
 ## Viewing Other Players' Logs
 
-```
-/log <player>
-```
+`/log <player>`
 
 Read-only view of someone else's collection log. Useful for comparing progress with friends, or for seeing what completionists are chasing next.
 
