@@ -6,6 +6,7 @@
 
 * [New Player Guide](getting-started/new-player-guide.md)
 * [Essential Commands](getting-started/commands.md)
+* [Playing on Bedrock](getting-started/bedrock.md)
 * [FAQ](getting-started/faq.md)
 
 ## Economy
@@ -59,6 +60,7 @@
 * [Resource World](features/resource-world.md)
 * [Pets](features/pets.md)
 * [Cosmetics](features/cosmetics.md)
+* [Collection Log](features/collection-log.md)
 
 ## Community
 
