@@ -29,7 +29,7 @@ A custom fae-themed elytra retexture — the voter-grindable counterpart to the 
 
 | Item | Cost |
 |------|------|
-| {{item:fae_wings}} | {{item:crate_crystal:90}} |
+| {{item:fae_elytra}} | {{item:crate_crystal:90}} |
 
 ### Fae Tools
 
