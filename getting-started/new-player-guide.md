@@ -10,6 +10,8 @@ Welcome to Oakheart! This guide will walk you through your first moments on the 
 
 When you join Oakheart, you'll appear at the base of a massive oak tree in the center of our medieval village. This is Oakheart's heart—the central hub where all adventures begin.
 
+You'll also find a **Welcome Book** in your inventory — a clickable in-game guide with the most useful commands and where to find things. Open it any time you need a quick reference.
+
 **Elder Oakworth**, the village elder, will greet you and offer an optional tutorial. We recommend accepting it if you're new—it takes only 2-3 minutes and rewards you with starter items!
 
 ### The Tutorial
@@ -24,10 +26,9 @@ If you accept Elder Oakworth's tutorial, you'll:
 **Tutorial Rewards:**
 - {{item:emerald:6}}
 - 1x {{item:votekey}}
-- Tutorial Book (handy command reference)
 
 {% hint style="info" %}
-**Skipped the tutorial?** Run `/tutorial` anytime to restart it, or pick up a Tutorial Book from Elder Oakworth.
+**Skipped the tutorial?** Run `/tutorial` anytime to restart it, or check your **Welcome Book** for a quick command reference.
 {% endhint %}
 
 ---
