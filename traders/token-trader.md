@@ -95,10 +95,6 @@ Renewable in vanilla, but tedious or risky to track down. A fair shortcut for da
 
 Custom decorative items matching Oakheart's aesthetic:
 
-{% hint style="warning" %}
-**Coming at launch** — these items are still in development and won't appear at the trader until they ship.
-{% endhint %}
-
 | Item | Cost |
 |------|------|
 | Decorative Wheat Sheaf | {{item:vote_token:30}} |
@@ -137,6 +133,7 @@ This lets dedicated voters save up for Crystal Trader exclusives without relying
 ## Related Pages
 
 - [Crystal Trader](crystal-trader.md) — Crate Crystal shop
+- [Crates Overview](../crates/overview.md) — How to earn tokens
 - [Voting & Ranks](../ranks/overview.md) — How to vote
 - [Smith System](../smith/overview.md) — Using smith materials
 - [Claiming](../claiming/overview.md) — Using claim chunks
