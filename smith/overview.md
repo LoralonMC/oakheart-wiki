@@ -48,12 +48,60 @@ This specific breakpoint makes Hardened tools feel truly endgame. Regular mining
 
 ---
 
+## Where to Find Rare Materials
+
+A reference for hunting the materials Hammerhand's recipes call for. If hunting them down isn't your thing, the [Token Trader](../traders/token-trader.md) sells most of these weekly for Vote Tokens.
+
+### Overworld
+
+| Material | Source |
+|---|---|
+| {{item:heart_of_the_sea}} | Buried treasure (use Explorer Maps from cartographer villagers) |
+| {{item:nautilus_shell}} | Drowned drops, or fishing with Luck of the Sea |
+| {{item:phantom_membrane}} | Phantom drops (spawn after several in-game days without sleeping) |
+| {{item:totem_of_undying}} | Raid captains and Woodland Mansions |
+| {{item:ominous_bottle}} | Raid captain drops (same as totems) |
+| {{item:enchanted_golden_apple}} | Loot chests in dungeons, mineshafts, strongholds |
+| {{item:sniffer_egg}} | Suspicious sand in warm ocean ruins (use a brush) |
+| {{item:music_disc_relic}} | Trail Ruins archaeology |
+| {{item:music_disc_otherside}} | Strongholds and Dungeons (rare drop) |
+
+### Trial Chambers
+
+| Material | Source |
+|---|---|
+| {{item:breeze_rod}} | Defeat a Breeze |
+| {{item:wind_charge}} | Breeze drops and vault loot |
+| {{item:heavy_core}} | Ominous Vaults (drink an Ominous Bottle, then complete an Ominous Trial Chamber) |
+| {{item:music_disc_creator}} | Trial Chamber vault loot |
+
+### Nether
+
+| Material | Source |
+|---|---|
+| {{item:ancient_debris}} | Mine in the Nether (Y −16 to Y 22 is the sweet spot) |
+| {{item:crying_obsidian}} | Ruined Portals and Bastion Remnants |
+| {{item:nether_star}} | Defeat a Wither (3 Wither Skeleton skulls + 4 Soul Sand) |
+| {{item:music_disc_pigstep}} | Bastion Remnant chests |
+
+### Deep Dark / End
+
+| Material | Source |
+|---|---|
+| {{item:echo_shard}} | Ancient City chests (bring wool, mind the Warden) |
+| {{item:sculk_catalyst}} | Ancient Cities (Silk Touch to keep the block) |
+| {{item:dragon_head}} | End ships in the Outer End (the gargoyle on the bow) |
+| {{item:dragon_breath}} | Catch the Ender Dragon's breath attacks with empty glass bottles |
+| {{item:chorus_flower}} | End cities (Outer End islands) |
+
+---
+
 ## Tips for New Smiths
 
 1. **Start with tools** — {{item:reforged_pickaxe}} makes farming other materials easier
 2. **Expect a journey** — Reforged gear takes weeks, Hardened takes months of gathering
 3. **Stockpile emeralds** — You'll need hundreds of {{item:emerald_block}}
-4. **Explore all dimensions** — Materials come from Overworld, Nether, End, and structures
+4. **Explore all dimensions** — See [Where to Find Rare Materials](#where-to-find-rare-materials) above for sources
 5. **Use Token Trader** — Weekly smith materials available for vote tokens
 6. **Check crates** — Vote Crate can drop smith materials ({{item:echo_shard}}, {{item:ancient_debris}})
 7. **Plan your path** — Decide which Hardened items you want first
