@@ -2,7 +2,7 @@
 
 A per-player tracker for everything you've collected on Oakheart — blocks, items, mobs, biomes, structures, effects, and enchantments, plus every custom collectible (plushies, figures, cards, pets, tools, and more). Always running in the background; check in any time to see how much of the world you've experienced.
 
-Inspired by RuneScape's collection log. Long-term, no pressure, completionist-friendly.
+Long-term, no pressure, completionist-friendly.
 
 {% hint style="info" %}
 The Collection Log is **bragging rights**, not a reward path. Filling it out doesn't grant items or currency — it ranks you on the leaderboard and shows you the breadth of what's on the server.
@@ -12,11 +12,7 @@ The Collection Log is **bragging rights**, not a reward path. Filling it out doe
 
 ## Opening the Log
 
-```
-/log
-```
-
-(or `/oaklog`)
+`/log`
 
 A multi-tab GUI opens. Each tab is a category — items you've collected show with a checkmark; missing ones are greyed out so you can see what's left to chase.
 
@@ -70,7 +66,7 @@ Sets are themed groupings that cut across categories — collection challenges w
 - Music Discs, Armor Trims, Wool Colors, Concrete Colors, Glazed Terracotta, Stained Glass, Beds, Banners, Carpets, Candles, Saplings, Mob Heads, Flowers
 
 **Plugin-specific:**
-- Crate Keys, Oak Tools, Pet Vouchers, Name Tags
+- Crate Keys, Oak Tools, Pet Vouchers, Chat Tags
 
 Each set has its own browser tab so you can see what's near completion vs. what's barely started.
 
@@ -88,11 +84,9 @@ When you collect something new, the log can pop a Minecraft advancement toast in
 
 Switch via:
 
-```
-/log toast on
-/log toast milestones
-/log toast off
-```
+`/log toast on`
+`/log toast milestones`
+`/log toast off`
 
 If per-entry feels noisy, drop to `milestones` for fewer notifications without losing the major completion popups.
 
