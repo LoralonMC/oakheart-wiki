@@ -122,5 +122,6 @@ This means **emeralds are always valuable**—no massive villager halls breaking
 
 - [Spawn Shops](spawn-shops.md) — Full trade tables for every shop
 - [Player Shops](player-shops.md) — How to create your own shop
+- [Smith System](../smith/overview.md) — Upgrade gear with emerald investment
 - [Token Trader](../traders/token-trader.md) — Spend Vote Tokens on tools, cosmetics, and smith materials
 - [Crystal Trader](../traders/crystal-trader.md) — Spend Crate Crystals on exclusive items
