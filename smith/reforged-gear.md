@@ -95,6 +95,7 @@ All Reforged items come pre-enchanted. Every item includes **Unbreaking IV** plu
 3. **Gather materials first** — Check what you need before visiting the smith
 4. **Use Token Trader** — Weekly smith materials available for Vote Tokens
 5. **Check Vote Crate** — Can drop {{item:echo_shard}} and {{item:ancient_debris}}
+6. **Don't know where to find a material?** See [Where to Find Rare Materials](overview.md#where-to-find-rare-materials)
 
 ---
 
