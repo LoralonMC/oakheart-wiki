@@ -26,10 +26,10 @@ Oakheart uses a **chunk-based claiming system** to protect your builds from grie
 | Source | Chunks |
 |--------|--------|
 | Initial (new player) | 4 |
-| Playtime bonus (first 4 hours) | +4 |
+| Playtime bonus (first 4 hours of active play) | +4 |
 | **Total free chunks** | **8** |
 
-You earn +1 chunk per hour of playtime for your first 4 hours on the server.
+You'll automatically receive +1 chunk at **1, 2, 3, and 4 hours of active playtime** (4 bonus chunks total). Playtime accumulates across sessions, and AFK time doesn't count — so it's the time you actually spend playing.
 
 ### Getting More Chunks
 
