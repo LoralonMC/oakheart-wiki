@@ -8,7 +8,7 @@ Hardened gear is the ultimate equipment tier — **unbreakable** items with maxi
 
 To create Hardened gear, you need:
 - Your **Reforged item** as a base
-- **Hardened Ingots** (crafted at the Smith)
+- **[Hardened Ingots](hardened-ingots.md)** (crafted at the Smith)
 - **Additional rare materials**
 
 ---
@@ -117,6 +117,7 @@ All Hardened items are **Unbreakable** (never lose durability) and have maximum 
 2. **Start with Pickaxe** — Makes farming other materials faster
 3. **Choose tool variants wisely** — Fortune for drops, Silk Touch for block preservation (Axe, Pickaxe, Shovel all have both options)
 4. **Wear the full set** for the best possible protection
+5. **Don't know where to find a material?** See [Where to Find Rare Materials](overview.md#where-to-find-rare-materials)
 
 ---
 
