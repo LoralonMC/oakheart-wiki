@@ -14,13 +14,13 @@ Dedicated worlds that **reset periodically**, giving everyone fresh resources to
 |-------|--------|
 | **Overworld** | Available |
 | **Nether** | Available |
-| **End** | Locked until **August 1, 2026** (see below) |
+| **End** | Locked for the opening period after launch (see below) |
 
 ---
 
 ## The End Unlock
 
-The End dimension is sealed for the first month of the season. All End portals are blocked and a countdown hologram shows the time remaining. **The End opens on August 1, 2026 at 18:00 UTC.**
+The End dimension is sealed for an opening period after launch. All End portals are blocked and a countdown hologram shows the time remaining. **The End unlock time is announced on Discord and via in-game broadcasts before launch.**
 
 ### Why?
 
@@ -57,6 +57,10 @@ Each command teleports you to a random location in that Resource World.
 ```
 
 Returns you to Oakheart village. You can also use `/home` if you have homes set in the survival world.
+
+### Dying in a Resource World
+
+Resource Worlds have **Keep Inventory enabled** — if you die there, you keep all your items and just respawn. No need to risk your gear when mining. The main survival worlds work normally (death = drop items).
 
 ---
 
