@@ -12,7 +12,7 @@ Oakheart has a huge cosmetics system with hundreds of collectible items. Everyth
 | **Paid Crates** | Plushie bundles, card boosters, hats, wings, pets, chat tags, join/leave messages |
 | **Emerald Crate** | Plushie volume bundles, card boosters, adorable bundles |
 | **Seasonal Crates** | Holiday plushies, adorables, limited-edition seasonal items |
-| **Crystal Trader** | MEGA plushies, Cottage armor, Cottage tools, whimsy exclusives |
+| **Crystal Trader** | Fae wings, Fae tool wraps, MEGA plushies, whimsy exclusives |
 | **Token Trader** | Cottagecore decoratives |
 | **Toy Store** | 300+ collectibles — plushies, figures, adorables, card boosters (monthly rotation) |
 
@@ -106,6 +106,21 @@ Custom elytra textures from paid crates. One pair per crate tier.
 | {{item:daisy_petal_wings}} | Daisy Crate |
 | {{item:rose_velvet_wings}} | Rose Crate |
 | {{item:lily_ethereal_wings}} | Lily Crate |
+| {{item:fae_wings}} | Crystal Trader |
+
+---
+
+## Tool Wraps
+
+Wraps are visual skins for your tools. Drag a wrap onto any pickaxe, axe, shovel, hoe, or sword — wood through netherite — and the tool takes on the wrap's appearance. **Cosmetic only**, no stat changes.
+
+| Wrap | Source |
+|------|--------|
+| {{item:fae_pickaxe_wrap}} | Crystal Trader |
+| {{item:fae_axe_wrap}} | Crystal Trader |
+| {{item:fae_shovel_wrap}} | Crystal Trader |
+| {{item:fae_hoe_wrap}} | Crystal Trader |
+| {{item:fae_sword_wrap}} | Crystal Trader |
 
 ---
 
@@ -118,33 +133,7 @@ Custom messages that display when you join or leave the server. Unlock them from
 | {{item:garden_wanderer_join_leave}} | Daisy Crate | Garden themed |
 | {{item:grand_arrival_join_leave}} | Rose Crate | Elegant themed |
 | {{item:mist_walker_join_leave}} | Lily Crate | Mystical themed |
-| Whimsy Join/Leave | Crystal Trader | Fae themed |
-
----
-
-## Cottage Armor & Tools
-
-Exclusive cottagecore-themed cosmetics from the Crystal Trader. Custom-textured leather armor and iron tools matching the Oakheart aesthetic — only available here.
-
-### Cottage Armor Set
-
-| Piece | Price |
-|-------|-------|
-| Cottage Hat | {{item:crate_crystal:30}} |
-| Cottage Tunic | {{item:crate_crystal:40}} |
-| Cottage Pants | {{item:crate_crystal:35}} |
-| Cottage Boots | {{item:crate_crystal:25}} |
-| **Full Set** | {{item:crate_crystal:130}} |
-
-### Cottage Tools
-
-| Tool | Price |
-|------|-------|
-| Cottage Pickaxe | {{item:crate_crystal:80}} |
-| Cottage Axe | {{item:crate_crystal:80}} |
-| Cottage Shovel | {{item:crate_crystal:80}} |
-| Cottage Hoe | {{item:crate_crystal:80}} |
-| **Full Set** | {{item:crate_crystal:320}} |
+| {{item:fae_glade_join_leave}} | Crystal Trader | Fae themed |
 
 ---
 
@@ -155,8 +144,8 @@ Crystal Trader's signature collection — fae-touched items unique to this trade
 | Item | Price |
 |------|-------|
 | Mushroom Sprite Pet | {{item:crate_crystal:100}} |
-| Whimsy Chat Tag | {{item:crate_crystal:80}} |
-| Whimsy Join/Leave Messages | {{item:crate_crystal:80}} |
+| {{item:fae_chat_tag}} | {{item:crate_crystal:80}} |
+| {{item:fae_glade_join_leave}} | {{item:crate_crystal:80}} |
 
 ---
 
