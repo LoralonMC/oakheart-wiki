@@ -17,6 +17,10 @@ Progress through 20 ranks by voting daily! Each rank unlocks new perks, commands
 Voting on all 5 sites daily = 5 Vote Points per day. Rank 20 requires 1,000 votes, achievable in about 200 days.
 {% endhint %}
 
+**Notes:**
+- Each site has a **24-hour cooldown** from your last vote on it
+- Vote Points are cumulative — they never reset, so you keep progressing even if you miss days
+
 ---
 
 ## Rank Progression
