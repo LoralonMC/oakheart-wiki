@@ -2,6 +2,10 @@
 
 Player warps let you create teleport points that other players can use to visit your builds, shops, farms, and more.
 
+{% hint style="info" %}
+**Player Warps vs. Homes:** Warps are **public** teleport points anyone can visit — perfect for shops, builds, or events. [Homes](homes.md) are **private** to you only.
+{% endhint %}
+
 ---
 
 ## Requirements
