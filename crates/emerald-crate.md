@@ -34,7 +34,7 @@ The Emerald Crate is **cosmetics only** — no resources, no currency, just coll
 
 | Category | Rarity | What You Get |
 |----------|--------|-------------|
-| Troll Junk | Common | Silly items — part of the fun! |
+| Troll Junk | Common | Silly items — Rotten Flesh stacks, dirt, expired milk, joke signs |
 | Plushie Bundles | Uncommon | Random volume of collectible plushies |
 | Trading Card Boosters | Rare | Booster pack from one of 5 card sets |
 | Adorable Bundles | Rare | Themed mini-plushie set |
