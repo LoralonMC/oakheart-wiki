@@ -73,7 +73,7 @@ Open crates with keys earned from voting, purchase them from the store, or spend
 
 ## Community
 
-- **Discord:** [discord.gg/6k8PhgAK9g](https://discord.gg/6k8PhgAK9g)
+- **Discord:** {{discord}}
 - **Vote Sites:** Support us daily with `/vote`
 - **Store:** [oakheart.net/store](https://oakheart.net/store)
 
