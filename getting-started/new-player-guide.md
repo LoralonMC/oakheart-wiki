@@ -215,7 +215,7 @@ Now that you're set up, here are some goals to work toward:
 ## Need Help?
 
 - **In-game chat:** Just ask! Our community loves helping new players.
-- **Discord:** [discord.gg/6k8PhgAK9g](https://discord.gg/6k8PhgAK9g) — Open a ticket for staff support
+- **Discord:** {{discord}} — Open a ticket for staff support
 - **Wiki:** Browse the sidebar for detailed guides on every system
 
 ---
