@@ -2,7 +2,7 @@
 
 Join the Oakheart community on Discord for chat, support, and news.
 
-**[discord.gg/6k8PhgAK9g](https://discord.gg/6k8PhgAK9g)**
+**{{discord}}**
 
 ---
 
