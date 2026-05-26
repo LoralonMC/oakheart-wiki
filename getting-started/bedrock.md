@@ -40,7 +40,7 @@ If something doesn't work the way you expect, it's not you — it's a Java/Bedro
 
 ## Need Help?
 
-- **Discord:** [discord.gg/6k8PhgAK9g](https://discord.gg/6k8PhgAK9g) — Bedrock-specific support
+- **Discord:** {{discord}} — Bedrock-specific support
 - **In-game:** Java staff can help with most things; mention you're on Bedrock when reporting issues
 
 ---
