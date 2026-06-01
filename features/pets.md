@@ -12,10 +12,15 @@ Certain mobs have a chance to drop a pet voucher when killed. Right-click the vo
 
 | Pet | Source mob | Drop chance |
 |-----|-----------|-------------|
-| **Zombie Pet** | Zombie | 1 in 10,000 |
-| **Creeper Pet** | Creeper | 1 in 10,000 |
-| **Skeleton Pet** | Skeleton | 1 in 10,000 |
-| **Enderman Pet** | Enderman | 1 in 10,000 |
+| {{item:brudge_the_bogged_voucher}} | Bogged | 1 in 10,000 |
+| {{item:colin_the_creeper_voucher}} | Creeper | 1 in 10,000 |
+| {{item:dreary_the_drowned_voucher}} | Drowned | 1 in 10,000 |
+| {{item:exo_the_enderman_voucher}} | Enderman | 1 in 10,000 |
+| {{item:hrax_the_husk_voucher}} | Husk | 1 in 10,000 |
+| {{item:prisk_the_parched_voucher}} | Parched | 1 in 10,000 |
+| {{item:slak_the_skeleton_voucher}} | Skeleton | 1 in 10,000 |
+| {{item:stikk_the_stray_voucher}} | Stray | 1 in 10,000 |
+| {{item:zekk_the_zombie_voucher}} | Zombie | 1 in 10,000 |
 
 ### Boss Pets
 
