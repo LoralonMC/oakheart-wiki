@@ -100,6 +100,10 @@ Rollback of damage plus a ban. Length depends on severity and repeat offenses.
 Ban length depends on the offense. Duping is an immediate permanent ban.
 {% endhint %}
 
+{% hint style="info" %}
+**Alt accounts are allowed.** A second account for normal play is fine. What's not allowed is using alts to gain an unfair edge: voting more than once, bypassing shop or AFK limits, evading a ban or mute, or farming rewards while AFK. Abuse gets all linked accounts punished.
+{% endhint %}
+
 ---
 
 ## 4. Economy & Trading
@@ -135,6 +139,7 @@ Warning → Trade restrictions → Temp ban → Economy reset + Permanent ban
 ### Don't
 - Build offensive structures (hate symbols, NSFW, etc.)
 - Build structures to harass or target players
+- Name lands after real countries, political entities, or war references (e.g. "Russia", "Palestine", "Third Reich")
 - Claim around others to box them in
 - Bypass claim protections with exploits
 
