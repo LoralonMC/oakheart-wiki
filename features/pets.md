@@ -1,6 +1,6 @@
 # Pets
 
-Collect companion pets that follow you around with custom 3D animated models! There are three ways to get pets: rare mob drops, paid crate rewards, and store rank exclusives.
+Collect companion pets that follow you around with custom 3D animated models! There are four ways to get pets: rare mob drops, paid crate rewards, store rank exclusives, and the Crystal Trader.
 
 ---
 
@@ -108,6 +108,17 @@ Velvetpaw is a friendly resident at spawn — a gentle soul surrounded by variou
 {% endhint %}
 
 ---
+
+## Managing Your Pets
+
+Open the pet menu with **`/pets`** — summon or dismiss companions, give them a **custom name** (up to 24 characters), and mark a **favorite**. Pets are purely cosmetic: no combat, no inventory, just charm.
+
+### Seasonal Touches
+
+From **December 1 to January 5**, select pets wears a tiny Santa hat. No action needed — festive cheer is automatic.
+
+---
+
 
 ## Related Pages
 
