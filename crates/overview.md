@@ -12,8 +12,8 @@ Oakheart features multiple crate types that reward you with valuable items, reso
 | **Paid Crate Tier 1** | Store purchase | Spawn - Crates Pavilion |
 | **Paid Crate Tier 2** | Store purchase | Spawn - Crates Pavilion |
 | **Paid Crate Tier 3** | Store purchase | Spawn - Crates Pavilion |
-| **Emerald Crate** | Buy with emeralds | Spawn - Crates Pavilion |
-| **Seasonal Crate** | Limited-time events | Spawn - Crates Pavilion |
+| **Emerald Crate** | Coming soon (post-launch update) | Spawn - Crates Pavilion |
+| **Seasonal Crate** | Coming soon (seasonal events) | Spawn - Crates Pavilion |
 
 ---
 
