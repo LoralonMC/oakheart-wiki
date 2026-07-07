@@ -38,6 +38,10 @@ Use `/trade <player>` for a secure trading GUI.
 
 ## Ranks & Progression
 
+**Q: Why can't I enter The End?**
+
+The End is sealed until **September 5, 2026 at 18:00 UTC** — it opens as a server-wide event. Watch the countdown holograms at any End portal!
+
 **Q: How do I rank up?**
 
 Vote on all 5 voting sites daily (`/vote`). Each vote gives 1 Vote Point toward your next rank.
@@ -120,7 +124,7 @@ Trade {{item:vote_token}} at Merchant Bramblewood (Crates Pavilion) for claim ch
 
 - Ask in chat - our community is friendly!
 - Open a ticket on **{{discord:our Discord}}**
-- Use `/tutorial` to replay the tutorial
+- Use `/tutorial` to reopen the Welcome Book
 
 ---
 
