@@ -44,8 +44,8 @@ This is a great option if you've been grinding spawn shops and want to expand yo
 | Trader | Cost | Limit |
 |--------|------|-------|
 | **Token Trader** | {{item:claim_chunk:2}} = {{item:vote_token:20}} | Max 3 purchases/week (6 chunks) |
-| **Crystal Trader** | {{item:claim_chunk}} = {{item:crate_crystal:15}} | No limit |
-| **Crystal Trader** | {{item:claim_chunk:5}} = {{item:crate_crystal:60}} | No limit |
+| **Crystal Trader** | {{item:claim_chunk}} = {{item:crate_crystal:5}} | No limit |
+| **Crystal Trader** | {{item:claim_chunk:5}} = {{item:crate_crystal:20}} | No limit |
 
 ### From Prestige
 
