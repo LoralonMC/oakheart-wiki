@@ -5,7 +5,7 @@ Oakheart has custom tools split into two categories: **building tools** for crea
 {% quicknav %}
 Building Tools: file, trowel, wand#builders-wand
 Sickle: iron_sickle#sickle
-Harvesting Tools: excavator#excavation-shovel, vein_miner#vein-miner-pickaxe, lumberjack#lumberjacks-axe
+Harvesting Tools: excavator#groundbreaker, vein_miner#motherlode, lumberjack#timberfall
 {% endquicknav %}
 
 ---
@@ -126,17 +126,17 @@ Harvesting tools are consumable. Once the durability runs out, the tool breaks p
 | {{item:vein_miner}} | Mine entire connected ore vein  | 750        | {{item:vote_token:70}} / Rose Crate  |
 | {{item:lumberjack}}   | Fell an entire tree in one chop | 1000       | {{item:vote_token:70}} / Lily Crate  |
 
-### Excavation Shovel
+### Groundbreaker
 
-Breaks a 3×3 area of blocks when you mine a single block. Durability is consumed per block broken (9 per activation). Works on any shovel-mineable block.
+The excavation shovel. Breaks a 3×3 area of blocks when you mine a single block. Durability is consumed per block broken (9 per activation). Works on any shovel-mineable block.
 
-### Vein Miner Pickaxe
+### Motherlode
 
-Mines all connected ore blocks of the same type at once (up to 32 blocks). Deepslate and regular ore variants count as the same vein. Durability is consumed per ore block mined.
+The vein-mining pickaxe. Mines all connected ore blocks of the same type at once (up to 32 blocks). Deepslate and regular ore variants count as the same vein. Durability is consumed per ore block mined.
 
-### Lumberjack's Axe
+### Timberfall
 
-Fells an entire tree in one chop (up to 64 blocks). Only works on naturally generated trees — it checks for nearby leaves to prevent accidental use on builds. Durability is consumed per log broken.
+The lumberjack's axe. Fells an entire tree in one chop (up to 64 blocks). Only works on naturally generated trees — it checks for nearby leaves to prevent accidental use on builds. Durability is consumed per log broken.
 
 ---
 
