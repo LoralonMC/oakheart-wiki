@@ -48,7 +48,7 @@ Keys are available individually or in bundles from the server store.
 
 - **Vote Crate** — Rare chance to win a Paid Crate Key (Tier 1 at Epic rarity, Tier 2 at Legendary rarity)
 - **Rank-up rewards** — Random Crate Keys at milestone vote ranks
-- **Prestige rewards** — 1 Random Paid Key per prestige
+- **Prestige rewards** — 1 Enigma Key Tome per prestige (redeems for 2 keys of one random tier)
 - **Escalation keys** — Daisy Crate can drop a Rose Key, Rose Crate can drop a Lily Key
 - **Special events** — Seasonal giveaways and promotions
 
@@ -109,10 +109,12 @@ LilyCrate
 | {{item:ancient_debris}} | 4 or 8 | 8 or 12 | 12 or 16 |
 | {{item:claim_chunk}} | 2 or 3 | 3 or 5 | 4 or 6 |
 | {{item:crate_crystal}} | 3 | 4 | 5 |
-| Exclusive Hat | Flower Crown | Petal Crown | Lily Crown |
-| Exclusive Pet | Butterfly | Hummingbird | Firefly |
-| Exclusive Elytra | Petal Wings | Velvet Wings | Ethereal Wings |
-| Rank Voucher | Hedgehog ($10) | Squirrel ($25) | Otter ($50) + Owl ($100) |
+| Exclusive Hat | {{item:daisy_crown_voucher}} | {{item:rose_crown_voucher}} | {{item:lily_crown_voucher}} |
+| Exclusive Pet | {{item:butterfly_voucher}} | {{item:hummingbird_voucher}} | {{item:firefly_voucher}} |
+| Exclusive Elytra | {{item:daisy_petal_wings}} | {{item:rose_velvet_wings}} | {{item:lily_ethereal_wings}} |
+| Rank Voucher | {{item:squirrel_rank_voucher}} | {{item:otter_rank_voucher}} | {{item:owl_rank_voucher}} |
+
+*Looking for the {{item:hedgehog_rank_voucher}}? It drops in the [Vote Crate](vote-crate.md) at Legendary rarity.*
 
 ---
 
