@@ -189,7 +189,7 @@ Sponsored warps appear prominently in the warp browser, driving more visitors to
 
 **"You've reached your warp limit"**
 - You need a higher rank for more warps
-- Vote to rank up, or remove unused warps
+- Rank up (or grab a Store Rank), or remove unused warps
 
 **"You need 20 emeralds"**
 - First warp is free; additional warps cost emeralds
