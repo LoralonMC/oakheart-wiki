@@ -1,5 +1,9 @@
 # Emerald Crate
 
+{% hint style="warning" %}
+**Coming soon!** The Emerald Crate arrives in a post-launch update. This page is a preview, prices and rewards may be tuned before release.
+{% endhint %}
+
 The Emerald Crate is a special in-game crate that lets you spend your hard-earned emeralds on valuable rewards. It serves as a major **economy sink**, helping keep the server economy healthy.
 
 ---
