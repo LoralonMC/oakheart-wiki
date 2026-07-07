@@ -25,6 +25,8 @@ When you join, you'll spawn at the great central oak tree in the heart of Oakhea
 5. **Set Your Home** — Use `/sethome <name>` to save your location
 6. **Start Trading** — Sell items at spawn shops for emeralds
 
+*(You'll also spawn with a starter kit — cottage armor, tools, food, and a bed — plus your Welcome Book.)*
+
 ---
 
 ## Essential Commands
@@ -55,7 +57,7 @@ Progress through 20 vote ranks by supporting the server daily. Earn {{item:vote_
 [View Ranks & Voting →](ranks/overview.md)
 
 ### Claiming Land
-Protect your builds with our chunk-based claiming system. Start with up to 8 free chunks, earn more through playtime, and collect {{item:claim_chunk}} items to expand your territory.
+Protect your builds with our chunk-based claiming system. Start with 4 chunks, earn up to 8 through playtime, and collect {{item:claim_chunk}} items to expand your territory.
 
 [Claiming Guide →](claiming/overview.md)
 
@@ -65,7 +67,7 @@ Visit Hammerhand the Smith to upgrade your Netherite equipment using {{item:hard
 [Smith System →](smith/overview.md)
 
 ### Crates & Rewards
-Open crates with keys earned from voting, purchase them from the store, or spend emeralds at the Emerald Crate. Collect {{item:crate_crystal}} for guaranteed rewards at the Crystal Trader.
+Open crates with keys earned from voting or purchase them from the store. Collect {{item:crate_crystal}} for guaranteed rewards at the Crystal Trader.
 
 [Crates & Traders →](crates/overview.md)
 
@@ -95,7 +97,7 @@ Open crates with keys earned from voting, purchase them from the store, or spend
 ## Need Help?
 
 - **In-game:** Ask in chat—our community is friendly!
-- **Tutorial:** Run `/tutorial` to restart the guided tour
+- **Welcome Book:** Run `/tutorial` to reopen your Welcome Book anytime
 - **Discord:** Open a support ticket for staff assistance
 - **Wiki:** You're here! Browse the sidebar for detailed guides.
 
