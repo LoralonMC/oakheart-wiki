@@ -1,6 +1,6 @@
 # Resource World
 
-Resource Worlds are separate dimensions designed for gathering resources without damaging the main survival worlds. Each resource world is **5,000 x 5,000 blocks**.
+Resource Worlds are separate dimensions designed for gathering resources without damaging the main survival worlds. The resource overworld and end are **5,000 × 5,000 blocks**; the nether is **1,250 × 1,250** (1/8 scale, so portal coordinates line up).
 
 ---
 
@@ -45,10 +45,9 @@ A staggered unlock gives players time to settle into the Overworld and Nether ec
 
 | Command | Destination |
 |---------|-------------|
-| `/resource` (or `/rw`) | Overworld Resource World |
-| `/resourcenether` (or `/rwn`) | Nether Resource World |
+| `/rw` | Overworld Resource World (safe random teleport) |
 
-Each command teleports you to a random location in that Resource World.
+To reach the **Resource Nether** or **Resource End**, build a nether portal (or use a stronghold end portal) *inside* the resource overworld — portals there route between the resource dimensions, never the main worlds.
 
 ### Returning
 
@@ -68,7 +67,7 @@ Resource Worlds have **Keep Inventory enabled** — if you die there, you keep a
 
 ### Periodic Resets
 
-Resource Worlds reset on a regular schedule — check server announcements or Discord for exact timing. A warning is broadcast before each reset. When they reset:
+All three Resource Worlds reset together **every Monday**. Everyone inside is sent to spawn, and each world regenerates with a fresh seed. When they reset:
 
 - All blocks regenerate to a fresh world
 - Any builds or items left behind are deleted
