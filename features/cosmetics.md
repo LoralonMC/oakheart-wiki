@@ -10,7 +10,7 @@ Oakheart has a huge cosmetics system with hundreds of collectible items. Everyth
 |--------|-------------------|
 | **Vote Crate** | Starter figures, {{item:nm_pack_starter_pack}}, {{item:devoted_chat_tag}} |
 | **Paid Crates** | Plushie bundles, card boosters, hats, wings, pets, chat tags, join/leave messages |
-| **Emerald Crate** | Plushie volume bundles, card boosters, adorable bundles |
+| **Emerald Crate** *(coming soon)* | Plushie volume bundles, card boosters, adorable bundles |
 | **Seasonal Crates** | Holiday plushies, adorables, limited-edition seasonal items |
 | **Crystal Trader** | Fae wings, Fae tool wraps, MEGA plushies, whimsy exclusives |
 | **Token Trader** | Cottagecore decoratives |
@@ -36,8 +36,8 @@ Equippable tags that show next to your name in chat. Pick your active tag from t
 
 Placeable 3D mob plushies for decorating your base — one of the largest categories on the server.
 
-- **Vol 1-8 Plushies (~80):** Found in Paid Crates and the Emerald Crate as random volume bundles
-- **MEGA Plushies (6):** Oversized versions of the rarest mobs, only at the Crystal Trader ({{item:crate_crystal:25-30}} each)
+- **Vol 1-8 Plushies (79):** Found in Paid Crates as random volume bundles (also in the Emerald Crate when it arrives post-launch)
+- **MEGA Plushies (6):** Oversized versions of the rarest mobs, only at the Crystal Trader ({{item:crate_crystal:25}} each)
 - **Toy Store Plushies (197):** Sold by Toby Tinkertop at the Toy Store ({{item:emerald:40}} each, monthly rotation)
 - **Seasonal Plushies (170+):** Exclusive to Seasonal Crates during their event windows
 
@@ -72,7 +72,7 @@ Detailed mob figures across 8 volumes — 79 total, plus 4 starter figures from 
 Collectible cards you open from booster packs. There are **5 sets of 37 cards** each (18 Common, 18 Rare, 1 Ultra-Rare). Trade with other players to complete your sets!
 
 - {{item:nm_pack_starter_pack}}: Found in the Vote Crate
-- **All 5 Boosters:** Found in the Emerald Crate (Rare tier) and at the Toy Store ({{item:emerald:50}} per booster, monthly rotation)
+- **All 5 Boosters:** Sold at the Toy Store ({{item:emerald:50}} per booster, monthly rotation) — also in the Emerald Crate when it arrives post-launch
 
 ---
 
@@ -87,7 +87,7 @@ Tiny mini-plushie collectibles in three themed sets.
 
 ## Hats
 
-Custom headwear from paid crates. One hat per crate tier.
+Custom headwear from paid crates. One hat per crate tier. Equip hats from your **`/cosmetics`** wardrobe — they render **over** your helmet, so you keep full armor stats.
 
 | Hat | Source |
 |-----|--------|
