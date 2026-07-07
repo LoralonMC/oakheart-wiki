@@ -22,7 +22,7 @@ Vote on all 5 sites daily with `/vote` to maximize your token income!
 
 ## Weekly-Limited Items
 
-These items have purchase limits that **reset every Monday at 00:00 server time**. A 6-hour reminder broadcast goes out before each reset.
+These items have purchase limits that **reset every Monday at 00:00 server time**.
 
 {% hint style="info" %}
 **Why limits?** Weekly caps on rare items prevent bypassing the natural progression grind while still helping dedicated voters.
@@ -58,7 +58,7 @@ These resources are **limited per world** — Echo Shards from Ancient Cities, H
 |------|------|--------------|
 | {{item:heavy_core}} | {{item:vote_token:100}} | 1/week |
 | {{item:sniffer_egg:4}} | {{item:vote_token:30}} | 5/week |
-| Random Music Disc (structure-rare) | {{item:vote_token:35}} | 2/week |
+| {{item:random_rare_music_disc}} | {{item:vote_token:35}} | 2/week |
 
 ---
 
@@ -90,17 +90,6 @@ Renewable in vanilla, but tedious or risky to track down. A fair shortcut for da
 | Item | Cost |
 |------|------|
 | {{item:random_banner_pattern}} | {{item:vote_token:25}} |
-
-### Cottagecore Decoratives
-
-Custom decorative items matching Oakheart's aesthetic:
-
-| Item | Cost |
-|------|------|
-| Decorative Wheat Sheaf | {{item:vote_token:30}} |
-| Copper Watering Can | {{item:vote_token:45}} |
-| Wicker Basket | {{item:vote_token:55}} |
-| Stone Garden Bench | {{item:vote_token:70}} |
 
 ### Utility Tools
 
