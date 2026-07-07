@@ -10,6 +10,7 @@ A complete reference of all player commands on Oakheart, organized by category.
 |---------|-------------|-------|
 | `/spawn` | Return to Oakheart village | Always available |
 | `/wild` | Random teleport to wilderness | Alias: `/rt`, `/rtp` |
+| `/rw` | Teleport to the resource worlds | Reset weekly — gather, don't build |
 | `/back` | Return to last location | Works after death or teleport |
 | `/home <name>` | Teleport to a saved home | |
 | `/homes` | Open homes GUI menu | |
@@ -185,7 +186,7 @@ Both players must have PvP enabled for combat.
 | `/playtime` | View your playtime |
 | `/playtimetop` | Playtime leaderboard |
 | `/afk` | Toggle AFK status |
-| `/tutorial` | Restart the tutorial |
+| `/tutorial` | Reopen the Welcome Book |
 | `/overflow` | View overflow inventory (alias: `/of`) |
 | `/claimchunk` | Withdraw a chunk from your limit into a physical item (must have >4 chunks) |
 
