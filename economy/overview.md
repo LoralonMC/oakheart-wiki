@@ -90,13 +90,13 @@ Expand your territory by purchasing {{item:claim_chunk}} from **Quillfeather the
 | {{item:claim_chunk}} | {{item:emerald_block:40}} (360 emeralds) |
 | {{item:claim_chunk:2}} | {{item:emerald_block:75}} (675 emeralds) — *Save 45 emeralds!* |
 
-### Emerald Crate Keys
+### Emerald Crate Keys (coming soon)
 
 Buy a key to open the Emerald Crate for cosmetic rewards. Each key costs {{item:emerald:576}} ({{item:emerald_block:64}}). The Emerald Crate contains only cosmetics — no currency comes back out!
 
 ### Toy Store
 
-Visit the **Toy Store NPC** at spawn to buy novelty plushies for {{item:emerald:40}} each. There are 129 plushies across 12 collections, with rotating monthly stock. Collecting them all costs {{item:emerald:5160}}!
+Visit the **Toy Store NPC** at spawn to buy novelty plushies for {{item:emerald:40}} each. There are 197 plushies across 17 rotating collections — plus figures, adorables, and card boosters (305 collectibles in all).
 
 ### Other Sinks
 
