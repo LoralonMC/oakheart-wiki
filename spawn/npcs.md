@@ -131,7 +131,7 @@ Fashionable NPC with an eye for style. Dramatic personality who treats fashion a
 **Location:** Toy Store (northeast)
 *"Have you seen my latest creation? It's adorable, if I do say so myself!"*
 
-Sells novelty plushie collections for {{item:emerald:40}} each. Browse 129 unique plushies across many themed collections.
+Sells novelty plushies ({{item:emerald:40}} each) plus figures, adorables, and card boosters. Browse 197 plushies across 17 themed collections, rotating monthly.
 
 ---
 
