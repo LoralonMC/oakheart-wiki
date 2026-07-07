@@ -108,7 +108,7 @@ A single rotating booster slot. Each booster gives 1 random card from the spotli
 1. **Check back monthly.** The rotation refreshes on the 1st at 00:00 server time.
 2. **Don't wait on a favorite.** When a subpool is spotlighted, that's your window — items vanish when the rotation flips.
 3. **Mix with other shops.** Vol 1–8 plushies live in the [Paid Crates](../crates/paid-crates.md); MEGA Plushies live with the [Crystal Trader](crystal-trader.md). Toby is the novelty/themed side of the collection.
-4. **A full month spotlight runs ~950e.** 19 unique trades at 40–60e — saved-up emeralds clear fast.
+4. **A full month spotlight runs ~900e.** 19 unique trades at 40–60e — saved-up emeralds clear fast.
 
 ---
 
