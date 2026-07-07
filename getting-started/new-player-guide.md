@@ -12,6 +12,8 @@ When you join Oakheart, you'll appear at the base of a massive oak tree in the c
 
 You'll also find a **Welcome Book** in your inventory — a clickable in-game guide with the most useful commands and where to find things. Open it any time you need a quick reference.
 
+You also spawn with a **starter kit**: cottage armor, tools, food, torches, and a bed — enough to survive your first night.
+
 **Elder Oakworth**, the village elder, will greet you and offer an optional tutorial. We recommend accepting it if you're new—it takes only 2-3 minutes and rewards you with starter items!
 
 ### The Tutorial
@@ -24,11 +26,11 @@ If you accept Elder Oakworth's tutorial, you'll:
 4. **Get introduced to voting** — Support the server and earn daily rewards
 
 **Tutorial Rewards:**
-- {{item:emerald:6}}
-- 1x {{item:votekey}}
+- {{item:emerald:16}}
+- 1x {{item:claim_chunk}}
 
 {% hint style="info" %}
-**Skipped the tutorial?** Run `/tutorial` anytime to restart it, or check your **Welcome Book** for a quick command reference.
+**Skipped the tutorial?** No problem — run `/tutorial` anytime to reopen your **Welcome Book** for a quick command reference.
 {% endhint %}
 
 ---
@@ -193,7 +195,7 @@ ECONOMY & SOCIAL
 /msg <player> <m>  - Private message
 
 HELP
-/tutorial          - Restart the tutorial
+/tutorial          - Reopen the Welcome Book
 /help              - General help
 ```
 
@@ -204,6 +206,7 @@ HELP
 Now that you're set up, here are some goals to work toward:
 
 - [ ] Build your first base
+- [ ] Gather in the resource worlds (`/rw`) — they reset weekly, so mine there and build at home
 - [ ] Claim all 8 of your starting chunks
 - [ ] Vote every day for a week (35 rewards!)
 - [ ] Reach Vote Rank 2 (Sprout) — only 5 votes needed
