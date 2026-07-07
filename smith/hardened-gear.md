@@ -87,7 +87,7 @@ All Hardened items are **Unbreakable** (never lose durability) and have maximum 
 | {{item:hardened_pickaxe}} (Silk Touch) | Efficiency VIII, Silk Touch I |
 | {{item:hardened_shovel}} (Fortune) | Efficiency VIII, Fortune V |
 | {{item:hardened_shovel}} (Silk Touch) | Efficiency VIII, Silk Touch I |
-| {{item:hardened_hoe}} | Efficiency VIII |
+| {{item:hardened_hoe}} | Efficiency VIII, Fortune V |
 | {{item:hardened_fishing_rod}} | Luck of the Sea VIII, Lure IV |
 
 {% hint style="info" %}
