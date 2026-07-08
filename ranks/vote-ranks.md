@@ -55,25 +55,25 @@ Voting on all 5 sites daily = 5 Vote Points per day. Rank 20 requires 1,000 vote
 | Rank | Homes | Warps | Shops | New Commands |
 |------|-------|-------|-------|--------------|
 | 1 | 1 | 0 | 0 | — |
-| 2 | 2 | 1 | 2 | `/cartographytable`, first warp & shops |
-| 3 | 3 | 1 | 3 | `/condense` |
-| 4 | 4 | 2 | 4 | `/lay` |
-| 5 | 5 | 2 | 5 | `/sit` |
-| 6 | 6 | 3 | 6 | `/feed` |
-| 7 | 7 | 3 | 7 | `/loom`, `/heads` |
-| 8 | 8 | 4 | 8 | `/craft` |
-| 9 | 9 | 4 | 9 | `/near`, `/armorstand` |
-| 10 | 10 | 5 | 10 | `/dispose`, home icons |
-| 11 | 10 | 6 | 12 | `/bellyflop` |
-| 12 | 11 | 7 | 14 | `/stonecutter` |
-| 13 | 11 | 8 | 16 | `/jump` |
-| 14 | 12 | 9 | 18 | `/grindstone` |
-| 15 | 12 | 10 | 20 | `/crawl` |
-| 16 | 13 | 11 | 22 | `/anvil` |
-| 17 | 13 | 12 | 24 | `/ptime` |
-| 18 | 14 | 13 | 26 | `/smithingtable` |
-| 19 | 14 | 14 | 28 | `/enderchest` |
-| 20 | 15 | 15 | 30 | `/heal`, prestige eligible |
+| 2 | 2 | 2 | 2 | `/cartographytable`, first warp & shops |
+| 3 | 3 | 2 | 3 | `/condense` |
+| 4 | 4 | 4 | 4 | `/lay` |
+| 5 | 5 | 4 | 5 | `/sit` |
+| 6 | 6 | 6 | 6 | `/feed` |
+| 7 | 7 | 6 | 7 | `/loom`, `/heads` |
+| 8 | 8 | 8 | 8 | `/craft` |
+| 9 | 9 | 8 | 9 | `/near`, `/armorstand` |
+| 10 | 10 | 10 | 10 | `/dispose`, home icons |
+| 11 | 10 | 12 | 12 | `/bellyflop` |
+| 12 | 11 | 14 | 14 | `/stonecutter` |
+| 13 | 11 | 16 | 16 | `/jump` |
+| 14 | 12 | 18 | 18 | `/grindstone` |
+| 15 | 12 | 20 | 20 | `/crawl` |
+| 16 | 13 | 22 | 22 | `/anvil` |
+| 17 | 13 | 24 | 24 | `/ptime` |
+| 18 | 14 | 26 | 26 | `/smithingtable` |
+| 19 | 14 | 28 | 28 | `/enderchest` |
+| 20 | 15 | 30 | 30 | `/heal`, prestige eligible |
 
 ---
 
@@ -118,7 +118,7 @@ You receive rewards every time you rank up:
 | **Rank 6** | First Random Crate Key! |
 | **Rank 10** | `/dispose`, customize home icons, 10 homes, major emerald reward |
 | **Rank 17** | `/ptime` — control your personal time |
-| **Rank 20** | `/heal`, prestige eligibility, 15 homes, 15 warps, 30 shops! |
+| **Rank 20** | `/heal`, prestige eligibility, 15 homes, 30 warps, 30 shops! |
 
 ---
 
