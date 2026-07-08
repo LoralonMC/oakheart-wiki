@@ -66,7 +66,7 @@ For full trade tables showing every item, price, and daily limit, see the [Spawn
 | Action | Cost |
 |--------|------|
 | First warp | Free |
-| Additional warps | {{item:emerald:20}} each |
+| Additional warps | Cost more each time (from {{item:emerald:24}}, climbing to {{item:emerald:2148}}+ near your rank's limit) |
 | Sponsored Slot 1 | {{item:emerald:150}} for 7 days |
 | Sponsored Slot 2 | {{item:emerald:75}} for 3 days |
 | Sponsored Slot 3 | {{item:emerald:30}} for 1 day |
