@@ -56,13 +56,13 @@ Voting on all 5 sites daily = 5 Vote Points per day. Rank 20 requires 1,000 vote
 |------|-------|-------|-------|--------------|
 | 1 | 1 | 0 | 0 | — |
 | 2 | 2 | 2 | 2 | `/cartographytable`, first warp & shops |
-| 3 | 3 | 2 | 3 | `/condense` |
+| 3 | 3 | 3 | 3 | `/condense` |
 | 4 | 4 | 4 | 4 | `/lay` |
-| 5 | 5 | 4 | 5 | `/sit` |
+| 5 | 5 | 5 | 5 | `/sit` |
 | 6 | 6 | 6 | 6 | `/feed` |
-| 7 | 7 | 6 | 7 | `/loom`, `/heads` |
+| 7 | 7 | 7 | 7 | `/loom`, `/heads` |
 | 8 | 8 | 8 | 8 | `/craft` |
-| 9 | 9 | 8 | 9 | `/near`, `/armorstand` |
+| 9 | 9 | 9 | 9 | `/near`, `/armorstand` |
 | 10 | 10 | 10 | 10 | `/dispose`, home icons |
 | 11 | 10 | 12 | 12 | `/bellyflop` |
 | 12 | 11 | 14 | 14 | `/stonecutter` |
