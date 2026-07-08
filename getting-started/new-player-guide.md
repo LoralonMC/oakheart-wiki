@@ -122,7 +122,7 @@ Each shop has **daily trade limits** per player—this keeps the economy balance
 
 ### Spending Emeralds
 
-- **Set player warps** ({{item:emerald:20}} per warp after the first)
+- **Set player warps** (each one after the first costs more than the last, from {{item:emerald:24}} up)
 - **Rent sponsored warp slots** (premium visibility)
 - **Buy Emerald Crate keys** ({{item:emerald:576}} each)
 - **Trade with players** for items
