@@ -25,7 +25,7 @@ Support the server and get instant access to perks with Store Ranks! Each rank g
 | Perk | Hedgehog | Squirrel | Otter | Owl |
 |------|----------|----------|-------|-----|
 | **Homes** | 5 | 10 | 12 | 15 |
-| **Warps** | 2 | 5 | 10 | 15 |
+| **Warps** | 4 | 10 | 20 | 30 |
 | **Shops** | 5 | 10 | 20 | 30 |
 | **Equivalent Rank** | 5 | 10 | 15 | 20 |
 
