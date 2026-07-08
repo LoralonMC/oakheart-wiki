@@ -21,21 +21,21 @@ You must reach at least Rank 2 to create warps. This requires just **5 votes**�
 | Rank | Warps Allowed |
 |------|---------------|
 | 1 (Acorn) | 0 |
-| 2-3 | 1 |
-| 4-5 | 2 |
-| 6-7 | 3 |
-| 8-9 | 4 |
-| 10 | 5 |
-| 11 | 6 |
-| 12 | 7 |
-| 13 | 8 |
-| 14 | 9 |
-| 15 | 10 |
-| 16 | 11 |
-| 17 | 12 |
-| 18 | 13 |
-| 19 | 14 |
-| 20 (Yggdrasil) | 15 |
+| 2-3 | 2 |
+| 4-5 | 4 |
+| 6-7 | 6 |
+| 8-9 | 8 |
+| 10 | 10 |
+| 11 | 12 |
+| 12 | 14 |
+| 13 | 16 |
+| 14 | 18 |
+| 15 | 20 |
+| 16 | 22 |
+| 17 | 24 |
+| 18 | 26 |
+| 19 | 28 |
+| 20 (Yggdrasil) | 30 |
 
 ---
 
@@ -57,7 +57,7 @@ Stand exactly where you want players to teleport. Consider:
 Example: `/warp set MyShop`
 
 {% hint style="info" %}
-**Your first warp is free!** Additional warps cost {{item:emerald:20}} each.
+**Your first warp is free!** Each warp after that costs more than the last — starting around {{item:emerald:24}} and climbing steeply as you approach your rank's limit.
 {% endhint %}
 
 ### Step 3: Customize (Optional)
@@ -115,10 +115,18 @@ When creating a warp, choose a category to help players find it:
 
 ## Warp Costs
 
-| Action | Cost |
+Your first warp is free. Every warp after that costs more emeralds than the one before it — cheap early on, but climbing quickly as you approach your rank's limit.
+
+| Warp # | Approximate Cost |
 |--------|------|
-| First warp | **Free** |
-| Additional warps | {{item:emerald:20}} each |
+| 1st | **Free** |
+| 2nd | {{item:emerald:24}} |
+| 5th | {{item:emerald:38}} |
+| 10th | {{item:emerald:85}} |
+| 15th | {{item:emerald:191}} |
+| 20th | {{item:emerald:428}} |
+| 25th | {{item:emerald:959}} |
+| 30th | {{item:emerald:2148}} |
 
 ---
 
@@ -191,8 +199,8 @@ Sponsored warps appear prominently in the warp browser, driving more visitors to
 - You need a higher rank for more warps
 - Rank up (or grab a Store Rank), or remove unused warps
 
-**"You need 20 emeralds"**
-- First warp is free; additional warps cost emeralds
+**"Insufficient funds to set warp"**
+- First warp is free; each one after costs more emeralds than the last
 - Sell items at spawn shops to earn emeralds
 
 **"A warp with that name already exists"**
