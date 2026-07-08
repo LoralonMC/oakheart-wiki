@@ -92,7 +92,7 @@ A complete reference of all player commands on Oakheart, organized by category.
 | `/warp icon` | Set warp icon | |
 | `/warp category` | Set warp category | |
 
-**Warp limits:** 0 → 15 warps by Rank 20
+**Warp limits:** 0 → 30 warps by Rank 20
 
 ---
 
