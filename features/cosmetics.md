@@ -49,7 +49,7 @@ Six oversized plushies available only from the Crystal Trader. The MEGA versions
 
 | MEGA Plushie | Price |
 |-------------|-------|
-| {{item:nm_plushie_enderdragon}} | {{item:crate_crystal:25}} |
+| {{item:nm_plushie_ender_dragon}} | {{item:crate_crystal:25}} |
 | {{item:nm_plushie_iron_golem}} | {{item:crate_crystal:25}} |
 | {{item:nm_plushie_ravager}} | {{item:crate_crystal:25}} |
 | {{item:nm_plushie_elder_guardian}} | {{item:crate_crystal:25}} |
