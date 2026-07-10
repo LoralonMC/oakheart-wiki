@@ -21,6 +21,11 @@ Certain mobs have a chance to drop a pet voucher when killed. Right-click the vo
 | {{item:slak_the_skeleton_voucher}} | Skeleton | 1 in 10,000 |
 | {{item:stikk_the_stray_voucher}} | Stray | 1 in 10,000 |
 | {{item:zekk_the_zombie_voucher}} | Zombie | 1 in 10,000 |
+| {{item:brilic_the_blaze_voucher}} | Blaze | 1 in 10,000 |
+| {{item:greta_the_ghast_voucher}} | Ghast | 1 in 10,000 |
+| {{item:pjanic_the_piglin_voucher}} | Piglin | 1 in 10,000 |
+| {{item:patka_the_piglin_brute_voucher}} | Piglin Brute | 1 in 10,000 |
+| {{item:wojslak_the_wither_skeleton_voucher}} | Wither Skeleton | 1 in 10,000 |
 
 ### Boss Pets
 
