@@ -8,10 +8,10 @@ Support the server and get instant access to perks with Store Ranks! Each rank g
 
 | Rank | Price | Equivalent Vote Rank | Pet |
 |------|-------|---------------------|-----|
-| **Hedgehog** | $10 | Rank 5 (Bud) | Hedgehog companion |
-| **Squirrel** | $25 | Rank 10 (Root) | Squirrel companion |
-| **Otter** | $50 | Rank 15 (Willow) | Otter companion |
-| **Owl** | $100 | Rank 20 (Yggdrasil) | Owl companion |
+| **Hedgehog** | $10 | Rank 5 (Brook) | Hedgehog companion |
+| **Squirrel** | $25 | Rank 10 (Hollow) | Squirrel companion |
+| **Otter** | $50 | Rank 15 (Mistwood) | Otter companion |
+| **Owl** | $100 | Rank 20 (Heartwood) | Owl companion |
 | **Phoenix** | $10/month | Standalone (cosmetic only) | Phoenix companion |
 
 {% hint style="info" %}
