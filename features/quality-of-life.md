@@ -206,7 +206,7 @@ Quickly teleport in the direction you're looking.
 /jump
 ```
 
-**Rank Required:** Rank 13 (Thicket)
+**Rank Required:** Rank 13 (Glade)
 
 Teleports you approximately 30 blocks in the direction you're looking. Useful for quickly crossing gaps or reaching distant ledges.
 
@@ -252,7 +252,7 @@ Control your personal day/night cycle without affecting other players.
 /ptime <time>
 ```
 
-**Rank Required:** Rank 17 (Oak)
+**Rank Required:** Rank 17 (Yewshade)
 
 ### Options
 
@@ -279,7 +279,7 @@ Access your ender chest from anywhere.
 /enderchest
 ```
 
-**Rank Required:** Rank 19 (Heartwood)
+**Rank Required:** Rank 19 (Gloaming)
 
 Aliases: `/ec`
 
@@ -295,7 +295,7 @@ Quickly convert items into their block form.
 /condense
 ```
 
-**Rank Required:** Rank 3 (Seedling)
+**Rank Required:** Rank 3 (Orchard)
 
 ### What It Does
 
@@ -318,7 +318,7 @@ Quickly destroy unwanted items.
 /dispose
 ```
 
-**Rank Required:** Rank 10 (Root) or Squirrel Store Rank+
+**Rank Required:** Rank 10 (Hollow) or Squirrel Store Rank+
 
 Opens a virtual trash can. Any items placed inside are permanently destroyed when you close it.
 
@@ -334,7 +334,7 @@ Opens a virtual trash can. Any items placed inside are permanently destroyed whe
 /heads
 ```
 
-**Rank Required:** Rank 7 (Leaf)
+**Rank Required:** Rank 7 (Bracken)
 
 Opens a menu with hundreds of decorative head designs for building. Great for custom furniture, signs, and decoration details.
 
@@ -350,7 +350,7 @@ Customize armor stands with poses and settings.
 /armorstand
 ```
 
-**Rank Required:** Rank 9 (Branch)
+**Rank Required:** Rank 9 (Fernbrake)
 
 ### Features
 
