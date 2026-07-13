@@ -96,11 +96,11 @@ Homes let you quickly teleport back to your favorite locations.
 
 ### Home Limits
 
-You start with **1 home** at the default rank (Acorn). As you rank up through voting or purchasing store ranks, you unlock more:
+You start with **1 home** at the default rank (Meadow). As you rank up through voting or purchasing store ranks, you unlock more:
 
-- **Rank 1 (Acorn):** 1 home
-- **Rank 10 (Root):** 10 homes
-- **Rank 20 (Yggdrasil):** 15 homes
+- **Rank 1 (Meadow):** 1 home
+- **Rank 10 (Hollow):** 10 homes
+- **Rank 20 (Heartwood):** 15 homes
 
 ---
 
@@ -209,7 +209,7 @@ Now that you're set up, here are some goals to work toward:
 - [ ] Gather in the resource worlds (`/rw`) — they reset weekly, so mine there and build at home
 - [ ] Claim all 8 of your starting chunks
 - [ ] Vote every day for a week (35 rewards!)
-- [ ] Reach Vote Rank 2 (Sprout) — only 5 votes needed
+- [ ] Reach Vote Rank 2 (Garden) — only 5 votes needed
 - [ ] Create your first player shop
 - [ ] Set a warp to share your base with others
 
