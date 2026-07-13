@@ -19,7 +19,7 @@ Click any rank to see its perks, commands, and rewards. Diamond markers show Sto
 
 ## Prestige
 
-Reached Rank 20? You can **prestige** — reset your rank display back to Acorn, earn a prestige star (⭐) before your name, and keep all your perks. Each prestige grants bonus rewards and a server-wide announcement.
+Reached Rank 20? You can **prestige** — reset your rank display back to Meadow, earn a prestige star (⭐) before your name, and keep all your perks. Each prestige grants bonus rewards and a server-wide announcement.
 
 [Learn more about Prestige →](prestige.md)
 
