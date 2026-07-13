@@ -10,7 +10,7 @@ Player warps let you create teleport points that other players can use to visit 
 
 ## Requirements
 
-**Minimum Rank:** Vote Rank 2 (Sprout) or any Store Rank
+**Minimum Rank:** Vote Rank 2 (Garden) or any Store Rank
 
 You must reach at least Rank 2 to create warps. This requires just **5 votes**â€”achievable on your first day!
 
@@ -20,7 +20,7 @@ You must reach at least Rank 2 to create warps. This requires just **5 votes**â€
 
 | Rank | Warps Allowed |
 |------|---------------|
-| 1 (Acorn) | 0 |
+| 1 (Meadow) | 0 |
 | 2 | 2 |
 | 3 | 3 |
 | 4 | 4 |
@@ -39,7 +39,7 @@ You must reach at least Rank 2 to create warps. This requires just **5 votes**â€
 | 17 | 24 |
 | 18 | 26 |
 | 19 | 28 |
-| 20 (Yggdrasil) | 30 |
+| 20 (Heartwood) | 30 |
 
 ---
 
