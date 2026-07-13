@@ -27,26 +27,26 @@ Voting on all 5 sites daily = 5 Vote Points per day. Rank 20 requires 1,000 vote
 
 | Rank | Name | Total Votes | Days (5/day) |
 |------|------|-------------|--------------|
-| 1 | Acorn | 0 | 0 |
-| 2 | Sprout | 5 | 1 |
-| 3 | Seedling | 10 | 2 |
-| 4 | Sapling | 20 | 4 |
-| 5 | Bud | 30 | 6 |
-| 6 | Bloom | 40 | 8 |
-| 7 | Leaf | 60 | 12 |
-| 8 | Twig | 80 | 16 |
-| 9 | Branch | 100 | 20 |
-| 10 | Root | 140 | 28 |
-| 11 | Fern | 190 | 38 |
-| 12 | Moss | 250 | 50 |
-| 13 | Thicket | 320 | 64 |
-| 14 | Grove | 400 | 80 |
-| 15 | Willow | 490 | 98 |
-| 16 | Maple | 590 | 118 |
-| 17 | Oak | 690 | 138 |
+| 1 | Meadow | 0 | 0 |
+| 2 | Garden | 5 | 1 |
+| 3 | Orchard | 10 | 2 |
+| 4 | Hedgerow | 20 | 4 |
+| 5 | Brook | 30 | 6 |
+| 6 | Bramble | 40 | 8 |
+| 7 | Bracken | 60 | 12 |
+| 8 | Birchwood | 80 | 16 |
+| 9 | Fernbrake | 100 | 20 |
+| 10 | Hollow | 140 | 28 |
+| 11 | Glen | 190 | 38 |
+| 12 | Thicket | 250 | 50 |
+| 13 | Glade | 320 | 64 |
+| 14 | Willowmere | 400 | 80 |
+| 15 | Mistwood | 490 | 98 |
+| 16 | Briar | 590 | 118 |
+| 17 | Yewshade | 690 | 138 |
 | 18 | Elderwood | 790 | 158 |
-| 19 | Heartwood | 890 | 178 |
-| 20 | Yggdrasil | 1000 | 200 |
+| 19 | Gloaming | 890 | 178 |
+| 20 | Heartwood | 1000 | 200 |
 
 ---
 
