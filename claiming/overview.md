@@ -54,10 +54,10 @@ Milestone vote ranks give bonus claim chunks on rank-up:
 
 | Rank | Bonus Chunks |
 |------|--------------|
-| Rank 5 (Bud) | +2 |
-| Rank 10 (Root) | +4 |
-| Rank 15 (Willow) | +6 |
-| Rank 20 (Yggdrasil) | +8 |
+| Rank 5 (Brook) | +2 |
+| Rank 10 (Hollow) | +4 |
+| Rank 15 (Mistwood) | +6 |
+| Rank 20 (Heartwood) | +8 |
 
 **Total from ranking to 20:** 20 bonus claim chunks!
 
