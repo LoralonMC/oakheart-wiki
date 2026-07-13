@@ -61,8 +61,8 @@ Your maximum number of shops increases as you rank up:
 
 | Rank | Shops |
 |------|-------|
-| 1 (Acorn) | 0 |
-| 2 (Sprout) | 2 |
+| 1 (Meadow) | 0 |
+| 2 (Garden) | 2 |
 | 3-10 | Matches rank (3-10) |
 | 11 | 12 |
 | 12 | 14 |
@@ -73,7 +73,7 @@ Your maximum number of shops increases as you rank up:
 | 17 | 24 |
 | 18 | 26 |
 | 19 | 28 |
-| 20 (Yggdrasil) | 30 |
+| 20 (Heartwood) | 30 |
 
 **Store Ranks** match their equivalent vote rank: Hedgehog = 5 shops, Squirrel = 10 shops, Otter = 20 shops, Owl = 30 shops.
 
