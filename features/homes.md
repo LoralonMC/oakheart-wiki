@@ -38,7 +38,7 @@ Opens a GUI showing all your saved homes.
 
 | Rank | Homes Allowed |
 |------|---------------|
-| 1 (Acorn) | 1 |
+| 1 (Meadow) | 1 |
 | 2 | 2 |
 | 3 | 3 |
 | 4 | 4 |
@@ -52,7 +52,7 @@ Opens a GUI showing all your saved homes.
 | 14-15 | 12 |
 | 16-17 | 13 |
 | 18-19 | 14 |
-| 20 (Yggdrasil) | 15 |
+| 20 (Heartwood) | 15 |
 
 **Store Ranks** give the same limits as their equivalent vote rank.
 
@@ -107,7 +107,7 @@ Use `/homes` to open a visual menu showing all your saved homes.
 
 ### Home Icons (Rank 10+)
 
-At Vote Rank 10 (Root) or Store Rank Squirrel+, you can set custom icons for your homes in the GUI:
+At Vote Rank 10 (Hollow) or Store Rank Squirrel+, you can set custom icons for your homes in the GUI:
 
 1. Open `/homes`
 2. Right-click a home
