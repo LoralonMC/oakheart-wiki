@@ -1,13 +1,13 @@
 # Prestige System
 
-The Prestige System is a **cosmetic endgame progression** for players who have reached Vote Rank 20 (Yggdrasil). It allows dedicated voters to showcase their commitment to Oakheart with prestige stars.
+The Prestige System is a **cosmetic endgame progression** for players who have reached Vote Rank 20 (Heartwood). It allows dedicated voters to showcase their commitment to Oakheart with prestige stars.
 
 ---
 
 ## What is Prestige?
 
 When you prestige:
-- Your rank display resets to "Acorn" visually
+- Your rank display resets to "Meadow" visually
 - You gain a **prestige star** (⭐) before your name
 - You **keep ALL perks** (15 homes, 30 warps, 30 shops, all commands)
 - You receive generous rewards
@@ -18,7 +18,7 @@ When you prestige:
 ## Requirements
 
 To prestige, you must:
-- Be **Vote Rank 20** (Yggdrasil)
+- Be **Vote Rank 20** (Heartwood)
 - Have **1000+ total votes**
 
 Use `/prestige` to begin.
@@ -29,19 +29,19 @@ Use `/prestige` to begin.
 
 ### Before Prestige
 ```
-ʏɢɢᴅʀᴀꜱɪʟ PlayerName
+ʜᴇᴀʀᴛᴡᴏᴏᴅ PlayerName
 ```
 
 ### After First Prestige
 ```
-⭐ ᴀᴄᴏʀɴ PlayerName
+⭐ ᴍᴇᴀᴅᴏᴡ PlayerName
 ```
 
 ### After Multiple Prestiges
 ```
-⭐⭐⭐ ᴏᴀᴋ PlayerName        (Prestige 3, voted 690 times since last prestige)
-⭐⭐⭐⭐⭐ ʏɢɢᴅʀᴀꜱɪʟ PlayerName  (Prestige 5, reached Rank 20 again)
-⭐×10 ʙʀᴀɴᴄʜ PlayerName      (Prestige 10, voted 100 times since last prestige)
+⭐⭐⭐ ʏᴇᴡꜱʜᴀᴅᴇ PlayerName        (Prestige 3, voted 690 times since last prestige)
+⭐⭐⭐⭐⭐ ʜᴇᴀʀᴛᴡᴏᴏᴅ PlayerName  (Prestige 5, reached Rank 20 again)
+⭐×10 ꜰᴇʀɴʙʀᴀᴋᴇ PlayerName      (Prestige 10, voted 100 times since last prestige)
 ```
 
 ---
