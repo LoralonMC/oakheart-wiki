@@ -48,7 +48,7 @@ Vote on all 5 voting sites daily (`/vote`). Each vote gives 1 Vote Point toward 
 
 **Q: How long to reach max rank?**
 
-Rank 20 (Yggdrasil) requires 1,000 votes = ~200 days of consistent voting.
+Rank 20 (Heartwood) requires 1,000 votes = ~200 days of consistent voting.
 
 **Q: What do ranks give me?**
 
@@ -80,7 +80,7 @@ Yes! Use `/claimchunk` while standing in your land to withdraw an unused chunk b
 
 **Q: What happens after I reach Rank 20?**
 
-You can **prestige** — reset your rank display back to Acorn, earn a prestige star before your name, and keep all your perks. Each prestige grants bonus rewards including emeralds, crate keys, and claim chunks. See [Prestige](../ranks/prestige.md).
+You can **prestige** — reset your rank display back to Meadow, earn a prestige star before your name, and keep all your perks. Each prestige grants bonus rewards including emeralds, crate keys, and claim chunks. See [Prestige](../ranks/prestige.md).
 
 **Q: How do I upgrade my gear?**
 
