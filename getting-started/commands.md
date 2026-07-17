@@ -151,6 +151,7 @@ These commands unlock as you rank up through voting or store ranks.
 | `/crawl` | Fun emote | 15 |
 | `/anvil` | Open anvil | 16 |
 | `/ptime` | Set personal time | 17 |
+| `/pweather` | Set personal weather | 17 |
 | `/smithingtable` | Open smithing table | 18 |
 | `/enderchest` | Access ender chest | 19 |
 | `/heal` | Full health restore | 20 |
