@@ -80,6 +80,7 @@ Everything from Squirrel, plus Vote Ranks 11-15 commands:
 Everything from Otter, plus Vote Ranks 16-20 commands:
 - `/anvil` — Open anvil anywhere
 - `/ptime` — Set personal time
+- `/pweather` — Set personal weather
 - `/smithingtable` — Open smithing table anywhere
 - `/enderchest` — Access ender chest remotely
 - `/heal` — Full health restore
