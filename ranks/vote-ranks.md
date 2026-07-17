@@ -70,7 +70,7 @@ Voting on all 5 sites daily = 5 Vote Points per day. Rank 20 requires 1,000 vote
 | 14 | 12 | 18 | 18 | `/grindstone` |
 | 15 | 12 | 20 | 20 | `/crawl` |
 | 16 | 13 | 22 | 22 | `/anvil` |
-| 17 | 13 | 24 | 24 | `/ptime` |
+| 17 | 13 | 24 | 24 | `/ptime`, `/pweather` |
 | 18 | 14 | 26 | 26 | `/smithingtable` |
 | 19 | 14 | 28 | 28 | `/enderchest` |
 | 20 | 15 | 30 | 30 | `/heal`, prestige eligible |
@@ -117,7 +117,7 @@ You receive rewards every time you rank up:
 | **Rank 5** | Fun social command (`/sit`) |
 | **Rank 6** | First Random Crate Key! |
 | **Rank 10** | `/dispose`, customize home icons, 10 homes, major emerald reward |
-| **Rank 17** | `/ptime` — control your personal time |
+| **Rank 17** | `/ptime` + `/pweather` — control your personal time and weather |
 | **Rank 20** | `/heal`, prestige eligibility, 15 homes, 30 warps, 30 shops! |
 
 ---
@@ -144,6 +144,7 @@ You receive rewards every time you rank up:
 | `/crawl` | Fun crawl emote |
 | `/anvil` | Open anvil anywhere |
 | `/ptime` | Set personal time (day/night for your view only) |
+| `/pweather` | Set personal weather (clear/rain for your view only) |
 | `/smithingtable` | Open smithing table anywhere |
 | `/enderchest` | Access your ender chest remotely |
 | `/heal` | Fully restore your health |
