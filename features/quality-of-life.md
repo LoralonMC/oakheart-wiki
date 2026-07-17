@@ -232,7 +232,7 @@ Access crafting interfaces anywhere without placing blocks.
 
 | Command | Description | Rank Required |
 |---------|-------------|---------------|
-| `/craft` | Open crafting table | Rank 8 |
+| `/craft` | Open crafting table (aliases: `/wb`, `/workbench`) | Rank 8 |
 | `/loom` | Open loom | Rank 7 |
 | `/stonecutter` | Open stonecutter | Rank 12 |
 | `/grindstone` | Open grindstone | Rank 14 |
@@ -265,6 +265,32 @@ Control your personal day/night cycle without affecting other players.
 
 {% hint style="info" %}
 This only changes what *you* see. Other players and mob spawning follow server time.
+{% endhint %}
+
+---
+
+## Personal Weather
+
+Control your personal weather without affecting other players.
+
+### Command
+
+```
+/pweather <type>
+```
+
+**Rank Required:** Rank 17 (Yewshade)
+
+### Options
+
+| Value | Effect |
+|-------|--------|
+| `sun` | Always clear skies for you |
+| `rain` | Always raining for you |
+| `reset` | Return to server weather |
+
+{% hint style="info" %}
+This only changes what *you* see. Other players and weather mechanics follow server weather.
 {% endhint %}
 
 ---
@@ -319,6 +345,8 @@ Quickly destroy unwanted items.
 ```
 
 **Rank Required:** Rank 10 (Hollow) or Squirrel Store Rank+
+
+Aliases: `/trash`
 
 Opens a virtual trash can. Any items placed inside are permanently destroyed when you close it.
 
