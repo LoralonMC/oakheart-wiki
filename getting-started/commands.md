@@ -140,10 +140,10 @@ These commands unlock as you rank up through voting or store ranks.
 | `/feed` | Restore hunger | 6 |
 | `/loom` | Open loom anywhere | 7 |
 | `/heads` | Decorative head menu | 7 |
-| `/craft` | Open crafting table | 8 |
+| `/craft` | Open crafting table (also `/wb`, `/workbench`) | 8 |
 | `/near` | See nearby players | 9 |
 | `/armorstand` | Armor stand editor | 9 |
-| `/dispose` | Trash items | 10 |
+| `/dispose` | Trash items (also `/trash`) | 10 |
 | `/bellyflop` | Fun emote | 11 |
 | `/stonecutter` | Open stonecutter | 12 |
 | `/jump` | Jump to target block (up to 30 blocks) | 13 |
