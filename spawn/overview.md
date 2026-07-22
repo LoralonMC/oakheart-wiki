@@ -9,6 +9,7 @@ Welcome to Oakheart — a medieval cottagecore village hidden in the heart of an
 Spawn is a cozy village built in a forest clearing, centered around a massive oak tree. Everything you need is within walking distance:
 
 - **5 Marketplace Shops** — Sell items for emeralds
+- **Village Quest Board** — Daily and weekly requests from the villagers
 - **Hammerhand's Forge** — Custom gear upgrades
 - **Crates Pavilion** — Open Vote and Paid crates
 - **Community Services** — Warps, land registry, and more
@@ -21,6 +22,7 @@ Spawn is a cozy village built in a forest clearing, centered around a massive oa
 
 - **Great Oak Tree** — Spawn point and village centerpiece
 - **Village Square** — Open gathering area
+- **Village Quest Board** — Take on daily and weekly [quests](../features/quests.md)
 - **Ancient Stone Circle** — Portal to the survival world (`/wild`)
 
 ### Marketplace
@@ -75,6 +77,7 @@ From spawn, walk to the **Ancient Stone Circle** and step through to teleport to
 
 ## Related Pages
 
+- [Quests](../features/quests.md)
 - [NPC Directory](npcs.md)
 - [Spawn Shops](../economy/spawn-shops.md)
 - [Smith Overview](../smith/overview.md)
