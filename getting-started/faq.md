@@ -18,6 +18,10 @@ You start with 4 chunks and earn +1 per hour for your first 4 hours = 8 free chu
 
 Emeralds. Earn them by selling items at the 5 spawn shops (Miner, Farmer, Lumberjack, Alchemist, Fisherman).
 
+**Q: What is the Village Quest Board?**
+
+The villagers at spawn post daily and weekly requests — gather crops, mine ore, catch fish, and the like. Take up to 3 daily requests and 1 weekly village project from the board, complete them, then hand in with the villager who posted it. They pay emeralds, experience, and Bounty Satchels (clear all 3 dailies for a bonus Gilded Satchel). See [Quests](../features/quests.md).
+
 ---
 
 ## Economy
