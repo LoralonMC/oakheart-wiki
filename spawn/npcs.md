@@ -2,6 +2,10 @@
 
 Meet the residents of Oakheart village! Each NPC has a unique personality and purpose.
 
+{% hint style="info" %}
+Many of the villagers below also post daily and weekly requests on the **[Village Quest Board](../features/quests.md)**. Look for the ✦ note under each one.
+{% endhint %}
+
 ---
 
 ## Core NPCs
@@ -12,6 +16,8 @@ Meet the residents of Oakheart village! Each NPC has a unique personality and pu
 *"Welcome to Oakheart, young traveler. Let me tell you about our customs..."*
 
 Greets new arrivals and explains the village's ways.
+
+*✦ Posts the weekly [village projects](../features/quests.md) — big, multi-part community efforts.*
 
 ---
 
@@ -41,6 +47,8 @@ Trade {{item:crate_crystal}} for guaranteed rewards.
 
 Buys logs of every variant, charcoal (smelted wood), sticks, apples, and bee nests harvested with Silk Touch.
 
+*✦ Posts requests on the [Village Quest Board](../features/quests.md) — logs of every kind.*
+
 ---
 
 ### Seedsower the Farmer
@@ -48,6 +56,8 @@ Buys logs of every variant, charcoal (smelted wood), sticks, apples, and bee nes
 *"These carrots grew in the finest soil Oakheart has to offer!"*
 
 Buys crops, food, and farming items.
+
+*✦ Posts requests on the [Village Quest Board](../features/quests.md) — crops, livestock, and shearing.*
 
 ---
 
@@ -57,6 +67,8 @@ Buys crops, food, and farming items.
 
 Buys ores, stone, gems, and mining materials.
 
+*✦ Posts requests on the [Village Quest Board](../features/quests.md) — ore and stone from the deep.*
+
 ---
 
 ### Moonwhisper the Alchemist
@@ -65,6 +77,8 @@ Buys ores, stone, gems, and mining materials.
 
 Buys brewing ingredients, mob drops, and rare materials.
 
+*✦ Posts requests on the [Village Quest Board](../features/quests.md) — reagents, rare essences, and far-off biomes.*
+
 ---
 
 ### Tidecaller the Fisherman
@@ -72,6 +86,8 @@ Buys brewing ingredients, mob drops, and rare materials.
 *"Fresh catch today! The ocean provides, as always."*
 
 Buys fish, kelp, and ocean treasures.
+
+*✦ Posts requests on the [Village Quest Board](../features/quests.md) — the day's catch.*
 
 ---
 
@@ -83,6 +99,8 @@ Buys fish, kelp, and ocean treasures.
 *"Aye, need something forged? Bring me the real materials and I'll make you something proper."*
 
 Creates Reforged gear, {{item:hardened_netherite_ingot}}, and Hardened gear.
+
+*✦ Posts requests on the [Village Quest Board](../features/quests.md) — smelted ingots, glass, charcoal.*
 
 ---
 
@@ -103,6 +121,8 @@ Helps with player warps and navigation. Stationed at the gateway to the wilds.
 *"Every plot must be properly registered, for order brings peace."*
 
 Sells claim chunks and Shopkeeper Spawn Eggs. Your one-stop NPC for establishing your presence on the server.
+
+*✦ Posts requests on the [Village Quest Board](../features/quests.md) — paper, books, and surveyed lands.*
 
 ---
 
@@ -133,6 +153,8 @@ Fashionable NPC with an eye for style. Dramatic personality who treats fashion a
 
 Sells novelty plushies ({{item:emerald:40}} each) plus figures, adorables, and card boosters. Browse 197 plushies across 17 themed collections, rotating monthly.
 
+*✦ Posts requests on the [Village Quest Board](../features/quests.md) — odds and ends for his toys.*
+
 ---
 
 ## Atmospheric NPCs
@@ -150,6 +172,8 @@ Tends the village gardens. No dedicated building—she roams between flower beds
 *"Come in, come in! There's always room for one more!"*
 
 Knows all the village gossip. Runs the Inn/Tavern.
+
+*✦ Posts requests on the [Village Quest Board](../features/quests.md) — cooked food and cellar stock.*
 
 ---
 
@@ -171,6 +195,7 @@ Changes appearance with each season and holiday.
 
 ## Related Pages
 
+- [Quests](../features/quests.md)
 - [Spawn Overview](overview.md)
 - [Spawn Shops](../economy/spawn-shops.md)
 - [Smith Overview](../smith/overview.md)
