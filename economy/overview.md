@@ -38,6 +38,10 @@ Each shop has **per-player daily limits** to control emerald generation. Limits 
 
 For full trade tables showing every item, price, and daily limit, see the [Spawn Shops](spawn-shops.md) page.
 
+### Quests
+
+The [Village Quest Board](../features/quests.md) is a second, steadier trickle of emeralds. Each daily request the villagers post pays a handful of emeralds (plus experience and a Bounty Satchel), and the weekly village project pays more. It's a modest supplement to shop income, not a replacement — but it rewards a bit of variety in how you play.
+
 ---
 
 ## Daily Income Summary
@@ -51,7 +55,10 @@ For full trade tables showing every item, price, and daily limit, see the [Spawn
 | Lumberjack | 67 |
 | **Shop Total** | **514** |
 | Raids (1/day) | 25-35 |
-| **Grand Total** | **~539-549** |
+| Quests (3 dailies) | 9-18 |
+| **Grand Total** | **~548-567** |
+
+*Plus the weekly village project (~30 emeralds), once a week.*
 
 {% hint style="warning" %}
 **Note:** This is the theoretical maximum if you max every single trade. Most players will earn less based on their playstyle and focus.
