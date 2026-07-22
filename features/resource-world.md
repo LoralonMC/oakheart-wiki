@@ -46,8 +46,9 @@ A staggered unlock gives players time to settle into the Overworld and Nether ec
 | Command | Destination |
 |---------|-------------|
 | `/rw` | Overworld Resource World (safe random teleport) |
+| `/rw nether` (or `/rwn`) | Nether Resource World (random teleport) |
 
-To reach the **Resource Nether** or **Resource End**, build a nether portal (or use a stronghold end portal) *inside* the resource overworld — portals there route between the resource dimensions, never the main worlds.
+To reach the **Resource End**, use a stronghold end portal *inside* the resource overworld — portals there route between the resource dimensions, never the main worlds. Nether portals work the same way if you'd rather walk through than teleport.
 
 ### Returning
 
@@ -59,7 +60,7 @@ Returns you to Oakheart village. You can also use `/home` if you have homes set 
 
 ### Dying in a Resource World
 
-Resource Worlds have **Keep Inventory enabled** — if you die there, you keep all your items and just respawn. No need to risk your gear when mining. The main survival worlds work normally (death = drop items).
+Deaths in Resource Worlds normally work like the main survival worlds (death = drop items). The exception: during the **final 30 minutes before the weekly reset**, Keep Inventory switches on, so a last-minute mining run won't cost you your gear. The world warns you as a reset draws near.
 
 ---
 
