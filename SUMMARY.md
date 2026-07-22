@@ -52,6 +52,7 @@
 
 ## Features
 
+* [Quests](features/quests.md)
 * [Player Warps](features/player-warps.md)
 * [Homes](features/homes.md)
 * [Tools](features/tools.md)
