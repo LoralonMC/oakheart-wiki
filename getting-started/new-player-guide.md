@@ -120,6 +120,8 @@ Emeralds are Oakheart's currency. The primary way to earn them is by selling ite
 
 Each shop has **daily trade limits** per player—this keeps the economy balanced. Limits reset daily.
 
+You can also earn emeralds from **[quests](../features/quests.md)**: the villagers post daily and weekly requests on the Village Quest Board, each paying emeralds, experience, and a Bounty Satchel of surprises.
+
 ### Spending Emeralds
 
 - **Set player warps** (each one after the first costs more than the last, from {{item:emerald:24}} up)
@@ -206,6 +208,7 @@ HELP
 Now that you're set up, here are some goals to work toward:
 
 - [ ] Build your first base
+- [ ] Take on a request from the [Village Quest Board](../features/quests.md) at spawn
 - [ ] Gather in the resource worlds (`/rw`) — they reset weekly, so mine there and build at home
 - [ ] Claim all 8 of your starting chunks
 - [ ] Vote every day for a week (35 rewards!)
