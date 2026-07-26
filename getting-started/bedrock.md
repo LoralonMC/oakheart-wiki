@@ -11,7 +11,7 @@ In your Minecraft Bedrock client, add a new server:
 | Field | Value |
 |-------|-------|
 | Server Name | Oakheart |
-| Server Address | `play.oakheart.net` |
+| Server Address | `{{server_ip}}` |
 | Port | `19132` |
 
 That's it — connect and you'll join the same world as Java players.
