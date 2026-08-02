@@ -91,13 +91,18 @@ Everything from Otter, plus Vote Ranks 16-20 commands:
 ### Phoenix (Subscription)
 
 {% hint style="info" %}
-**Phoenix** is a standalone cosmetic subscription — no other rank required. It provides no gameplay perks (homes, warps, shops, commands). Those come from your vote rank or one-time store rank.
+**Phoenix** is a standalone cosmetic subscription — no other rank required. It provides no gameplay perks (homes, warps, shops, tier commands). Those come from your vote rank or one-time store rank. Its three commands change how you look, nothing else.
 {% endhint %}
 
 - {{item:phoenix_chat_tag}} — Show your dedication in chat
 - **Phoenix pet** — Legendary companion follows you around
 - **Phoenix join/leave message** — Unique entrance and exit messages
+- `/hat` — Wear the item you're holding on your head. Any item, not just helmets.
+- `/nick` — Set a nickname. Shows in chat and the player list.
+- `/spin` — Fun emote
 - **Future cosmetic additions** — More cosmetics to come!
+
+**About `/nick`:** 4-16 characters, letters and numbers only (plus `-` and `_`), no colours. You can't take a nickname that matches another player's real username, and hovering your name in chat always shows your real one. `/nick off` puts it back. Your nickname is yours while you're subscribed.
 
 ---
 
