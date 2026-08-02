@@ -158,6 +158,18 @@ These commands unlock as you rank up through voting or store ranks.
 
 ---
 
+## Phoenix Commands (Subscription)
+
+Cosmetic only, and not part of the rank ladder — these come with the [Phoenix subscription](../ranks/store-ranks.md) and stack on top of whatever rank you already have.
+
+| Command | Description |
+|---------|-------------|
+| `/hat` | Wear the held item on your head (any item, not just helmets) |
+| `/nick` | Set a nickname — shows in chat and the player list (`/nick off` to clear) |
+| `/spin` | Fun emote |
+
+---
+
 ## Voting & Ranks
 
 | Command | Description |
