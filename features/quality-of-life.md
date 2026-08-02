@@ -193,6 +193,7 @@ You can also right-click on **stairs and slabs** to sit on them automatically.
 | Command | Description | Rank Required |
 |---------|-------------|---------------|
 | `/bellyflop` | Bellyflop onto the ground | Rank 11 |
+| `/spin` | Spin on the spot | Phoenix |
 
 ---
 
