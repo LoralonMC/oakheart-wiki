@@ -168,6 +168,8 @@ Cosmetic only, and not part of the rank ladder — these come with the [Phoenix 
 | `/nick` | Set a nickname — shows in chat and the player list (`/nick off` to clear) |
 | `/spin` | Fun emote |
 
+A nickname is a costume, not a disguise. Your real username stays on your nameplate above your head, and anyone can look it up with `/realname`.
+
 ---
 
 ## Voting & Ranks
