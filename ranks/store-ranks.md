@@ -102,7 +102,7 @@ Everything from Otter, plus Vote Ranks 16-20 commands:
 - `/spin` — Fun emote
 - **Future cosmetic additions** — More cosmetics to come!
 
-**About `/nick`:** 4-16 characters, letters and numbers only (plus `-` and `_`), no colours. You can't take a nickname that matches another player's real username, and hovering your name in chat always shows your real one. `/nick off` puts it back. Your nickname is yours while you're subscribed.
+**About `/nick`:** 4-16 characters, letters and numbers only (plus `-` and `_`), no colours. You can't take a nickname that matches another player's real username, and your real one is never hidden: it shows on hover in chat, on your nameplate above your head, and to anyone who runs `/realname`. `/nick off` puts it back. Your nickname is yours while you're subscribed.
 
 ---
 
