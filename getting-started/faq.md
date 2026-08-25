@@ -78,6 +78,10 @@ Yes, claims protect from bedrock to sky limit (full vertical chunk).
 
 You can get more {{item:claim_chunk}} from voting, crates, purchasing from Quillfeather the Scribe for emeralds, or trading with other players.
 
+**Q: Why does claiming in someone else's land use up my chunks?**
+
+Your claim limit is **personal**, not per land. It counts every chunk you claim yourself, in any land, including your friends' lands. If you help build somewhere else, those chunks come out of your allowance and stay tied up while they're claimed. Ask the land owner to claim instead, or have them unclaim yours to give the allowance straight back.
+
 **Q: Can I withdraw claim chunks I've added?**
 
 Yes! Use `/claimchunk` while standing in your land to withdraw an unused chunk back into a physical item (minimum 4 chunks must remain).
@@ -101,6 +105,10 @@ PvP is opt-in only. Use `/pvp` to toggle it. Both players must have PvP enabled 
 **Q: Can mobs spawn in my claim?**
 
 Yes, claims don't affect mob spawning. Use torches/lighting to prevent spawns.
+
+**Q: Are there entity or block limits?**
+
+No mob culling, and no limit on how many animals you can keep. There are per-chunk caps on hoppers (128), beds (64), and other block entities (256), plus a slightly reduced hostile mob cap that works per player. See [Server Limits](../community/server-limits.md).
 
 **Q: What mods are allowed?**
 
