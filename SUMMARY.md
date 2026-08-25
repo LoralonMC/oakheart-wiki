@@ -66,6 +66,7 @@
 ## Community
 
 * [Server Rules (Full)](rules.md)
+* [Server Limits](community/server-limits.md)
 * [Discord](community/discord.md)
 
 ## NPCs & Spawn
