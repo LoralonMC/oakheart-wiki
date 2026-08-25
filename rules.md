@@ -199,8 +199,8 @@ Warning → Mute (increasing duration) → Temp ban
 
 ### Don't
 - Build lag machines intentionally
-- Create massive entity farms
-- Use excessive hoppers or redstone clocks
+- Build farms you leave running unattended
+- Exceed the per-chunk block limits (see [Server Limits](community/server-limits.md))
 - Build auto-clickers or macro farms
 
 ### Consequences
