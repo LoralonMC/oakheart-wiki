@@ -91,7 +91,7 @@ All Hardened items are **Unbreakable** (never lose durability) and have maximum 
 | {{item:hardened_fishing_rod}} | Luck of the Sea VIII, Lure IV |
 
 {% hint style="info" %}
-**Tool Choices:** When crafting Hardened Axe, Pickaxe, or Shovel, you can choose between Fortune V or Silk Touch variants. Same recipe cost for both options!
+**Tool Choices:** When forging a Hardened Axe, Pickaxe, or Shovel, you choose between Fortune V and Silk Touch. The choice is made at the bench, on the recipe itself, and both options cost the same.
 - **Axe:** Fortune for saplings/sticks or Silk Touch for bookshelves/logs
 - **Pickaxe:** Fortune for ores or Silk Touch for building materials
 - **Shovel:** Fortune for extra flint or Silk Touch for grass blocks/snow
