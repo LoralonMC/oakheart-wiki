@@ -23,9 +23,25 @@ Oakheart features a custom gear progression system that extends beyond vanilla N
 
 ---
 
+## At the Forge Bench
+
+Everything Hammerhand makes is forged at his bench. Open the tier you want, pick a recipe, and the bench lays out one well per material.
+
+- **The wells behave like chest slots.** Place items, shift-click them in, drag across several wells, split a stack, or take something back out.
+- **Empty wells show what they want.** Each one displays a faded preview of the material and how many are needed. The preview is not a real item, so there is nothing there to take.
+- **The output well shows exactly what you will receive**, rebuilt every time you change a well, so you can see the finished item before you spend anything.
+- **Fill From Inventory** pulls what is missing out of your pack and tops up wells that are only part full.
+- **Nothing is lost if you walk away.** Close the bench and every material returns to your inventory. If the server goes down mid-forge, your materials come back the next time you log in.
+
+{% hint style="success" %}
+**Your enchantments come with you.** Enchantments, armour trim and wraps on the item you bring are carried onto the forged result. Combinations that make no sense are dropped rather than produced: Smite gives way to Sharpness, Fortune gives way to Silk Touch, curses are never inherited, and Mending and Unbreaking are dropped on Hardened gear because it is already unbreakable.
+{% endhint %}
+
+---
+
 ## Hardened Ingots
 
-Before crafting Hardened gear, you must create **Hardened Ingots**—special alloys crafted at Hammerhand's second shop.
+Before crafting Hardened gear, you must create **Hardened Ingots**, special alloys forged at Hammerhand's bench.
 
 ```smithIngots
 ```
@@ -35,7 +51,7 @@ Before crafting Hardened gear, you must create **Hardened Ingots**—special all
 {% endhint %}
 
 {% hint style="warning" %}
-**Variant Choices:** When crafting Hardened Axe, Pickaxe, or Shovel, you choose between Fortune V OR Silk Touch variants. When crafting a Hardened Trident, you choose between Loyalty (ranged + Channeling) OR Riptide (mobility). Both variants cost the same — pick based on your needs!
+**Variant Choices:** When forging a Hardened Axe, Pickaxe, or Shovel, you choose between Fortune V and Silk Touch. When forging a Hardened Trident, you choose between Loyalty (ranged, with Channeling) and Riptide (mobility). The choice is made at the bench, and both variants cost the same, so pick based on your needs.
 {% endhint %}
 
 ---
