@@ -1,6 +1,6 @@
 # Hardened Ingots
 
-Hardened Ingots are special alloy materials needed to upgrade Reforged gear into Hardened gear. Craft them at **Hammerhand the Smith** at spawn.
+Hardened Ingots are special alloy materials needed to upgrade Reforged gear into Hardened gear. Forge them at **Hammerhand the Smith** at spawn.
 
 ---
 
@@ -53,15 +53,17 @@ Hardened Ingots are crafting materials made from massive amounts of blocks and r
 
 ---
 
-## How to Craft
+## How to Forge
 
 1. Visit **Hammerhand the Smith** at spawn
-2. Select **Hardened Ingots** from the menu
-3. Click on the ingot you want to craft
-4. Materials are consumed and the ingot is given to you
+2. Open **Hardened Ingots** and pick the ingot you want
+3. Fill the wells with the materials shown, by hand or with **Fill From Inventory**
+4. Take the finished ingot out of the output well
+
+The bench shows a faded preview of what each well wants, so you can see what is missing at a glance. Close it at any point and your materials come straight back. See [At the Forge Bench](overview.md#at-the-forge-bench) for how the bench works.
 
 {% hint style="info" %}
-Stock up on ingots before crafting Hardened gear — you'll need multiple ingots per item!
+Stock up on ingots before forging Hardened gear. You will need multiple ingots per item.
 {% endhint %}
 
 ---
