@@ -392,17 +392,42 @@ Customize armor stands with poses and settings.
 
 ## World Map
 
-View the server world map in your browser.
+View the live server map in your browser at **[oakheart.net/map](https://oakheart.net/map)**.
 
-### How to Access
+### What You'll See
 
-Visit the server's Squaremap URL (check in-game or Discord for the link).
+- **Live player positions** — everyone online right now; click a name in the side panel to jump to them
+- **Land claims** — claim boundaries drawn on the map; click one to see who owns it
+- **Every world** — switch between Overworld, Spawn, Nether, and The End
+- The world border and full explored terrain
 
-### Features
+### Measure: The Builder's Planning Tool
 
-- Chunk claim boundaries
-- World border
-- Full world exploration
+The ruler button (📏 *Measure distance*) in the top corner turns the map into a layout tool. It's the fastest way to plan a large build before you place a single block.
+
+- **Click to place points.** Each one snaps to a block and shows its exact X, Z coordinates
+- **Drag a point** to move it, or **right-click** it to remove it
+- **Click a line** to insert a new point partway along it
+- **Click your first point again** to close the shape, which gives you the enclosed area
+- Every segment is labelled with its length, plus a running total
+- In the Overworld it also shows the **Nether equivalent** distance, and in the Nether the Overworld equivalent, which makes portal linking much easier
+- **Copy** puts the whole thing on your clipboard: total distance, area, and every corner coordinate, ready to paste into Discord
+
+Press `Esc` to cancel a measurement in progress.
+
+> The map is top-down only, so it plans footprints, plot sizes, and distances. It won't show you height or elevation.
+
+### Bookmarks
+
+Open the side panel and use the **+** next to Bookmarks to save wherever you're looking, then click it later to jump straight back. Bookmarks live in your own browser, so they're private to you and don't follow you to another device.
+
+### Sharing and Fullscreen
+
+The link button copies a URL pointing at exactly the view you're on, so you can send someone a spot instead of describing it. The corner button goes fullscreen.
+
+### Hiding Your Location
+
+If you'd rather not show up on the map, turn on the map-hidden option in your in-game Player Settings menu. You'll still show in the online player list, but your position won't be shared.
 
 ---
 
