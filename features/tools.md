@@ -77,6 +77,7 @@ stick,_,_
 
 **Tips:**
 
+- Hold a block in your other hand to place that block instead of the one you clicked
 - Preview shows a glow outline before placing
 - Supports undo (up to 5 recent placements, expires after 5 minutes)
 
