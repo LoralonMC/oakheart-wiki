@@ -11,6 +11,8 @@ To create Reforged gear, you need:
 - **Rare materials** from exploration and combat
 - **{{item:emerald_block}}** as economy investment
 
+Enchantments, armour trim and wraps on the base item are carried onto the Reforged result. See [At the Forge Bench](overview.md#at-the-forge-bench) for how forging works.
+
 ---
 
 ## Reforged Recipes
@@ -90,7 +92,7 @@ All Reforged items come pre-enchanted. Every item includes **Unbreaking IV** plu
 
 ## Tips
 
-1. **Add Mending yourself** — Reforged gear does not come with Mending. Trade with villagers to get Mending books (this is an intentional emerald sink)
+1. **Add Mending yourself** — Reforged gear is not forged with Mending. Trade with villagers for a Mending book (this is an intentional emerald sink). If the item you bring already has it, it carries through the forge
 2. **Start with tools** — {{item:reforged_pickaxe}} makes farming other materials easier
 3. **Gather materials first** — Check what you need before visiting the smith
 4. **Use Token Trader** — Weekly smith materials available for Vote Tokens
