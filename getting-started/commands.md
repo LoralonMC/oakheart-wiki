@@ -201,7 +201,7 @@ Both players must have PvP enabled for combat.
 | `/playtime` | View your playtime |
 | `/playtimetop` | Playtime leaderboard |
 | `/afk` | Toggle AFK status |
-| `/tutorial` | Reopen the Welcome Book |
+| `/tutorial` | Reopen the Welcome Book (alias: `/guide`) |
 | `/overflow` | View overflow inventory (alias: `/of`) |
 | `/claimchunk` | Withdraw a chunk from your limit into a physical item (must have >4 chunks) |
 
