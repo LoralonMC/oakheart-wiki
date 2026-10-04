@@ -246,6 +246,10 @@ Mutes start short and get longer with repeat offenses. Staff choose the length b
 - Players who cooperate may receive reduced punishments
 - Staff will review evidence before decisions
 
+{% hint style="danger" %}
+**Evading your punishment in any way can result in extension**
+Talking through the discord in-game channel when you're muted/banned can get your punishment extended.
+{% endhint %}
 ---
 
 ## Staff & Moderation
