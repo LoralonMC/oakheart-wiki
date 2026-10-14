@@ -29,6 +29,7 @@ Equippable tags that show next to your name in chat. Pick your active tag from t
 | {{item:rose_chat_tag}} | Rose Crate |
 | {{item:lily_chat_tag}} | Lily Crate |
 | {{item:fae_chat_tag}} | Crystal Trader |
+| {{item:wendigo_chat_tag}} | Wendigo Crate (Halloween 2026 only) |
 
 ---
 
@@ -106,13 +107,14 @@ Custom elytra textures from paid crates. One pair per crate tier.
 | {{item:daisy_petal_wings}} | Daisy Crate |
 | {{item:rose_velvet_wings}} | Rose Crate |
 | {{item:lily_ethereal_wings}} | Lily Crate |
-| {{item:fae_elytra}} | Crystal Trader |
+| {{item:fae_wings}} | Crystal Trader |
+| {{item:wendigo_wings}} | Wendigo Crate (Halloween 2026 only) |
 
 ---
 
 ## Tool Wraps
 
-Wraps are visual skins for your tools. Drag a wrap onto any pickaxe, axe, shovel, hoe, or sword — wood through netherite — and the tool takes on the wrap's appearance. **Cosmetic only**, no stat changes.
+Wraps are visual skins for your tools. Drag a wrap onto a matching tool, any tier from wood to netherite, and it takes on the wrap's appearance. The Fae set covers the five tools; the Wendigo set covers every sword, axe, pickaxe, shovel, hoe and spear plus the bow, crossbow, shield, trident, fishing rod and mace. **Cosmetic only**, no stat changes.
 
 | Wrap | Source |
 |------|--------|
@@ -121,6 +123,7 @@ Wraps are visual skins for your tools. Drag a wrap onto any pickaxe, axe, shovel
 | {{item:fae_shovel_wrap}} | Crystal Trader |
 | {{item:fae_hoe_wrap}} | Crystal Trader |
 | {{item:fae_sword_wrap}} | Crystal Trader |
+| {{item:wendigo_sword_wrap}} and 11 more | Wendigo Crate (Halloween 2026 only) |
 
 ---
 
@@ -134,6 +137,7 @@ Custom messages that display when you join or leave the server. Unlock them from
 | {{item:grand_arrival_join_leave}} | Rose Crate | Elegant themed |
 | {{item:mist_walker_join_leave}} | Lily Crate | Mystical themed |
 | {{item:fae_glade_join_leave}} | Crystal Trader | Fae themed |
+| {{item:wendigo_join_leave}} | Wendigo Crate (Halloween 2026 only) | Northern folk horror |
 
 ---
 
