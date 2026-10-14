@@ -34,6 +34,7 @@
 * [Overview](crates/overview.md)
 * [Vote Crate](crates/vote-crate.md)
 * [Paid Crates](crates/paid-crates.md)
+* [Wendigo Crate](crates/wendigo-crate.md)
 * [Emerald Crate](crates/emerald-crate.md)
 
 ## Traders
