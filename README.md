@@ -18,9 +18,9 @@ When you join, you'll spawn at the great central oak tree in the heart of Oakhea
 
 **New to Oakheart? Here's how to begin:**
 
-1. **Spawn at the Oak Tree** — Meet Elder Oakworth for an optional tutorial
+1. **Spawn at the Oak Tree** — Elder Oakworth walks over to offer you a tour of the village
 2. **Explore the Village** — Visit shops, meet NPCs, and discover the marketplace
-3. **Enter the Wild** — Use the Ancient Stone Circle or `/wild` to find your home
+3. **Enter the Wild** — Walk through the Wild Portal or use `/wild` to find your home
 4. **Claim Your Land** — Run `/lands create <name>` then `/lands claim`
 5. **Set Your Home** — Use `/sethome <name>` to save your location
 6. **Start Trading** — Sell items at spawn shops for emeralds
