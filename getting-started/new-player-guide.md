@@ -1,6 +1,6 @@
 # New Player Guide
 
-Welcome to Oakheart! This guide will walk you through your first moments on the server and help you get established in the survival world.
+Welcome to Oakheart! This guide covers your first moments on the server and help you get established in the survival world.
 
 ---
 
@@ -14,40 +14,50 @@ You'll also find a **Welcome Book** in your inventory — a clickable in-game gu
 
 You also spawn with a **starter kit**: cottage armor, tools, food, torches, and a bed — enough to survive your first night.
 
-**Elder Oakworth**, the village elder, will greet you and offer an optional tutorial. We recommend accepting it if you're new—it takes only 2-3 minutes and rewards you with starter items!
+### Elder Oakworth's Welcome Walk
 
-### The Tutorial
+A few seconds after you arrive, **Elder Oakworth**, the village elder, walks over to greet you and offers to show you around. Say yes and he leads you on a short stroll through the village (about 3 minutes): Toby's toy shop, the market, the vote crate and crates, Hammerhand's forge and the Village Quest Board, with the villagers saying hello as he passes. Just follow him; a trail of golden sparkles shows the way, and he waits if you fall behind.
 
-If you accept Elder Oakworth's tutorial, you'll:
+The walk ends at the **Wild Portal**, where he hands you your starting gifts:
 
-1. **Take a quick village tour** — See the shops, crates area, and key locations
-2. **Learn about the economy** — Sell wheat at the Farmer's shop for your first emeralds
-3. **Discover the Ancient Stone Circle** — Learn how to reach the survival world
-4. **Get introduced to voting** — Support the server and earn daily rewards
-
-**Tutorial Rewards:**
 - {{item:emerald:16}}
 - 1x {{item:claim_chunk}}
 
+Prefer to explore on your own? Pick **"I'll find my own way"** and he gives you the Claim Chunk straight away. You can take the walk any time later: right-click Elder Oakworth beneath the oak and choose **"Walk the village again"**.
+
 {% hint style="info" %}
-**Skipped the tutorial?** No problem — run `/tutorial` anytime to reopen your **Welcome Book** for a quick command reference.
+On **Bedrock**, the Elder's lines appear in chat while you walk, so nothing blocks your view.
+{% endhint %}
+
+### First Roots
+
+Once you step through the portal, a short quest appears in your sidebar to help you settle in:
+
+1. **Claim land, or join a friend's.** Your own claim or being trusted on someone else's land both count.
+2. **Set a home there** with `/sethome`.
+3. **Place your bed.**
+
+Do them in any order. When all three are done, the Elder sends his congratulations. There's no reward: a protected base, a home and a respawn point are the reward.
+
+{% hint style="info" %}
+**Need a quick reference?** Run `/tutorial` anytime to reopen your **Welcome Book**.
 {% endhint %}
 
 ---
 
 ## Getting to the Survival World
 
-The **Ancient Stone Circle** near spawn is your gateway to the wilderness. You have two options:
+The **Wild Portal** at the north edge of spawn is your gateway to the wilderness. You have two options:
 
 | Method | How |
 |--------|-----|
-| Portal | Right-click the Ancient Stone Circle |
+| Portal | Walk through the Wild Portal |
 | Command | Type `/wild` |
 
 This teleports you to a random location in the survival world where you can start building.
 
 {% hint style="warning" %}
-**Tip:** Once you find a spot you like, immediately claim it and set a home so you can return!
+**Tip:** Once you find a spot you like, claim it and set a home right away so you can return!
 {% endhint %}
 
 ---
