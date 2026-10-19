@@ -31,6 +31,7 @@ Most of Oakheart works the same on Bedrock as on Java — claiming, voting, shop
 A few things behave a little differently on Bedrock:
 
 - **Custom textures** are delivered via a Bedrock resource pack on join. The first download may take a moment.
+- **Talking to villagers** opens a popup window: tap through each line, and pick answers from a dropdown. On Elder Oakworth's welcome walk his lines go to chat instead, so you can keep walking.
 - **Clickable links in books and chat** — Bedrock supports most of these, but some advanced hover and click interactions are Java-only.
 - **Some cosmetics** (hats over armor, certain pet animations) are designed for Java rendering and may look slightly different on Bedrock.
 
