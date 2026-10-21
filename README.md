@@ -10,7 +10,7 @@
 
 Oakheart is a community-focused Minecraft survival server where players build, trade, and adventure together in a cozy medieval village atmosphere. Our server emphasizes player interaction, physical shops, and collaborative gameplay.
 
-When you join, you'll spawn at the great central oak tree in the heart of Oakheart village—a magical clearing nestled within a dense oak forest. From here, venture through the Ancient Stone Circle into the survival world to begin your journey.
+When you join, you'll spawn at the great central oak tree in the heart of Oakheart village—a magical clearing nestled within a dense oak forest. From here, follow the north path to the Wild Portal and step through into the survival world to begin your journey.
 
 ---
 

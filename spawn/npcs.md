@@ -23,7 +23,7 @@ Greets new arrivals and explains the village's ways.
 
 ### Merchant Bramblewood
 **Role:** Vote Token Trader
-**Location:** Crates Pavilion
+**Location:** His tent on the south-east edge of the plaza
 *"Ah, vote tokens! The lifeblood of our community participation!"*
 
 Trade your {{item:vote_token}} for valuable rewards.
@@ -32,7 +32,7 @@ Trade your {{item:vote_token}} for valuable rewards.
 
 ### Crystalkeeper Shimmervale
 **Role:** Crystal Trader
-**Location:** Crates Pavilion
+**Location:** The Crystal Grotto, down the stairs under the Crates Pavilion
 *"These crystals hold the essence of fortune itself..."*
 
 Trade {{item:crate_crystal}} for guaranteed rewards.
@@ -95,7 +95,7 @@ Buys fish, kelp, and ocean treasures.
 
 ### Hammerhand the Smith
 **Role:** Custom Gear Forge
-**Location:** The Forge
+**Location:** The open smithy yard beside the Forge Hall
 *"Aye, need something forged? Bring me the real materials and I'll make you something proper."*
 
 Creates Reforged gear, {{item:hardened_netherite_ingot}}, and Hardened gear.
@@ -108,7 +108,7 @@ Creates Reforged gear, {{item:hardened_netherite_ingot}}, and Hardened gear.
 
 ### Wanderlust the Cartographer
 **Role:** Warp Master
-**Location:** Ancient Stone Circle
+**Location:** The Wild Portal
 *"Ah, you wish to travel? I know every path worth taking!"*
 
 Helps with player warps and navigation. Stationed at the gateway to the wilds.
@@ -117,7 +117,7 @@ Helps with player warps and navigation. Stationed at the gateway to the wilds.
 
 ### Quillfeather the Scribe
 **Role:** Land Registry & Shop Vendor
-**Location:** Corner desk inside Inn/Tavern
+**Location:** Just inside the Inn's east door
 *"Every plot must be properly registered, for order brings peace."*
 
 Sells claim chunks and Shopkeeper Spawn Eggs. Your one-stop NPC for establishing your presence on the server.
@@ -168,7 +168,7 @@ Tends the village gardens. No dedicated building—she roams between flower beds
 ---
 
 ### Pipesmoke the Innkeeper
-**Location:** Inn/Tavern (main area)
+**Location:** Behind the bar in the Inn
 *"Come in, come in! There's always room for one more!"*
 
 Knows all the village gossip. Runs the Inn/Tavern.

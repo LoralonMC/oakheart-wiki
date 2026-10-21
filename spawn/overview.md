@@ -23,11 +23,11 @@ Spawn is a cozy village built in a forest clearing, centered around a massive oa
 - **Great Oak Tree** — Spawn point and village centerpiece
 - **Village Square** — Open gathering area
 - **Village Quest Board** — Take on daily and weekly [quests](../features/quests.md)
-- **Ancient Stone Circle** — Portal to the survival world (`/wild`)
+- **Wild Portal** — The Wilds Gate at the top of the north path, your way into the survival world (`/wild`)
 
 ### Marketplace
 
-Five shops surround the central area:
+Five stalls line the market lane running east from the plaza:
 
 | Shop | Keeper | What They Buy |
 |------|--------|---------------|
@@ -41,11 +41,11 @@ Five shops surround the central area:
 
 | Building/Location | NPC | Purpose |
 |----------|-----|---------|
-| Forge | Hammerhand | Reforged & Hardened gear |
-| Crates Pavilion | Crystalkeeper Shimmervale | Vote & Paid crates + Crystal Trader |
-| Ancient Stone Circle | Wanderlust | Player warps |
+| Smithy yard (by the Forge Hall) | Hammerhand | Reforged & Hardened gear |
+| Crystal Grotto (under the Crates Pavilion) | Crystalkeeper Shimmervale | Vote & Paid crates + Crystal Trader |
+| Wild Portal | Wanderlust | Player warps |
 | Inn/Tavern | Pipesmoke & Quillfeather | Social hub + Land Registry + Shop Eggs |
-| Crates Pavilion | Merchant Bramblewood | Vote Token Trader |
+| Bramblewood's Tent (south-east of the plaza) | Merchant Bramblewood | Vote Token Trader |
 | Pet Shop | Velvetpaw | Pet management |
 | Cosmetics Shop | Silkthread | Cosmetics & fashion |
 | Toy Store | Toby Tinkertop | Novelty plushie collections |
@@ -55,14 +55,14 @@ Five shops surround the central area:
 - **Village Well** — Atmospheric gathering spot
 - **Scattered Gardens** — Tended by Rosepetal throughout the village
 - **Inn/Tavern** — Run by Pipesmoke, with Quillfeather's desk
-- **Small Pond** — Near the fisherman's stall
+- **The Lake** — South of the Crates Pavilion, reached by forest trails
 - **Village Square Bulletin Board** — Server announcements from Town Crier Loudvoice
 
 ---
 
 ## Getting to the Survival World
 
-From spawn, walk to the **Ancient Stone Circle** and step through to teleport to a random location in the wilderness. You can also use `/wild`.
+From spawn, walk up the north path to the **Wild Portal** and step through to teleport to a random location in the wilderness. You can also use `/wild`.
 
 ---
 
