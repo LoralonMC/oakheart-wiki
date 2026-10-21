@@ -45,7 +45,9 @@ Oakheart SMP is a community-focused survival server. These rules exist to ensure
 - Bypass chat filters or evade mutes
 
 ### Consequences
-Warnings first, then escalating mutes depending on severity.
+- **Slurs, racism, sexism:** permanent ban, no warning.
+- **Other discriminatory language:** warning, then a 5-day ban, a 30-day ban, then a permanent ban.
+- **Spam, advertising, other chat issues:** warnings first, then escalating mutes depending on severity.
 
 ---
 
@@ -242,9 +244,9 @@ Mutes start short and get longer with repeat offenses. Staff choose the length b
 - **Major** (hacking, duping, severe harassment): Longer bans up to permanent
 
 ### Appeals
-- All punishments can be appealed on Discord
+- All punishments can be appealed by opening a ticket on Discord
+- Staff review appeals within 48 hours and decide together by vote
 - Players who cooperate may receive reduced punishments
-- Staff will review evidence before decisions
 
 {% hint style="danger" %}
 **Evading your punishment in any way can result in extension**
