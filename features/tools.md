@@ -14,9 +14,6 @@ Harvesting Tools: excavator#groundbreaker, vein_miner#motherlode, lumberjack#tim
 
 Three craftable tools designed for survival building. All use iron durability, support Mending and Unbreaking enchantments, and can be repaired with {{item:iron_ingot}} in an anvil.
 
-{% hint style="info" %}
-**Don't want to craft?** Building tools are also available from the [Token Trader](../traders/token-trader.md) for {{item:vote_token:60-70}}.
-{% endhint %}
 
 ### File
 
@@ -92,7 +89,7 @@ A vanilla-style tiered tool that harvests mature crops in an area and automatica
 | Wooden    | Single block | Planks                    |
 | Stone     | 3×3         | Cobblestone               |
 | Iron      | 5×5         | Iron Ingots               |
-| Gold      | 3×3         | Gold Ingots               |
+| Gold      | 11×11       | Gold Ingots               |
 | Diamond   | 7×7         | Diamonds                  |
 | Netherite | 9×9         | Upgrade at smithing table |
 

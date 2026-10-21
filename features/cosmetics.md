@@ -54,8 +54,8 @@ Six oversized plushies available only from the Crystal Trader. The MEGA versions
 | {{item:nm_plushie_iron_golem}} | {{item:crate_crystal:25}} |
 | {{item:nm_plushie_ravager}} | {{item:crate_crystal:25}} |
 | {{item:nm_plushie_elder_guardian}} | {{item:crate_crystal:25}} |
-| {{item:nm_plushie_warden}} | {{item:crate_crystal:30}} |
-| {{item:nm_plushie_wither}} | {{item:crate_crystal:30}} |
+| {{item:nm_plushie_warden}} | {{item:crate_crystal:25}} |
+| {{item:nm_plushie_wither}} | {{item:crate_crystal:25}} |
 
 ---
 
