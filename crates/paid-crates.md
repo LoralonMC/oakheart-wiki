@@ -69,7 +69,7 @@ Paid Crates have three rarity tiers. The loot tables below show exact per-item p
 - **Legendary** (~2%) — A store rank voucher. The marquee reward of each crate.
 
 {% hint style="info" %}
-**How odds work:** Each item within a tier has equal weight. Tiers with more items spread the roll across more rewards — so the *tier total* stays the same, but any single item in a crowded tier is rarer than one in a sparse tier.
+**How odds work:** Every reward has its own weight, set by its rarity: Uncommon 10, Epic 6, Legendary 4. Your chance of a reward is its weight divided by the total weight of everything in the crate, which is the percentage shown in the tables. That's why Uncommon, with the most rewards, lands about 80% of the time.
 {% endhint %}
 
 {% hint style="info" %}

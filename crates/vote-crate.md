@@ -22,7 +22,7 @@ VoteCrate
 ```
 
 {% hint style="info" %}
-Each opening rolls a rarity tier first (shown on each item's tooltip), then randomly picks one item from that tier. Rarer tiers have fewer items, so each individual reward within a rare tier is more likely to appear when that tier is rolled.
+Every reward has its own weight, set by its rarity: Common 50, Uncommon 30, Rare 15, Epic 6, Legendary 2.5, Mythic 1. Your chance of a reward is its weight divided by the total weight of everything in the crate, which is the percentage shown for each item. A rarity with more rewards in it takes a bigger share of rolls.
 {% endhint %}
 
 ---
