@@ -19,7 +19,7 @@ Voting on all 5 sites daily = 5 Vote Points per day. Rank 20 requires 1,000 vote
 
 **Notes:**
 - Each site has a **24-hour cooldown** from your last vote on it
-- Vote Points are cumulative — they never reset, so you keep progressing even if you miss days
+- Vote Points are cumulative: missing days never costs you progress. The one reset is [Prestige](prestige.md), which starts your points over at 0 (your lifetime vote total keeps counting)
 
 ---
 
