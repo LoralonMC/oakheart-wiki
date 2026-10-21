@@ -100,20 +100,6 @@ featured: true
 
 ---
 
-## Velvetpaw the Pet Keeper
-
-**Location:** Pet Shop at spawn
-
-Velvetpaw is a friendly resident at spawn — a gentle soul surrounded by various animals.
-
-*"Every creature deserves love and a good home."*
-
-{% hint style="info" %}
-**Currently flavor only.** All pets are delivered automatically (rank perms, crate rewards, mob drops) so Velvetpaw doesn't gate anything you need. We may add services here post-launch — pet renaming, a collection codex, cosmetic accessories — but nothing's needed from her right now.
-{% endhint %}
-
----
-
 ## Managing Your Pets
 
 Open the pet menu with **`/pets`** — summon or dismiss companions, give them a **custom name** (up to 24 characters), and mark a **favorite**. Pets are purely cosmetic: no combat, no inventory, just charm.

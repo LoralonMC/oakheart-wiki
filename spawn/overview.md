@@ -43,20 +43,15 @@ Five stalls line the market lane running east from the plaza:
 |----------|-----|---------|
 | Smithy yard (by the Forge Hall) | Hammerhand | Reforged & Hardened gear |
 | Crystal Grotto (under the Crates Pavilion) | Crystalkeeper Shimmervale | Vote & Paid crates + Crystal Trader |
-| Wild Portal | Wanderlust | Player warps |
 | Inn/Tavern | Pipesmoke & Quillfeather | Social hub + Land Registry + Shop Eggs |
 | Bramblewood's Tent (south-east of the plaza) | Merchant Bramblewood | Vote Token Trader |
-| Pet Shop | Velvetpaw | Pet management |
-| Cosmetics Shop | Silkthread | Cosmetics & fashion |
 | Toy Store | Toby Tinkertop | Novelty plushie collections |
 
 ### Atmosphere
 
 - **Village Well** — Atmospheric gathering spot
-- **Scattered Gardens** — Tended by Rosepetal throughout the village
 - **Inn/Tavern** — Run by Pipesmoke, with Quillfeather's desk
 - **The Lake** — South of the Crates Pavilion, reached by forest trails
-- **Village Square Bulletin Board** — Server announcements from Town Crier Loudvoice
 
 ---
 
