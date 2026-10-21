@@ -106,15 +106,6 @@ Creates Reforged gear, {{item:hardened_netherite_ingot}}, and Hardened gear.
 
 ## Community Services
 
-### Wanderlust the Cartographer
-**Role:** Warp Master
-**Location:** The Wild Portal
-*"Ah, you wish to travel? I know every path worth taking!"*
-
-Helps with player warps and navigation. Stationed at the gateway to the wilds.
-
----
-
 ### Quillfeather the Scribe
 **Role:** Land Registry & Shop Vendor
 **Location:** Just inside the Inn's east door
@@ -127,24 +118,6 @@ Sells claim chunks and Shopkeeper Spawn Eggs. Your one-stop NPC for establishing
 ---
 
 ## Specialty Services
-
-### Velvetpaw the Pet Keeper
-**Role:** Pet Shop Owner
-**Location:** Pet Shop
-*"Every creature deserves love and a good home."*
-
-A gentle soul surrounded by various animals. Speaks to animals better than people. Visit Velvetpaw for all your pet needs.
-
----
-
-### Silkthread the Tailor
-**Role:** Cosmetics Shop Owner
-**Location:** Cosmetics Shop
-*"Darling, you simply MUST try this new ensemble!"*
-
-Fashionable NPC with an eye for style. Dramatic personality who treats fashion as art. Visit for cosmetic options and outfit customization.
-
----
 
 ### Toby Tinkertop
 **Role:** Toy Store Owner
@@ -159,14 +132,6 @@ Sells novelty plushies ({{item:emerald:40}} each) plus figures, adorables, and c
 
 ## Atmospheric NPCs
 
-### Rosepetal the Florist
-**Location:** Tending scattered gardens throughout the village
-*"Each flower has its own story, just like each villager."*
-
-Tends the village gardens. No dedicated building—she roams between flower beds.
-
----
-
 ### Pipesmoke the Innkeeper
 **Location:** Behind the bar in the Inn
 *"Come in, come in! There's always room for one more!"*
@@ -174,22 +139,6 @@ Tends the village gardens. No dedicated building—she roams between flower beds
 Knows all the village gossip. Runs the Inn/Tavern.
 
 *✦ Posts requests on the [Village Quest Board](../features/quests.md) — cooked food and cellar stock.*
-
----
-
-### Town Crier Loudvoice
-**Location:** Village Square near the bulletin board
-*"Hear ye, hear ye! Important news for all citizens of Oakheart!"*
-
-Announces server news and updates.
-
----
-
-### Festivus the Decorator
-**Location:** Roams the village
-*"Oh my! Have you seen the autumn decorations? Simply divine!"*
-
-Changes appearance with each season and holiday.
 
 ---
 
