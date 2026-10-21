@@ -42,9 +42,9 @@ Use `/trade <player>` for a secure trading GUI.
 
 ## Ranks & Progression
 
-**Q: Why can't I enter The End?**
+**Q: Is The End open?**
 
-The End is sealed until **September 5, 2026 at 18:00 UTC** — it opens as a server-wide event. Watch the countdown holograms at any End portal!
+Yes. The End opened on **September 5, 2026** as a server-wide event and is open to everyone.
 
 **Q: How do I rank up?**
 

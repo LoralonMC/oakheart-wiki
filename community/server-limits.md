@@ -28,13 +28,13 @@ If you try to place a block past the limit, the server tells you and stops the p
 
 | Category | Cap |
 |----------|-----|
-| **Hostile mobs** | 40 |
+| **Hostile mobs** | 30 |
 | **Animals** | Vanilla |
 | **Axolotls** | Vanilla |
 | **Fish and water mobs** | Slightly reduced |
 | **Bats** | Off |
 
-The hostile cap is 40 instead of Minecraft's 70. In exchange, the cap is **per player**, so nobody else's farm competes with yours. On a busy server this usually means *more* mobs for you, not fewer.
+The hostile cap is 30 instead of Minecraft's 70. In exchange, the cap is **per player**, so nobody else's farm competes with yours. On a busy server this usually means *more* mobs for you, not fewer.
 
 Two other things affect farm rates:
 

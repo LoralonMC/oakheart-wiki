@@ -9,9 +9,10 @@ Oakheart features multiple crate types that reward you with valuable items, reso
 | Crate | How to Get Keys | Location |
 |-------|-----------------|----------|
 | **Vote Crate** | Voting (5 keys/day max) | Spawn - Crates Pavilion |
-| **Paid Crate Tier 1** | Store purchase | Spawn - Crates Pavilion |
-| **Paid Crate Tier 2** | Store purchase | Spawn - Crates Pavilion |
-| **Paid Crate Tier 3** | Store purchase | Spawn - Crates Pavilion |
+| **Daisy Crate** | Store purchase | Spawn - Crates Pavilion |
+| **Rose Crate** | Store purchase | Spawn - Crates Pavilion |
+| **Lily Crate** | Store purchase | Spawn - Crates Pavilion |
+| **Wendigo Crate** | Store purchase (Halloween 2026, sold until November 15) | Spawn - Crates Pavilion |
 | **Emerald Crate** | Coming soon (post-launch update) | Spawn - Crates Pavilion |
 | **Seasonal Crate** | Coming soon (seasonal events) | Spawn - Crates Pavilion |
 
@@ -58,9 +59,9 @@ Higher tiers have better chances at rare items, exclusive pets, cosmetics, and r
 
 ## Emerald Crate
 
-**Price:** {{item:emerald_block:64}} (576 emeralds) per key.
+**Coming soon** in a post-launch update. Planned price: {{item:emerald_block:64}} (576 emeralds) per key.
 
-A cosmetics-focused crate for late-game players looking to spend their emerald fortune. Every open gives you either a cosmetic collectible (~69%) or a troll junk drop (~31%) — it's a fun gamble, not a resource farm!
+A planned cosmetics-focused crate for late-game players looking to spend their emerald fortune. Every open gives you either a cosmetic collectible (~69%) or a troll junk drop (~31%) — it's a fun gamble, not a resource farm!
 
 [See Emerald Crate details →](emerald-crate.md)
 
@@ -81,5 +82,6 @@ Seasonal crates contain **exclusive items** only available during that event.
 
 - [Vote Crate](vote-crate.md) — Full loot table
 - [Paid Crates](paid-crates.md) — Store crate details
+- [Wendigo Crate](wendigo-crate.md) — Halloween 2026 crate
 - [Emerald Crate](emerald-crate.md) — Emerald sink crate
 - [Traders Overview](../traders/overview.md) — Token and Crystal Traders
