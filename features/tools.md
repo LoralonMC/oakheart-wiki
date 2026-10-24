@@ -3,7 +3,7 @@
 Oakheart has custom tools split into two categories: **building tools** for creative construction, and **harvesting tools** for efficient resource gathering.
 
 {% quicknav %}
-Building Tools: file, trowel, wand#builders-wand
+Building Tools: file, trowel, wand#builders-wand, verdigris_can#verdigris-can
 Sickle: iron_sickle#sickle
 Harvesting Tools: excavator#groundbreaker, vein_miner#motherlode, lumberjack#timberfall
 {% endquicknav %}
@@ -12,7 +12,7 @@ Harvesting Tools: excavator#groundbreaker, vein_miner#motherlode, lumberjack#tim
 
 ## Building Tools
 
-Three craftable tools designed for survival building. All use iron durability, support Mending and Unbreaking enchantments, and can be repaired with {{item:iron_ingot}} in an anvil.
+Craftable tools designed for survival building. All support Mending and Unbreaking. The File, Trowel and Builder's Wand use iron durability and are repaired with {{item:iron_ingot}} in an anvil.
 
 
 ### File
@@ -77,6 +77,24 @@ stick,_,_
 - Hold a block in your other hand to place that block instead of the one you clicked
 - Preview shows a glow outline before placing
 - Supports undo (up to 5 recent placements, expires after 5 minutes)
+
+### Verdigris Can
+
+Ages copper on the spot. In vanilla, copper only weathers by waiting and an axe only scrapes it back. The Verdigris Can covers the other direction.
+
+**Right-click** a copper block to advance it one stage: Copper, Exposed, Weathered, Oxidized. Each stage costs 1 durability.
+
+```crafting
+copper_ingot,_,copper_ingot
+_,copper_ingot,_
+_,_,_
+=> verdigris_can
+```
+
+- Works on every copper block, including stairs, slabs, doors, trapdoors, chests, bars, chains, lanterns, grates, bulbs and golem statues. Stairs keep their shape and doors their hinge.
+- **Waxed copper is never affected.** Wax anything you want to keep as it is.
+- Went too far? Scrape it back a stage with an axe.
+- 250 durability. Repair with {{item:copper_ingot}} in an anvil (each ingot restores a quarter).
 
 ---
 
