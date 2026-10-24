@@ -22,7 +22,7 @@ Vote on all 5 sites daily with `/vote` to maximize your token income!
 
 ## Weekly-Limited Items
 
-These items have purchase limits that **reset every Monday at 00:00 server time**.
+These limits are **per player** and **reset every Monday at 00:00 server time**. Other players buying never uses up your limit.
 
 {% hint style="info" %}
 **Why limits?** Weekly caps on rare items prevent bypassing the natural progression grind while still helping dedicated voters.

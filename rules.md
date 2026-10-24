@@ -124,7 +124,7 @@ Ban length depends on the offense. Duping is an immediate permanent ban.
 - Trade real money for in-game items (except official store)
 
 ### Spawn Shop Limits
-Each shop has per-player daily limits. These reset automatically. Don't attempt to bypass them with alt accounts.
+Each spawn shop has per-player limits (daily or weekly, depending on the shop). These reset automatically. Don't attempt to bypass them with alt accounts.
 
 ### Consequences
 Warning → Trade restrictions → Temp ban → Economy reset + Permanent ban
