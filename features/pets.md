@@ -64,23 +64,23 @@ Each store rank comes with an **exclusive pet companion** matching the rank anim
 
 {% pets %}
 name: Hedgehog Pet
-image: /assets/pets/md_hedgehog_pet.gif
+image: /assets/pets/md_hedgehog_pet.webp
 subtitle: Hedgehog Rank — $10
 
 name: Squirrel Pet
-image: /assets/pets/md_squirrel_pet.gif
+image: /assets/pets/md_squirrel_pet.webp
 subtitle: Squirrel Rank — $25
 
 name: Otter Pet
-image: /assets/pets/md_otter_pet.gif
+image: /assets/pets/md_otter_pet.webp
 subtitle: Otter Rank — $50
 
 name: Owl Pet
-image: /assets/pets/md_owl_pet.gif
+image: /assets/pets/md_owl_pet.webp
 subtitle: Owl Rank — $100
 
 name: Phoenix Pet
-image: /assets/pets/md_phoenix_pet.gif
+image: /assets/pets/md_phoenix_pet.webp
 subtitle: Phoenix Rank — $10/mo
 featured: true
 {% endpets %}
