@@ -42,6 +42,7 @@ To create Hardened gear, you need:
 | {{item:hardened_pickaxe}} | {{item:reforged_pickaxe}}, {{item:hardened_copper_ingot:10}}, {{item:deepslate:256}} |
 | {{item:hardened_shovel}} | {{item:reforged_shovel}}, {{item:hardened_copper_ingot:8}}, {{item:sculk_catalyst:24}} |
 | {{item:hardened_hoe}} | {{item:reforged_hoe}}, {{item:hardened_gold_ingot:8}}, {{item:chorus_flower:32}} |
+| {{item:hardened_sickle}} | {{item:reforged_sickle}}, {{item:hardened_gold_ingot:10}}, {{item:torchflower_seeds:16}} |
 | {{item:hardened_fishing_rod}} | {{item:reforged_fishing_rod}}, {{item:hardened_gold_ingot:8}}, {{item:nautilus_shell:16}} |
 
 ### Other
@@ -88,6 +89,7 @@ All Hardened items are **Unbreakable** (never lose durability) and have maximum 
 | {{item:hardened_shovel}} (Fortune) | Efficiency VIII, Fortune V |
 | {{item:hardened_shovel}} (Silk Touch) | Efficiency VIII, Silk Touch I |
 | {{item:hardened_hoe}} | Efficiency VIII, Fortune V |
+| {{item:hardened_sickle}} | Efficiency VIII, Fortune V, harvests 11×11 |
 | {{item:hardened_fishing_rod}} | Luck of the Sea VIII, Lure IV |
 
 {% hint style="info" %}

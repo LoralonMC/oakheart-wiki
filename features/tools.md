@@ -110,6 +110,8 @@ A vanilla-style tiered tool that harvests mature crops in an area and automatica
 | Gold      | 11×11       | Gold Ingots               |
 | Diamond   | 7×7         | Diamonds                  |
 | Netherite | 9×9         | Upgrade at smithing table |
+| Reforged  | 11×11       | Forged by [the Smith](../smith/reforged-gear.md) |
+| Hardened  | 11×11       | Forged by [the Smith](../smith/hardened-gear.md) |
 
 ```crafting
 _,iron_ingot,iron_ingot

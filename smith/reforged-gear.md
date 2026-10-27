@@ -44,6 +44,7 @@ Enchantments, armour trim and wraps on the base item are carried onto the Reforg
 | {{item:reforged_pickaxe}} | {{item:netherite_pickaxe}}, {{item:music_disc_otherside}}, {{item:ancient_debris:8}}, {{item:emerald_ore:24}} |
 | {{item:reforged_shovel}} | {{item:netherite_shovel}}, {{item:enchanted_golden_apple}}, {{item:sculk_catalyst:16}}, {{item:crying_obsidian:32}} |
 | {{item:reforged_hoe}} | {{item:netherite_hoe}}, {{item:sniffer_egg}}, {{item:chorus_flower:42}}, {{item:emerald_block:24}} |
+| {{item:reforged_sickle}} | {{item:netherite_sickle}}, {{item:pitcher_pod:16}}, {{item:wither_rose:16}}, {{item:emerald_block:24}} |
 | {{item:reforged_fishing_rod}} | {{item:fishing_rod}}, {{item:nautilus_shell:12}}, {{item:music_disc_creator}}, {{item:emerald_ore:20}} |
 
 ### Other
@@ -86,6 +87,7 @@ All Reforged items come pre-enchanted. Every item includes **Unbreaking IV** plu
 | {{item:reforged_pickaxe}} | Efficiency VI |
 | {{item:reforged_shovel}} | Efficiency VI |
 | {{item:reforged_hoe}} | Efficiency VI |
+| {{item:reforged_sickle}} | Efficiency VI, harvests 11×11 |
 | {{item:reforged_fishing_rod}} | Lure III, Luck of the Sea VI |
 
 ---

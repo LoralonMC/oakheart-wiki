@@ -37,7 +37,7 @@ Hardened Ingots are crafting materials made from massive amounts of blocks and r
 | {{item:heart_of_the_sea}} | 4 |
 | {{item:emerald_block}} | 24 |
 
-**Used for:** Leggings, Bow, Hoe, Trident, Fishing Rod
+**Used for:** Leggings, Bow, Hoe, Sickle, Trident, Fishing Rod
 
 ---
 
@@ -82,6 +82,7 @@ Stock up on ingots before forging Hardened gear. You will need multiple ingots p
 | {{item:hardened_pickaxe}} | Copper | 10 |
 | {{item:hardened_shovel}} | Copper | 8 |
 | {{item:hardened_hoe}} | Gold | 8 |
+| {{item:hardened_sickle}} | Gold | 10 |
 | {{item:hardened_crossbow}} | Copper | 12 |
 | {{item:hardened_trident}} | Gold | 14 |
 | {{item:hardened_mace}} | Netherite | 16 |
