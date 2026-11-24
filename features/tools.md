@@ -30,9 +30,11 @@ Right-click supported blocks to modify their appearance:
 | Slabs                          | Toggle top/bottom placement                              |
 | Directional Blocks             | Change facing (observers, pistons, glazed terracotta)    |
 
+
 {% hint style="warning" %}
 The file can't change the direction of container blocks (dropper, dispenser, hopper, chest, barrel, shulker box, and all furnace variants)
 {% endhint %}
+
 
 ```crafting
 _,_,iron_ingot
